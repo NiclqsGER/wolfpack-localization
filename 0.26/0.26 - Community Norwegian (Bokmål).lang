@@ -1,0 +1,1353 @@
+{
+  "header": "Community (AI) Norwegian (Bokmål)",
+  "pairs": [
+    {
+      "key": -1,
+      "value": "UGYLDIG"
+    },
+    {
+      "key": 0,
+      "value": "UNCACHED"
+    },
+    {
+      "key": 20,
+      "value": "Spill"
+    },
+    {
+      "key": 21,
+      "value": "Manuell"
+    },
+    {
+      "key": 22,
+      "value": "Alternativer"
+    },
+    {
+      "key": 23,
+      "value": "Redaktør"
+    },
+    {
+      "key": 24,
+      "value": "Verksted"
+    },
+    {
+      "key": 25,
+      "value": "Studiepoeng"
+    },
+    {
+      "key": 26,
+      "value": "Slutt"
+    },
+    {
+      "key": 4,
+      "value": "Nyheter"
+    },
+    {
+      "key": 3,
+      "value": "Versjon"
+    },
+    {
+      "key": 5,
+      "value": "Språk"
+    },
+    {
+      "key": 6,
+      "value": "På"
+    },
+    {
+      "key": 7,
+      "value": "Av"
+    },
+    {
+      "key": 8,
+      "value": "Aktivert"
+    },
+    {
+      "key": 9,
+      "value": "Funksjonshemmet"
+    },
+    {
+      "key": 10,
+      "value": "Vis"
+    },
+    {
+      "key": 11,
+      "value": "Skjul"
+    },
+    {
+      "key": 12,
+      "value": "Enhver"
+    },
+    {
+      "key": 13,
+      "value": "Ja"
+    },
+    {
+      "key": 14,
+      "value": "Nei"
+    },
+    {
+      "key": 15,
+      "value": "Tid"
+    },
+    {
+      "key": 16,
+      "value": "Start"
+    },
+    {
+      "key": 17,
+      "value": "Leketid"
+    },
+    {
+      "key": 18,
+      "value": "Tilfeldig"
+    },
+    {
+      "key": 19,
+      "value": "Publiser"
+    },
+    {
+      "key": 1,
+      "value": "Tilbake"
+    },
+    {
+      "key": 2,
+      "value": "Gå"
+    },
+    {
+      "key": 27,
+      "value": "Lyd"
+    },
+    {
+      "key": 28,
+      "value": "Video"
+    },
+    {
+      "key": 29,
+      "value": "Tastatur"
+    },
+    {
+      "key": 30,
+      "value": "Mus"
+    },
+    {
+      "key": 31,
+      "value": "Spill"
+    },
+    {
+      "key": 32,
+      "value": "Vann"
+    },
+    {
+      "key": 33,
+      "value": "Etterbehandling"
+    },
+    {
+      "key": 34,
+      "value": "Hovedvolum"
+    },
+    {
+      "key": 35,
+      "value": "Musikkvolum"
+    },
+    {
+      "key": 36,
+      "value": "Effekter Volum"
+    },
+    {
+      "key": 37,
+      "value": "VOIP-volum"
+    },
+    {
+      "key": 38,
+      "value": "Volum i brukergrensesnittet"
+    },
+    {
+      "key": 39,
+      "value": "Volum på mikrofonen"
+    },
+    {
+      "key": 40,
+      "value": "Push-To-Talk"
+    },
+    {
+      "key": 41,
+      "value": "Vis push-to-talk-tips på displayet"
+    },
+    {
+      "key": 42,
+      "value": "Spill av morseinngang"
+    },
+    {
+      "key": 43,
+      "value": "Spilloppløsning"
+    },
+    {
+      "key": 44,
+      "value": "Visningsmodus"
+    },
+    {
+      "key": 45,
+      "value": "Vertikal synkronisering"
+    },
+    {
+      "key": 46,
+      "value": "Grense for bildefrekvens"
+    },
+    {
+      "key": 47,
+      "value": "Teksturoppløsning"
+    },
+    {
+      "key": 48,
+      "value": "Anisotropisk filtrering"
+    },
+    {
+      "key": 49,
+      "value": "Skygger"
+    },
+    {
+      "key": 50,
+      "value": "Eksklusiv fullskjerm"
+    },
+    {
+      "key": 51,
+      "value": "Vindu uten grenser"
+    },
+    {
+      "key": 52,
+      "value": "Maksimert vindu"
+    },
+    {
+      "key": 53,
+      "value": "Vindu"
+    },
+    {
+      "key": 54,
+      "value": "Hver ramme"
+    },
+    {
+      "key": 55,
+      "value": "Annenhver ramme"
+    },
+    {
+      "key": 56,
+      "value": "Lavere"
+    },
+    {
+      "key": 57,
+      "value": "Lav"
+    },
+    {
+      "key": 58,
+      "value": "Middels"
+    },
+    {
+      "key": 59,
+      "value": "Høy"
+    },
+    {
+      "key": 60,
+      "value": "Svært høy"
+    },
+    {
+      "key": 61,
+      "value": "Ultra"
+    },
+    {
+      "key": 62,
+      "value": "Overkill"
+    },
+    {
+      "key": 63,
+      "value": "Maks."
+    },
+    {
+      "key": 64,
+      "value": "Følsomhet for kamerarotasjon"
+    },
+    {
+      "key": 65,
+      "value": "Følsomhet for markørinteraksjon"
+    },
+    {
+      "key": 66,
+      "value": "Intensitet på rullehjulet"
+    },
+    {
+      "key": 67,
+      "value": "Markørskala"
+    },
+    {
+      "key": 68,
+      "value": "Inverter mus"
+    },
+    {
+      "key": 69,
+      "value": "Kartlinjeskala"
+    },
+    {
+      "key": 70,
+      "value": "Skala for kartskrift"
+    },
+    {
+      "key": 71,
+      "value": "Vis navneskilt"
+    },
+    {
+      "key": 72,
+      "value": "Vis verktøytips"
+    },
+    {
+      "key": 73,
+      "value": "Vis teller for bildefrekvens"
+    },
+    {
+      "key": 74,
+      "value": "Vis veiledning ved spillstart"
+    },
+    {
+      "key": 75,
+      "value": "Aktivere kamerasvingning"
+    },
+    {
+      "key": 76,
+      "value": "Synsfelt"
+    },
+    {
+      "key": 77,
+      "value": "Menybakgrunnens opasitet"
+    },
+    {
+      "key": 78,
+      "value": "Vannoppløsning"
+    },
+    {
+      "key": 79,
+      "value": "Partikkelantall i vannspray"
+    },
+    {
+      "key": 80,
+      "value": "Dynamisk skumkvalitet"
+    },
+    {
+      "key": 81,
+      "value": "Forhåndsvisning av vann"
+    },
+    {
+      "key": 82,
+      "value": "Omgivende okklusjon i skjermbildet"
+    },
+    {
+      "key": 83,
+      "value": "Refleksjon i skjermbildet"
+    },
+    {
+      "key": 84,
+      "value": "Anti-Aliasing"
+    },
+    {
+      "key": 85,
+      "value": "Blomstring"
+    },
+    {
+      "key": 86,
+      "value": "Korrigering av lysstyrke"
+    },
+    {
+      "key": 87,
+      "value": "Dither"
+    },
+    {
+      "key": 88,
+      "value": "Uskarphet i bevegelse"
+    },
+    {
+      "key": 89,
+      "value": "Dybdeskarphet"
+    },
+    {
+      "key": 90,
+      "value": "Kromatisk aberrasjon"
+    },
+    {
+      "key": 91,
+      "value": "Åpne mappen Språk"
+    },
+    {
+      "key": 92,
+      "value": "Last inn språk på nytt"
+    },
+    {
+      "key": 93,
+      "value": "Tilbakestill alle innstillinger"
+    },
+    {
+      "key": 94,
+      "value": "Finn lobbyen"
+    },
+    {
+      "key": 95,
+      "value": "Opprett lobby"
+    },
+    {
+      "key": 96,
+      "value": "Filtre"
+    },
+    {
+      "key": 97,
+      "value": "Avstand til lobbyen"
+    },
+    {
+      "key": 98,
+      "value": "Passord"
+    },
+    {
+      "key": 99,
+      "value": "Bots"
+    },
+    {
+      "key": 100,
+      "value": "Fulle lobbyer"
+    },
+    {
+      "key": 101,
+      "value": "Lekestil"
+    },
+    {
+      "key": 102,
+      "value": "Avslappet"
+    },
+    {
+      "key": 103,
+      "value": "Hardcore"
+    },
+    {
+      "key": 104,
+      "value": "Rollespill"
+    },
+    {
+      "key": 105,
+      "value": "Lukk"
+    },
+    {
+      "key": 106,
+      "value": "Standardinnstilling"
+    },
+    {
+      "key": 107,
+      "value": "Langt unna"
+    },
+    {
+      "key": 108,
+      "value": "Over hele verden"
+    },
+    {
+      "key": 111,
+      "value": "Tittel"
+    },
+    {
+      "key": 112,
+      "value": "Beskrivelse"
+    },
+    {
+      "key": 113,
+      "value": "Synlighet"
+    },
+    {
+      "key": 114,
+      "value": "Venner kan invitere til lobbyen"
+    },
+    {
+      "key": 115,
+      "value": "Skjult"
+    },
+    {
+      "key": 116,
+      "value": "Kun for venner"
+    },
+    {
+      "key": 117,
+      "value": "Offentlig"
+    },
+    {
+      "key": 109,
+      "value": "Oppdater"
+    },
+    {
+      "key": 110,
+      "value": "Opprett"
+    },
+    {
+      "key": 118,
+      "value": "Orientering om oppdraget"
+    },
+    {
+      "key": 119,
+      "value": "Innstillinger for vanskelighetsgrad"
+    },
+    {
+      "key": 120,
+      "value": "Scenario"
+    },
+    {
+      "key": 121,
+      "value": "Bestillinger"
+    },
+    {
+      "key": 122,
+      "value": "Generelt"
+    },
+    {
+      "key": 123,
+      "value": "Klokkeslett og dato"
+    },
+    {
+      "key": 124,
+      "value": "Vær"
+    },
+    {
+      "key": 125,
+      "value": "Oppdrag"
+    },
+    {
+      "key": 126,
+      "value": "Vanskelighetsgrad"
+    },
+    {
+      "key": 127,
+      "value": "Spillmodus"
+    },
+    {
+      "key": 128,
+      "value": "Dag"
+    },
+    {
+      "key": 129,
+      "value": "Måned"
+    },
+    {
+      "key": 130,
+      "value": "År"
+    },
+    {
+      "key": 131,
+      "value": "Tid på dagen"
+    },
+    {
+      "key": 132,
+      "value": "Beliggenhet"
+    },
+    {
+      "key": 133,
+      "value": "Vindhastighet"
+    },
+    {
+      "key": 134,
+      "value": "Vindretning"
+    },
+    {
+      "key": 135,
+      "value": "Dato"
+    },
+    {
+      "key": 136,
+      "value": "Tåke"
+    },
+    {
+      "key": 137,
+      "value": "Automatisk navigasjon"
+    },
+    {
+      "key": 138,
+      "value": "Vennlig ildgivning"
+    },
+    {
+      "key": 139,
+      "value": "Besetningsmedlemmer som ikke er spillere"
+    },
+    {
+      "key": 140,
+      "value": "Forenklet radio"
+    },
+    {
+      "key": 141,
+      "value": "Realistisk stemmedemping"
+    },
+    {
+      "key": 142,
+      "value": "Raskt møte"
+    },
+    {
+      "key": 143,
+      "value": "Automatisk motor"
+    },
+    {
+      "key": 144,
+      "value": "Konvoien endrer retning med jevne mellomrom"
+    },
+    {
+      "key": 145,
+      "value": "Ledsagere bruker alltid aktiv ekkolodd"
+    },
+    {
+      "key": 146,
+      "value": "Forfølgelsestid for eskorte"
+    },
+    {
+      "key": 147,
+      "value": "Konvoistørrelse"
+    },
+    {
+      "key": 148,
+      "value": "Realistisk omladningshastighet for torpedoer"
+    },
+    {
+      "key": 149,
+      "value": "Defekte torpedoer"
+    },
+    {
+      "key": 150,
+      "value": "Begrenset torpedonøyaktighet"
+    },
+    {
+      "key": 151,
+      "value": "Torpedoutløseren avhenger av vinkelen"
+    },
+    {
+      "key": 152,
+      "value": "Inviter venner"
+    },
+    {
+      "key": 153,
+      "value": "Start spillet"
+    },
+    {
+      "key": 154,
+      "value": "Trefning"
+    },
+    {
+      "key": 155,
+      "value": "Veiledning"
+    },
+    {
+      "key": 156,
+      "value": "Biscayabukten"
+    },
+    {
+      "key": 157,
+      "value": "Nordsjøen"
+    },
+    {
+      "key": 158,
+      "value": "Norskehavet"
+    },
+    {
+      "key": 159,
+      "value": "Østersjøen"
+    },
+    {
+      "key": 160,
+      "value": "Liten"
+    },
+    {
+      "key": 161,
+      "value": "Normal"
+    },
+    {
+      "key": 162,
+      "value": "Stor"
+    },
+    {
+      "key": 163,
+      "value": "Kort"
+    },
+    {
+      "key": 164,
+      "value": "Lang"
+    },
+    {
+      "key": 165,
+      "value": "Målsettinger"
+    },
+    {
+      "key": 166,
+      "value": "Klikk for å bla gjennom oppdrag på Steam Workshop!"
+    },
+    {
+      "key": 167,
+      "value": "Eksporter oppdrag til utklippstavlen."
+    },
+    {
+      "key": 168,
+      "value": "Importer oppdrag fra utklippstavlen."
+    },
+    {
+      "key": 169,
+      "value": "Oversikt"
+    },
+    {
+      "key": 170,
+      "value": "Detaljer"
+    },
+    {
+      "key": 171,
+      "value": "Oppdaget under oppdraget"
+    },
+    {
+      "key": 172,
+      "value": "Torpedoer avfyrt"
+    },
+    {
+      "key": 173,
+      "value": "Torpedoer truffet"
+    },
+    {
+      "key": 174,
+      "value": "Torpedoens treffprosent"
+    },
+    {
+      "key": 175,
+      "value": "Ødelagte kjøpmenn"
+    },
+    {
+      "key": 176,
+      "value": "Ødelagte krigsskip"
+    },
+    {
+      "key": 177,
+      "value": "Senket tonnasje"
+    },
+    {
+      "key": 178,
+      "value": "Tid for oppdraget"
+    },
+    {
+      "key": 179,
+      "value": "Eksporter til utklippstavle"
+    },
+    {
+      "key": 180,
+      "value": "Gå tilbake til lobbyen"
+    },
+    {
+      "key": 181,
+      "value": "Gjenta oppdraget"
+    },
+    {
+      "key": 182,
+      "value": "Neste oppdrag"
+    },
+    {
+      "key": 183,
+      "value": "Koble fra"
+    },
+    {
+      "key": 184,
+      "value": "Tilbakestill bindinger"
+    },
+    {
+      "key": 185,
+      "value": "Gå videre"
+    },
+    {
+      "key": 186,
+      "value": "Gå til venstre"
+    },
+    {
+      "key": 187,
+      "value": "Gå bakover"
+    },
+    {
+      "key": 188,
+      "value": "Flytt til høyre"
+    },
+    {
+      "key": 189,
+      "value": "Løp"
+    },
+    {
+      "key": 190,
+      "value": "Bytt til kart"
+    },
+    {
+      "key": 191,
+      "value": "Vis tilkoblede klienter"
+    },
+    {
+      "key": 192,
+      "value": "Slå på stoppeklokke 1"
+    },
+    {
+      "key": 193,
+      "value": "Slå på stoppeklokke 2"
+    },
+    {
+      "key": 194,
+      "value": "Slå på stoppeklokke 3"
+    },
+    {
+      "key": 195,
+      "value": "Slå på stoppeklokke 4"
+    },
+    {
+      "key": 196,
+      "value": "Tilbakestill stoppeklokke 1"
+    },
+    {
+      "key": 197,
+      "value": "Tilbakestill stoppeklokke 2"
+    },
+    {
+      "key": 198,
+      "value": "Tilbakestill stoppeklokke 3"
+    },
+    {
+      "key": 199,
+      "value": "Tilbakestill stoppeklokke 4"
+    },
+    {
+      "key": 200,
+      "value": "Nullstill alle stoppeklokker"
+    },
+    {
+      "key": 201,
+      "value": "Ildtorpedo"
+    },
+    {
+      "key": 202,
+      "value": "Dykkeplan med lavere front"
+    },
+    {
+      "key": 203,
+      "value": "Heve dykkflyene forover"
+    },
+    {
+      "key": 204,
+      "value": "Nedre akterdykkere"
+    },
+    {
+      "key": 205,
+      "value": "Dykkefly med hevet akterende"
+    },
+    {
+      "key": 206,
+      "value": "Slå av og på lommelykt"
+    },
+    {
+      "key": 207,
+      "value": "Håndbok for veksling av gjenkjenning"
+    },
+    {
+      "key": 208,
+      "value": "Veksle farge på lommelykt"
+    },
+    {
+      "key": 209,
+      "value": "Vis mål for oppdraget"
+    },
+    {
+      "key": 210,
+      "value": "Dykkeplan midt foran"
+    },
+    {
+      "key": 211,
+      "value": "Dykkefly midt akter"
+    },
+    {
+      "key": 212,
+      "value": "Morsenøkkel"
+    },
+    {
+      "key": 213,
+      "value": "Morse Single Dot"
+    },
+    {
+      "key": 214,
+      "value": "Morse enkelt strek"
+    },
+    {
+      "key": 215,
+      "value": "Morse Continuous Dots"
+    },
+    {
+      "key": 216,
+      "value": "Kontinuerlige morse-streker"
+    },
+    {
+      "key": 217,
+      "value": "Neste side med morse-tekst"
+    },
+    {
+      "key": 218,
+      "value": "Forrige morse-tekstside"
+    },
+    {
+      "key": 219,
+      "value": "Lydløs stemme"
+    },
+    {
+      "key": 220,
+      "value": "Bot-menyen Toggle"
+    },
+    {
+      "key": 221,
+      "value": "Bot Meny1"
+    },
+    {
+      "key": 222,
+      "value": "Bot Menu2"
+    },
+    {
+      "key": 223,
+      "value": "Bot Menu3"
+    },
+    {
+      "key": 224,
+      "value": "Kart Tilbakestilling av kilometerteller"
+    },
+    {
+      "key": 225,
+      "value": "Verktøy for kartsymboler"
+    },
+    {
+      "key": 226,
+      "value": "Kartlinjeverktøy"
+    },
+    {
+      "key": 227,
+      "value": "Verktøy for kartsirkler"
+    },
+    {
+      "key": 228,
+      "value": "Kartskrivingsverktøy"
+    },
+    {
+      "key": 229,
+      "value": "Verktøy for kopiering av kartlinjer"
+    },
+    {
+      "key": 230,
+      "value": "Verktøyet Map Eraser"
+    },
+    {
+      "key": 231,
+      "value": "Kartvinkelmåler-verktøy"
+    },
+    {
+      "key": 232,
+      "value": "Kart Quicktool-symbol"
+    },
+    {
+      "key": 233,
+      "value": "Kart Quicktool Line"
+    },
+    {
+      "key": 234,
+      "value": "Kart Quicktool Circle"
+    },
+    {
+      "key": 235,
+      "value": "Kart Quicktool Kopieringslinje"
+    },
+    {
+      "key": 236,
+      "value": "Kart Quicktool viskelær"
+    },
+    {
+      "key": 237,
+      "value": "Kart Quicktool vinkelmåler"
+    },
+    {
+      "key": 238,
+      "value": "Kart Toggle Sketch"
+    },
+    {
+      "key": 239,
+      "value": "Kartvinkelmåler Følg"
+    },
+    {
+      "key": 240,
+      "value": "Kart Toggle omvendt kompass"
+    },
+    {
+      "key": 241,
+      "value": "Kartet veksler mellom tidsmodus"
+    },
+    {
+      "key": 242,
+      "value": "Kart Toggle Vis vinkel"
+    },
+    {
+      "key": 243,
+      "value": "Kart Toggle Snap"
+    },
+    {
+      "key": 244,
+      "value": "Kart Toggle Vis avstand"
+    },
+    {
+      "key": 245,
+      "value": "Kart Toggle-symbol"
+    },
+    {
+      "key": 246,
+      "value": "Rotering av vinkelmåler for tilbakestilling av kart"
+    },
+    {
+      "key": 247,
+      "value": "Kart Toggle Draw From Midpoint (tegne fra midtpunkt)"
+    },
+    {
+      "key": 248,
+      "value": "Kart Toggle polylinje"
+    },
+    {
+      "key": 249,
+      "value": "Kartet veksler mellom linjestil"
+    },
+    {
+      "key": 250,
+      "value": "Kart Toggle Vis vinkelmåler"
+    },
+    {
+      "key": 251,
+      "value": "Kart Angi vinkel før avstand"
+    },
+    {
+      "key": 252,
+      "value": "Veksle mellom periskopoverlegg"
+    },
+    {
+      "key": 253,
+      "value": "Bytt periskopoverlegg"
+    },
+    {
+      "key": 254,
+      "value": "Øke periskopoverlegget X 1"
+    },
+    {
+      "key": 255,
+      "value": "Redusere periskopoverlegg X 1"
+    },
+    {
+      "key": 256,
+      "value": "Øke Periscope Overlay X 10"
+    },
+    {
+      "key": 257,
+      "value": "Redusere periskopoverlegg X 10"
+    },
+    {
+      "key": 258,
+      "value": "Øke lysstyrken på periskopet"
+    },
+    {
+      "key": 259,
+      "value": "Redusere periskopets tetthet"
+    },
+    {
+      "key": 260,
+      "value": "Veksle mellom notatbøker"
+    },
+    {
+      "key": 261,
+      "value": "Mannskap"
+    },
+    {
+      "key": 262,
+      "value": "Lasting"
+    },
+    {
+      "key": 263,
+      "value": "Forlate mannskapet"
+    },
+    {
+      "key": 264,
+      "value": "Bli med i besetningen"
+    },
+    {
+      "key": 265,
+      "value": "Bli med"
+    },
+    {
+      "key": 266,
+      "value": "Mannskapet er fullt"
+    },
+    {
+      "key": 267,
+      "value": "Kallenavn"
+    },
+    {
+      "key": 268,
+      "value": "Fellesskap"
+    },
+    {
+      "key": 269,
+      "value": "Rapportere en feil"
+    },
+    {
+      "key": 270,
+      "value": "Alternativer for besetningen"
+    },
+    {
+      "key": 271,
+      "value": "Alternativer for forbudsliste"
+    },
+    {
+      "key": 272,
+      "value": "Aktivitetslogg"
+    },
+    {
+      "key": 273,
+      "value": "CV"
+    },
+    {
+      "key": 274,
+      "value": "Forlate spillet"
+    },
+    {
+      "key": 275,
+      "value": "Metadata"
+    },
+    {
+      "key": 276,
+      "value": "Startbetingelser"
+    },
+    {
+      "key": 277,
+      "value": "Betingelser for seier"
+    },
+    {
+      "key": 278,
+      "value": "Mål"
+    },
+    {
+      "key": 279,
+      "value": "Vis alltid"
+    },
+    {
+      "key": 280,
+      "value": "Vis ved fullføring"
+    },
+    {
+      "key": 281,
+      "value": "Alltid skjult"
+    },
+    {
+      "key": 282,
+      "value": "Øker eller senker spillets samlede volum, samtidig som forholdet mellom de ulike volumene opprettholdes."
+    },
+    {
+      "key": 283,
+      "value": "Styrer volumet på musikken."
+    },
+    {
+      "key": 284,
+      "value": "Styrer volumet på ulike effekter, for eksempel eksplosjoner og lignende."
+    },
+    {
+      "key": 285,
+      "value": "Styrer volumet på innkommende talechat."
+    },
+    {
+      "key": 286,
+      "value": "Viser nivået på mikrofoninngangen."
+    },
+    {
+      "key": 287,
+      "value": "Push-To-Talk slår mikrofonen av og på når du trykker på den aktuelle tasten."
+    },
+    {
+      "key": 288,
+      "value": "Aktiver for å vise et hint om når mikrofonen er aktivert eller ikke."
+    },
+    {
+      "key": 289,
+      "value": "Deaktiver for å hindre at morse-lydeffekten spilles av når du bruker morse-tasten."
+    },
+    {
+      "key": 290,
+      "value": "Kodet melding"
+    },
+    {
+      "key": 291,
+      "value": "Lagre melding"
+    },
+    {
+      "key": 292,
+      "value": "Merk meldingen som sendt"
+    },
+    {
+      "key": 293,
+      "value": "Dekodet melding"
+    },
+    {
+      "key": 294,
+      "value": "Kanal"
+    },
+    {
+      "key": 295,
+      "value": "Fra"
+    },
+    {
+      "key": 296,
+      "value": "Til"
+    },
+    {
+      "key": 297,
+      "value": "Avbryt"
+    },
+    {
+      "key": 298,
+      "value": "Send"
+    },
+    {
+      "key": 299,
+      "value": "Lagre"
+    },
+    {
+      "key": 300,
+      "value": "Slett"
+    },
+    {
+      "key": 301,
+      "value": "Kringkasting"
+    },
+    {
+      "key": 302,
+      "value": "U-96"
+    },
+    {
+      "key": 303,
+      "value": "U-552"
+    },
+    {
+      "key": 304,
+      "value": "U-564"
+    },
+    {
+      "key": 305,
+      "value": "U-307"
+    },
+    {
+      "key": 306,
+      "value": "U-98"
+    },
+    {
+      "key": 307,
+      "value": "U-371"
+    },
+    {
+      "key": 308,
+      "value": "U-706"
+    },
+    {
+      "key": 309,
+      "value": "U-431"
+    },
+    {
+      "key": 310,
+      "value": "Godta"
+    },
+    {
+      "key": 311,
+      "value": "Avvis"
+    },
+    {
+      "key": 312,
+      "value": "Avvise og ignorere"
+    },
+    {
+      "key": 313,
+      "value": "Godta forespørsel om tilslutning"
+    },
+    {
+      "key": 314,
+      "value": "Avvis forespørsel om tilslutning"
+    },
+    {
+      "key": 315,
+      "value": "Avvise og ignorere forespørsler om deltakelse"
+    }
+  ],
+  "suffixPairs": [
+    {
+      "key": 0,
+      "value": "°"
+    },
+    {
+      "key": 1,
+      "value": " kts"
+    },
+    {
+      "key": 2,
+      "value": " "
+    },
+    {
+      "key": 3,
+      "value": " målere"
+    },
+    {
+      "key": 4,
+      "value": " tonn"
+    },
+    {
+      "key": 5,
+      "value": "km"
+    },
+    {
+      "key": 6,
+      "value": "km/t"
+    }
+  ],
+  "morsePairs": [
+    {
+      "key": 0,
+      "value": "Ringer til hvem som helst"
+    },
+    {
+      "key": 1,
+      "value": "Fra Channel"
+    },
+    {
+      "key": 9,
+      "value": "Over"
+    },
+    {
+      "key": 2,
+      "value": "Roger"
+    },
+    {
+      "key": 3,
+      "value": "Melding bekreftet"
+    },
+    {
+      "key": 4,
+      "value": "Si det igjen"
+    },
+    {
+      "key": 5,
+      "value": "Vent"
+    },
+    {
+      "key": 6,
+      "value": "Ut"
+    },
+    {
+      "key": 7,
+      "value": "Ja"
+    },
+    {
+      "key": 8,
+      "value": "Nei"
+    },
+    {
+      "key": 10,
+      "value": "Ny melding"
+    },
+    {
+      "key": 11,
+      "value": "Slutt på meldingen"
+    }
+  ]
+}

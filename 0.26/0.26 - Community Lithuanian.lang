@@ -1,0 +1,1353 @@
+{
+  "header": "Community (AI) Lithuanian",
+  "pairs": [
+    {
+      "key": -1,
+      "value": "INVALID"
+    },
+    {
+      "key": 0,
+      "value": "NEĮVYKDYTA"
+    },
+    {
+      "key": 20,
+      "value": "Žaisti"
+    },
+    {
+      "key": 21,
+      "value": "Rankinis"
+    },
+    {
+      "key": 22,
+      "value": "Parinktys"
+    },
+    {
+      "key": 23,
+      "value": "Redaktorius"
+    },
+    {
+      "key": 24,
+      "value": "Seminaras"
+    },
+    {
+      "key": 25,
+      "value": "Kreditai"
+    },
+    {
+      "key": 26,
+      "value": "Baigti"
+    },
+    {
+      "key": 4,
+      "value": "Naujienos"
+    },
+    {
+      "key": 3,
+      "value": "Versija"
+    },
+    {
+      "key": 5,
+      "value": "Kalba"
+    },
+    {
+      "key": 6,
+      "value": "Svetainėje"
+    },
+    {
+      "key": 7,
+      "value": "Išjungta"
+    },
+    {
+      "key": 8,
+      "value": "Įjungta"
+    },
+    {
+      "key": 9,
+      "value": "Neįgalieji"
+    },
+    {
+      "key": 10,
+      "value": "Rodyti"
+    },
+    {
+      "key": 11,
+      "value": "Paslėpti"
+    },
+    {
+      "key": 12,
+      "value": "Bet kuris"
+    },
+    {
+      "key": 13,
+      "value": "Taip"
+    },
+    {
+      "key": 14,
+      "value": "Ne"
+    },
+    {
+      "key": 15,
+      "value": "Laikas"
+    },
+    {
+      "key": 16,
+      "value": "Pradžia"
+    },
+    {
+      "key": 17,
+      "value": "Žaidimų laikas"
+    },
+    {
+      "key": 18,
+      "value": "Atsitiktinis"
+    },
+    {
+      "key": 19,
+      "value": "Paskelbti"
+    },
+    {
+      "key": 1,
+      "value": "Atgal"
+    },
+    {
+      "key": 2,
+      "value": "Palikite"
+    },
+    {
+      "key": 27,
+      "value": "Garso"
+    },
+    {
+      "key": 28,
+      "value": "Vaizdo įrašas"
+    },
+    {
+      "key": 29,
+      "value": "Klaviatūra"
+    },
+    {
+      "key": 30,
+      "value": "Pelė"
+    },
+    {
+      "key": 31,
+      "value": "Žaidimas"
+    },
+    {
+      "key": 32,
+      "value": "Vanduo"
+    },
+    {
+      "key": 33,
+      "value": "Apdorojimas po apdorojimo"
+    },
+    {
+      "key": 34,
+      "value": "Pagrindinis garsumas"
+    },
+    {
+      "key": 35,
+      "value": "Muzikos garsumas"
+    },
+    {
+      "key": 36,
+      "value": "Poveikio apimtis"
+    },
+    {
+      "key": 37,
+      "value": "VOIP apimtis"
+    },
+    {
+      "key": 38,
+      "value": "Vartotojo sąsajos apimtis"
+    },
+    {
+      "key": 39,
+      "value": "Mikrofono garsumas"
+    },
+    {
+      "key": 40,
+      "value": "\"Push-To-Talk\""
+    },
+    {
+      "key": 41,
+      "value": "Ekranas \"Push-To-Talk\" užuomina"
+    },
+    {
+      "key": 42,
+      "value": "Atkurti morzės įvestį"
+    },
+    {
+      "key": 43,
+      "value": "Žaidimo rezoliucija"
+    },
+    {
+      "key": 44,
+      "value": "Ekrano režimas"
+    },
+    {
+      "key": 45,
+      "value": "Vertikali sinchronizacija"
+    },
+    {
+      "key": 46,
+      "value": "Kadrų dažnio riba"
+    },
+    {
+      "key": 47,
+      "value": "Tekstūros skiriamoji geba"
+    },
+    {
+      "key": 48,
+      "value": "Anizotropinis filtravimas"
+    },
+    {
+      "key": 49,
+      "value": "Šešėliai"
+    },
+    {
+      "key": 50,
+      "value": "Išskirtinis per visą ekraną"
+    },
+    {
+      "key": 51,
+      "value": "Langas be ribų"
+    },
+    {
+      "key": 52,
+      "value": "Maksimalizuotas langas"
+    },
+    {
+      "key": 53,
+      "value": "Langas"
+    },
+    {
+      "key": 54,
+      "value": "Kiekvienas kadras"
+    },
+    {
+      "key": 55,
+      "value": "Kas antras kadras"
+    },
+    {
+      "key": 56,
+      "value": "Žemiau"
+    },
+    {
+      "key": 57,
+      "value": "Žemas"
+    },
+    {
+      "key": 58,
+      "value": "Vidutinis"
+    },
+    {
+      "key": 59,
+      "value": "Aukštas"
+    },
+    {
+      "key": 60,
+      "value": "Labai aukštas"
+    },
+    {
+      "key": 61,
+      "value": "Ultra"
+    },
+    {
+      "key": 62,
+      "value": "Overkill"
+    },
+    {
+      "key": 63,
+      "value": "Max"
+    },
+    {
+      "key": 64,
+      "value": "Fotoaparato pasukimo jautrumas"
+    },
+    {
+      "key": 65,
+      "value": "Kursoriaus sąveikos jautrumas"
+    },
+    {
+      "key": 66,
+      "value": "Slinkimo ratuko intensyvumas"
+    },
+    {
+      "key": 67,
+      "value": "Kursoriaus skalė"
+    },
+    {
+      "key": 68,
+      "value": "Invertuota pelė"
+    },
+    {
+      "key": 69,
+      "value": "Žemėlapio linijos mastelis"
+    },
+    {
+      "key": 70,
+      "value": "Žemėlapio šrifto mastelis"
+    },
+    {
+      "key": 71,
+      "value": "Rodyti vardų lenteles"
+    },
+    {
+      "key": 72,
+      "value": "Rodyti įrankių užrašus"
+    },
+    {
+      "key": 73,
+      "value": "Rodyti kadrų dažnio skaitiklį"
+    },
+    {
+      "key": 74,
+      "value": "Rodyti vadovėlį žaidimo pradžioje"
+    },
+    {
+      "key": 75,
+      "value": "Fotoaparato svyravimo įjungimas"
+    },
+    {
+      "key": 76,
+      "value": "Matymo laukas"
+    },
+    {
+      "key": 77,
+      "value": "Meniu fono neskaidrumas"
+    },
+    {
+      "key": 78,
+      "value": "Vandens rezoliucija"
+    },
+    {
+      "key": 79,
+      "value": "Vandens purškimo dalelių skaičius"
+    },
+    {
+      "key": 80,
+      "value": "Dinaminė putų kokybė"
+    },
+    {
+      "key": 81,
+      "value": "Vandens peržiūra"
+    },
+    {
+      "key": 82,
+      "value": "Ekrano erdvės aplinkos užtemdymas"
+    },
+    {
+      "key": 83,
+      "value": "Ekrano erdvės atspindys"
+    },
+    {
+      "key": 84,
+      "value": "Anti-Aliasing"
+    },
+    {
+      "key": 85,
+      "value": "Žydėjimas"
+    },
+    {
+      "key": 86,
+      "value": "Ryškumo koregavimas"
+    },
+    {
+      "key": 87,
+      "value": "Dither"
+    },
+    {
+      "key": 88,
+      "value": "Judesio suliejimas"
+    },
+    {
+      "key": 89,
+      "value": "Lauko gylis"
+    },
+    {
+      "key": 90,
+      "value": "Chromatinė aberacija"
+    },
+    {
+      "key": 91,
+      "value": "Atidarykite aplanką Kalbos"
+    },
+    {
+      "key": 92,
+      "value": "Perkrauti kalbas"
+    },
+    {
+      "key": 93,
+      "value": "Iš naujo nustatyti visus nustatymus"
+    },
+    {
+      "key": 94,
+      "value": "Rasti vestibiulį"
+    },
+    {
+      "key": 95,
+      "value": "Sukurti vestibiulį"
+    },
+    {
+      "key": 96,
+      "value": "Filtrai"
+    },
+    {
+      "key": 97,
+      "value": "Atstumas iki vestibiulio"
+    },
+    {
+      "key": 98,
+      "value": "Slaptažodis"
+    },
+    {
+      "key": 99,
+      "value": "Botai"
+    },
+    {
+      "key": 100,
+      "value": "Pilni fojė"
+    },
+    {
+      "key": 101,
+      "value": "Žaidimo stilius"
+    },
+    {
+      "key": 102,
+      "value": "Atsitiktinis"
+    },
+    {
+      "key": 103,
+      "value": "Hardcore"
+    },
+    {
+      "key": 104,
+      "value": "Vaidmeninis žaidimas"
+    },
+    {
+      "key": 105,
+      "value": "Uždaryti"
+    },
+    {
+      "key": 106,
+      "value": "Numatytoji"
+    },
+    {
+      "key": 107,
+      "value": "Toli"
+    },
+    {
+      "key": 108,
+      "value": "Visame pasaulyje"
+    },
+    {
+      "key": 111,
+      "value": "Pavadinimas"
+    },
+    {
+      "key": 112,
+      "value": "Aprašymas"
+    },
+    {
+      "key": 113,
+      "value": "Matomumas"
+    },
+    {
+      "key": 114,
+      "value": "Draugai gali pakviesti į lobizmą"
+    },
+    {
+      "key": 115,
+      "value": "Paslėptas"
+    },
+    {
+      "key": 116,
+      "value": "Tik draugams"
+    },
+    {
+      "key": 117,
+      "value": "Viešoji svetainė"
+    },
+    {
+      "key": 109,
+      "value": "Atnaujinti"
+    },
+    {
+      "key": 110,
+      "value": "Sukurti"
+    },
+    {
+      "key": 118,
+      "value": "Misijos instruktažas"
+    },
+    {
+      "key": 119,
+      "value": "Sudėtingumo nustatymai"
+    },
+    {
+      "key": 120,
+      "value": "Scenarijus"
+    },
+    {
+      "key": 121,
+      "value": "Užsakymai"
+    },
+    {
+      "key": 122,
+      "value": "Bendra"
+    },
+    {
+      "key": 123,
+      "value": "Laikas ir data"
+    },
+    {
+      "key": 124,
+      "value": "Orai"
+    },
+    {
+      "key": 125,
+      "value": "Misija"
+    },
+    {
+      "key": 126,
+      "value": "Sudėtingumas"
+    },
+    {
+      "key": 127,
+      "value": "Žaidimo režimas"
+    },
+    {
+      "key": 128,
+      "value": "Diena"
+    },
+    {
+      "key": 129,
+      "value": "Mėnuo"
+    },
+    {
+      "key": 130,
+      "value": "Metai"
+    },
+    {
+      "key": 131,
+      "value": "Dienos laikas"
+    },
+    {
+      "key": 132,
+      "value": "Vieta"
+    },
+    {
+      "key": 133,
+      "value": "Vėjo greitis"
+    },
+    {
+      "key": 134,
+      "value": "Vėjo kryptis"
+    },
+    {
+      "key": 135,
+      "value": "Data"
+    },
+    {
+      "key": 136,
+      "value": "Migla"
+    },
+    {
+      "key": 137,
+      "value": "Automatinė navigacija"
+    },
+    {
+      "key": 138,
+      "value": "Draugiška ugnis"
+    },
+    {
+      "key": 139,
+      "value": "Ne žaidėjų įgulos nariai"
+    },
+    {
+      "key": 140,
+      "value": "Supaprastintas radijas"
+    },
+    {
+      "key": 141,
+      "value": "Tikroviškas balso slopinimas"
+    },
+    {
+      "key": 142,
+      "value": "Greitas susitikimas"
+    },
+    {
+      "key": 143,
+      "value": "Automatinis variklis"
+    },
+    {
+      "key": 144,
+      "value": "Konvojus periodiškai keičia kryptį"
+    },
+    {
+      "key": 145,
+      "value": "Eskortai visada naudoja aktyvųjį sonarą"
+    },
+    {
+      "key": 146,
+      "value": "Eskortas Persekiojimo laikas"
+    },
+    {
+      "key": 147,
+      "value": "Konvojaus dydis"
+    },
+    {
+      "key": 148,
+      "value": "Tikroviškas torpedų perkrovimo greitis"
+    },
+    {
+      "key": 149,
+      "value": "Sugedusios torpedos"
+    },
+    {
+      "key": 150,
+      "value": "Ribotas torpedų tikslumas"
+    },
+    {
+      "key": 151,
+      "value": "Torpedos paleidiklis priklauso nuo kampo"
+    },
+    {
+      "key": 152,
+      "value": "Kvieskite draugus"
+    },
+    {
+      "key": 153,
+      "value": "Pradėti žaidimą"
+    },
+    {
+      "key": 154,
+      "value": "Skirmish"
+    },
+    {
+      "key": 155,
+      "value": "Mokomoji priemonė"
+    },
+    {
+      "key": 156,
+      "value": "Biskajos įlanka"
+    },
+    {
+      "key": 157,
+      "value": "Šiaurės jūra"
+    },
+    {
+      "key": 158,
+      "value": "Norvegijos jūra"
+    },
+    {
+      "key": 159,
+      "value": "Baltijos jūra"
+    },
+    {
+      "key": 160,
+      "value": "Mažas"
+    },
+    {
+      "key": 161,
+      "value": "Normalus"
+    },
+    {
+      "key": 162,
+      "value": "Didelis"
+    },
+    {
+      "key": 163,
+      "value": "Trumpas"
+    },
+    {
+      "key": 164,
+      "value": "Ilgas"
+    },
+    {
+      "key": 165,
+      "value": "Tikslai"
+    },
+    {
+      "key": 166,
+      "value": "Spustelėkite, jei norite naršyti misijas \"Steam Workshop\" parduotuvėje!"
+    },
+    {
+      "key": 167,
+      "value": "Eksportuoti misiją į iškarpinę."
+    },
+    {
+      "key": 168,
+      "value": "Importuoti misiją iš iškarpinės."
+    },
+    {
+      "key": 169,
+      "value": "Apžvalga"
+    },
+    {
+      "key": 170,
+      "value": "Išsami informacija"
+    },
+    {
+      "key": 171,
+      "value": "Aptikta misijos metu"
+    },
+    {
+      "key": 172,
+      "value": "Iššautos torpedos"
+    },
+    {
+      "key": 173,
+      "value": "Torpedų smūgis"
+    },
+    {
+      "key": 174,
+      "value": "Torpedų pataikymo koeficientas"
+    },
+    {
+      "key": 175,
+      "value": "Sunaikinti prekybininkai"
+    },
+    {
+      "key": 176,
+      "value": "Sunaikinti karo laivai"
+    },
+    {
+      "key": 177,
+      "value": "Nuskandintas tonažas"
+    },
+    {
+      "key": 178,
+      "value": "Misijos laikas"
+    },
+    {
+      "key": 179,
+      "value": "Eksportuoti į iškarpinę"
+    },
+    {
+      "key": 180,
+      "value": "Grįžti į vestibiulį"
+    },
+    {
+      "key": 181,
+      "value": "Pakartoti misiją"
+    },
+    {
+      "key": 182,
+      "value": "Kita misija"
+    },
+    {
+      "key": 183,
+      "value": "Atjunkite"
+    },
+    {
+      "key": 184,
+      "value": "Iš naujo nustatyti įpareigojimus"
+    },
+    {
+      "key": 185,
+      "value": "Judėti pirmyn"
+    },
+    {
+      "key": 186,
+      "value": "Perkelti į kairę"
+    },
+    {
+      "key": 187,
+      "value": "Judėjimas atgal"
+    },
+    {
+      "key": 188,
+      "value": "Judėti į dešinę"
+    },
+    {
+      "key": 189,
+      "value": "Paleisti"
+    },
+    {
+      "key": 190,
+      "value": "Perjungti žemėlapį"
+    },
+    {
+      "key": 191,
+      "value": "Rodyti prijungtus klientus"
+    },
+    {
+      "key": 192,
+      "value": "Perjungti chronometrą 1"
+    },
+    {
+      "key": 193,
+      "value": "Perjungti chronometrą 2"
+    },
+    {
+      "key": 194,
+      "value": "Perjungti chronometrą 3"
+    },
+    {
+      "key": 195,
+      "value": "Perjungti chronometrą 4"
+    },
+    {
+      "key": 196,
+      "value": "Iš naujo nustatyti chronometrą 1"
+    },
+    {
+      "key": 197,
+      "value": "Iš naujo nustatyti chronometrą 2"
+    },
+    {
+      "key": 198,
+      "value": "Iš naujo nustatyti chronometrą 3"
+    },
+    {
+      "key": 199,
+      "value": "Iš naujo nustatyti chronometrą 4"
+    },
+    {
+      "key": 200,
+      "value": "Iš naujo nustatyti visus laikrodžius"
+    },
+    {
+      "key": 201,
+      "value": "Ugnies torpeda"
+    },
+    {
+      "key": 202,
+      "value": "Apatiniai priekiniai nardymo lėktuvai"
+    },
+    {
+      "key": 203,
+      "value": "Pakelti priekinius nardymo lėktuvus"
+    },
+    {
+      "key": 204,
+      "value": "Apatinės laivagalio dalies nardymo lėktuvai"
+    },
+    {
+      "key": 205,
+      "value": "Nardymo lėktuvų kėlimas ant laivapriekio"
+    },
+    {
+      "key": 206,
+      "value": "Perjungti žibintuvėlį"
+    },
+    {
+      "key": 207,
+      "value": "Perjungti atpažinimo vadovą"
+    },
+    {
+      "key": 208,
+      "value": "Žibintuvėlio spalvos perjungimas"
+    },
+    {
+      "key": 209,
+      "value": "Rodyti misijos tikslus"
+    },
+    {
+      "key": 210,
+      "value": "Centrinė priekinė nardymo plokštuma"
+    },
+    {
+      "key": 211,
+      "value": "Nardymo lėktuvas centrinėje laivapriekyje"
+    },
+    {
+      "key": 212,
+      "value": "Morzės raktas"
+    },
+    {
+      "key": 213,
+      "value": "\"Morse\" vienas taškas"
+    },
+    {
+      "key": 214,
+      "value": "\"Morse Single Dash"
+    },
+    {
+      "key": 215,
+      "value": "Morzės ištisiniai taškai"
+    },
+    {
+      "key": 216,
+      "value": "Nepertraukiami Morzės brūkšneliai"
+    },
+    {
+      "key": 217,
+      "value": "Kitas Morzės teksto puslapis"
+    },
+    {
+      "key": 218,
+      "value": "Ankstesnis Morzės teksto puslapis"
+    },
+    {
+      "key": 219,
+      "value": "Nutildyti balsą"
+    },
+    {
+      "key": 220,
+      "value": "Botas Meniu perjungimas"
+    },
+    {
+      "key": 221,
+      "value": "Botas Meniu1"
+    },
+    {
+      "key": 222,
+      "value": "Botas Meniu2"
+    },
+    {
+      "key": 223,
+      "value": "Botas Meniu3"
+    },
+    {
+      "key": 224,
+      "value": "Žemėlapio ridos skaitiklio nustatymas iš naujo"
+    },
+    {
+      "key": 225,
+      "value": "Žemėlapio simbolių įrankis"
+    },
+    {
+      "key": 226,
+      "value": "Žemėlapio linijos įrankis"
+    },
+    {
+      "key": 227,
+      "value": "Žemėlapio apskritimo įrankis"
+    },
+    {
+      "key": 228,
+      "value": "Žemėlapio rašymo įrankis"
+    },
+    {
+      "key": 229,
+      "value": "Žemėlapio kopijavimo linijos įrankis"
+    },
+    {
+      "key": 230,
+      "value": "Žemėlapio trintuko įrankis"
+    },
+    {
+      "key": 231,
+      "value": "Žemėlapio matlankio įrankis"
+    },
+    {
+      "key": 232,
+      "value": "Žemėlapio \"Quicktool\" simbolis"
+    },
+    {
+      "key": 233,
+      "value": "Žemėlapis \"Quicktool Line"
+    },
+    {
+      "key": 234,
+      "value": "Žemėlapis Quicktool Circle"
+    },
+    {
+      "key": 235,
+      "value": "Žemėlapis \"Quicktool\" Kopijavimo linija"
+    },
+    {
+      "key": 236,
+      "value": "Žemėlapių trintukas \"Quicktool Eraser"
+    },
+    {
+      "key": 237,
+      "value": "Žemėlapis \"Quicktool Protractor"
+    },
+    {
+      "key": 238,
+      "value": "Žemėlapis Perjungti eskizą"
+    },
+    {
+      "key": 239,
+      "value": "Žemėlapio matlankio sekimas"
+    },
+    {
+      "key": 240,
+      "value": "Žemėlapio perjungimas Atvirkštinis kompasas"
+    },
+    {
+      "key": 241,
+      "value": "Žemėlapio laiko režimo perjungimas"
+    },
+    {
+      "key": 242,
+      "value": "Žemėlapio perjungimas Rodyti kampą"
+    },
+    {
+      "key": 243,
+      "value": "Žemėlapio perjungimas Snap"
+    },
+    {
+      "key": 244,
+      "value": "Žemėlapio perjungimas Rodyti atstumą"
+    },
+    {
+      "key": 245,
+      "value": "Žemėlapio perjungimo simbolis"
+    },
+    {
+      "key": 246,
+      "value": "Žemėlapio iš naujo nustatymas Veidrodžio pasukimas"
+    },
+    {
+      "key": 247,
+      "value": "Žemėlapio perjungimas Brėžti iš vidurio taško"
+    },
+    {
+      "key": 248,
+      "value": "Žemėlapio perjungimas Polinija"
+    },
+    {
+      "key": 249,
+      "value": "Žemėlapio perjungimo linijos stilius"
+    },
+    {
+      "key": 250,
+      "value": "Žemėlapio perjungimas Rodyti matlankį"
+    },
+    {
+      "key": 251,
+      "value": "Žemėlapis Įveskite kampą prieš atstumą"
+    },
+    {
+      "key": 252,
+      "value": "Perjungti \"Periscope\" perdangą"
+    },
+    {
+      "key": 253,
+      "value": "Sukeisti \"Periscope\" perdangą"
+    },
+    {
+      "key": 254,
+      "value": "Padidinti \"Periscope\" perdangą X 1"
+    },
+    {
+      "key": 255,
+      "value": "Sumažinti \"Periskopo\" perdangą X 1"
+    },
+    {
+      "key": 256,
+      "value": "Padidinti \"Periscope\" perdangą X 10"
+    },
+    {
+      "key": 257,
+      "value": "Sumažinti \"Periscope\" perdangą X 10"
+    },
+    {
+      "key": 258,
+      "value": "Padidinti \"Periscope\" ryškumą"
+    },
+    {
+      "key": 259,
+      "value": "Sumažinti \"Periscope\" brigadą"
+    },
+    {
+      "key": 260,
+      "value": "Perjungti užrašų knygelę"
+    },
+    {
+      "key": 261,
+      "value": "Įgula"
+    },
+    {
+      "key": 262,
+      "value": "Įkrovos"
+    },
+    {
+      "key": 263,
+      "value": "Palikite įgulą"
+    },
+    {
+      "key": 264,
+      "value": "Prisijunkite prie įgulos"
+    },
+    {
+      "key": 265,
+      "value": "Prisijunkite prie"
+    },
+    {
+      "key": 266,
+      "value": "Įgula yra pilna"
+    },
+    {
+      "key": 267,
+      "value": "Slapyvardis"
+    },
+    {
+      "key": 268,
+      "value": "Bendruomenė"
+    },
+    {
+      "key": 269,
+      "value": "Pranešti apie klaidą"
+    },
+    {
+      "key": 270,
+      "value": "Įgulos parinktys"
+    },
+    {
+      "key": 271,
+      "value": "Draudimo sąrašo parinktys"
+    },
+    {
+      "key": 272,
+      "value": "Veiklos žurnalas"
+    },
+    {
+      "key": 273,
+      "value": "CV"
+    },
+    {
+      "key": 274,
+      "value": "Palikite žaidimą"
+    },
+    {
+      "key": 275,
+      "value": "Metaduomenys"
+    },
+    {
+      "key": 276,
+      "value": "Pradžios sąlygos"
+    },
+    {
+      "key": 277,
+      "value": "Pergalės sąlygos"
+    },
+    {
+      "key": 278,
+      "value": "Tikslai"
+    },
+    {
+      "key": 279,
+      "value": "Visada rodyti"
+    },
+    {
+      "key": 280,
+      "value": "Rodyti užbaigus"
+    },
+    {
+      "key": 281,
+      "value": "Visada paslėpta"
+    },
+    {
+      "key": 282,
+      "value": "Padidina arba sumažina bendrą žaidimo garsumą, išlaikydamas skirtingų garsumų santykį."
+    },
+    {
+      "key": 283,
+      "value": "Valdo muzikos garsumą."
+    },
+    {
+      "key": 284,
+      "value": "Valdo įvairių efektų, pavyzdžiui, sprogimų ir panašių, garsumą."
+    },
+    {
+      "key": 285,
+      "value": "Valdo įeinančių balso pokalbių garsumą."
+    },
+    {
+      "key": 286,
+      "value": "Rodo mikrofono įvesties lygį."
+    },
+    {
+      "key": 287,
+      "value": "Funkcija \"Push-To-Talk\" įjungia ir išjungia mikrofoną, kai paspaudžiamas atitinkamas klavišas."
+    },
+    {
+      "key": 288,
+      "value": "Įjungti, kad būtų rodoma užuomina, kada mikrofonas įjungtas, o kada ne."
+    },
+    {
+      "key": 289,
+      "value": "Išjungti, jei norite sustabdyti morzės garso efekto grojimą, kai naudojamas morzės klavišas."
+    },
+    {
+      "key": 290,
+      "value": "Užkoduota žinutė"
+    },
+    {
+      "key": 291,
+      "value": "Išsaugoti žinutę"
+    },
+    {
+      "key": 292,
+      "value": "Pažymėti pranešimą kaip išsiųstą"
+    },
+    {
+      "key": 293,
+      "value": "Iššifruota žinutė"
+    },
+    {
+      "key": 294,
+      "value": "Kanalas"
+    },
+    {
+      "key": 295,
+      "value": "Iš"
+    },
+    {
+      "key": 296,
+      "value": "Į"
+    },
+    {
+      "key": 297,
+      "value": "Atšaukti"
+    },
+    {
+      "key": 298,
+      "value": "Siųsti"
+    },
+    {
+      "key": 299,
+      "value": "Išsaugoti"
+    },
+    {
+      "key": 300,
+      "value": "Ištrinti"
+    },
+    {
+      "key": 301,
+      "value": "Transliuoti"
+    },
+    {
+      "key": 302,
+      "value": "U-96"
+    },
+    {
+      "key": 303,
+      "value": "U-552"
+    },
+    {
+      "key": 304,
+      "value": "U-564"
+    },
+    {
+      "key": 305,
+      "value": "U-307"
+    },
+    {
+      "key": 306,
+      "value": "U-98"
+    },
+    {
+      "key": 307,
+      "value": "U-371"
+    },
+    {
+      "key": 308,
+      "value": "U-706"
+    },
+    {
+      "key": 309,
+      "value": "U-431"
+    },
+    {
+      "key": 310,
+      "value": "Priimti"
+    },
+    {
+      "key": 311,
+      "value": "Atmesti"
+    },
+    {
+      "key": 312,
+      "value": "Atmesti ir ignoruoti"
+    },
+    {
+      "key": 313,
+      "value": "Priimti prisijungimo užklausą"
+    },
+    {
+      "key": 314,
+      "value": "Atmesti prisijungimo prašymą"
+    },
+    {
+      "key": 315,
+      "value": "Atmesti ir ignoruoti prisijungimo prašymą"
+    }
+  ],
+  "suffixPairs": [
+    {
+      "key": 0,
+      "value": "°"
+    },
+    {
+      "key": 1,
+      "value": " kts"
+    },
+    {
+      "key": 2,
+      "value": " %"
+    },
+    {
+      "key": 3,
+      "value": " metrai"
+    },
+    {
+      "key": 4,
+      "value": " tonų"
+    },
+    {
+      "key": 5,
+      "value": "km"
+    },
+    {
+      "key": 6,
+      "value": "km/h"
+    }
+  ],
+  "morsePairs": [
+    {
+      "key": 0,
+      "value": "Skambinti visiems"
+    },
+    {
+      "key": 1,
+      "value": "Iš kanalo"
+    },
+    {
+      "key": 9,
+      "value": "Daugiau nei"
+    },
+    {
+      "key": 2,
+      "value": "Roger"
+    },
+    {
+      "key": 3,
+      "value": "Patikrinta žinutė"
+    },
+    {
+      "key": 4,
+      "value": "Pakartokite dar kartą"
+    },
+    {
+      "key": 5,
+      "value": "Laukite"
+    },
+    {
+      "key": 6,
+      "value": "Iš"
+    },
+    {
+      "key": 7,
+      "value": "Taip"
+    },
+    {
+      "key": 8,
+      "value": "Ne"
+    },
+    {
+      "key": 10,
+      "value": "Nauja žinutė"
+    },
+    {
+      "key": 11,
+      "value": "Pranešimo pabaiga"
+    }
+  ]
+}

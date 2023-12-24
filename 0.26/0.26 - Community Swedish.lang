@@ -1,0 +1,1353 @@
+{
+  "header": "Community (AI) Swedish",
+  "pairs": [
+    {
+      "key": -1,
+      "value": "INVALID"
+    },
+    {
+      "key": 0,
+      "value": "OUCCHED"
+    },
+    {
+      "key": 20,
+      "value": "Spela"
+    },
+    {
+      "key": 21,
+      "value": "Manual"
+    },
+    {
+      "key": 22,
+      "value": "Alternativ"
+    },
+    {
+      "key": 23,
+      "value": "Redaktör"
+    },
+    {
+      "key": 24,
+      "value": "Verkstad"
+    },
+    {
+      "key": 25,
+      "value": "Krediter"
+    },
+    {
+      "key": 26,
+      "value": "Avsluta"
+    },
+    {
+      "key": 4,
+      "value": "Nyheter"
+    },
+    {
+      "key": 3,
+      "value": "Version"
+    },
+    {
+      "key": 5,
+      "value": "Språk"
+    },
+    {
+      "key": 6,
+      "value": "På"
+    },
+    {
+      "key": 7,
+      "value": "Av"
+    },
+    {
+      "key": 8,
+      "value": "Aktiverad"
+    },
+    {
+      "key": 9,
+      "value": "Inaktiverad"
+    },
+    {
+      "key": 10,
+      "value": "Visa"
+    },
+    {
+      "key": 11,
+      "value": "Dölj"
+    },
+    {
+      "key": 12,
+      "value": "Någon"
+    },
+    {
+      "key": 13,
+      "value": "Ja"
+    },
+    {
+      "key": 14,
+      "value": "Nej"
+    },
+    {
+      "key": 15,
+      "value": "Tid"
+    },
+    {
+      "key": 16,
+      "value": "Start"
+    },
+    {
+      "key": 17,
+      "value": "Lektid"
+    },
+    {
+      "key": 18,
+      "value": "Slumpmässig"
+    },
+    {
+      "key": 19,
+      "value": "Publicera"
+    },
+    {
+      "key": 1,
+      "value": "Tillbaka"
+    },
+    {
+      "key": 2,
+      "value": "Lämna"
+    },
+    {
+      "key": 27,
+      "value": "Ljud"
+    },
+    {
+      "key": 28,
+      "value": "Video"
+    },
+    {
+      "key": 29,
+      "value": "Tangentbord"
+    },
+    {
+      "key": 30,
+      "value": "Mus"
+    },
+    {
+      "key": 31,
+      "value": "Spel"
+    },
+    {
+      "key": 32,
+      "value": "Vatten"
+    },
+    {
+      "key": 33,
+      "value": "Efterbearbetning"
+    },
+    {
+      "key": 34,
+      "value": "Master volym"
+    },
+    {
+      "key": 35,
+      "value": "Musikvolym"
+    },
+    {
+      "key": 36,
+      "value": "Effektvolym"
+    },
+    {
+      "key": 37,
+      "value": "VOIP Volym"
+    },
+    {
+      "key": 38,
+      "value": "Volym för användargränssnitt"
+    },
+    {
+      "key": 39,
+      "value": "Mikrofonens volym"
+    },
+    {
+      "key": 40,
+      "value": "Tryck-för-tal"
+    },
+    {
+      "key": 41,
+      "value": "Display Push-To-Talk Hint"
+    },
+    {
+      "key": 42,
+      "value": "Spela upp morse-ingång"
+    },
+    {
+      "key": 43,
+      "value": "Upplösning av spel"
+    },
+    {
+      "key": 44,
+      "value": "Visningsläge"
+    },
+    {
+      "key": 45,
+      "value": "Vertikal synkronisering"
+    },
+    {
+      "key": 46,
+      "value": "Begränsning av bildfrekvens"
+    },
+    {
+      "key": 47,
+      "value": "Texturupplösning"
+    },
+    {
+      "key": 48,
+      "value": "Anisotropisk filtrering"
+    },
+    {
+      "key": 49,
+      "value": "Skuggor"
+    },
+    {
+      "key": 50,
+      "value": "Exklusiv Fullskärm"
+    },
+    {
+      "key": 51,
+      "value": "Gränslöst fönster"
+    },
+    {
+      "key": 52,
+      "value": "Maximerat fönster"
+    },
+    {
+      "key": 53,
+      "value": "Fönster"
+    },
+    {
+      "key": 54,
+      "value": "Varje ram"
+    },
+    {
+      "key": 55,
+      "value": "Varannan ram"
+    },
+    {
+      "key": 56,
+      "value": "Lägre"
+    },
+    {
+      "key": 57,
+      "value": "Låg"
+    },
+    {
+      "key": 58,
+      "value": "Medium"
+    },
+    {
+      "key": 59,
+      "value": "Hög"
+    },
+    {
+      "key": 60,
+      "value": "Mycket hög"
+    },
+    {
+      "key": 61,
+      "value": "Ultra"
+    },
+    {
+      "key": 62,
+      "value": "Overkill"
+    },
+    {
+      "key": 63,
+      "value": "Max"
+    },
+    {
+      "key": 64,
+      "value": "Känslighet för kamerarotation"
+    },
+    {
+      "key": 65,
+      "value": "Känslighet för markörinteraktion"
+    },
+    {
+      "key": 66,
+      "value": "Intensitet för rullningshjul"
+    },
+    {
+      "key": 67,
+      "value": "Skala för markör"
+    },
+    {
+      "key": 68,
+      "value": "Invertera mus"
+    },
+    {
+      "key": 69,
+      "value": "Karta Linje Skala"
+    },
+    {
+      "key": 70,
+      "value": "Karta Font Skala"
+    },
+    {
+      "key": 71,
+      "value": "Visa namnplattor"
+    },
+    {
+      "key": 72,
+      "value": "Visa verktygstips"
+    },
+    {
+      "key": 73,
+      "value": "Visa bildfrekvensräknare"
+    },
+    {
+      "key": 74,
+      "value": "Visa handledning vid spelstart"
+    },
+    {
+      "key": 75,
+      "value": "Aktivera kamera Sway"
+    },
+    {
+      "key": 76,
+      "value": "Synfält"
+    },
+    {
+      "key": 77,
+      "value": "Opacitet för menybakgrund"
+    },
+    {
+      "key": 78,
+      "value": "Vattenlösning"
+    },
+    {
+      "key": 79,
+      "value": "Vattenspray Partikelantal"
+    },
+    {
+      "key": 80,
+      "value": "Dynamisk skumkvalitet"
+    },
+    {
+      "key": 81,
+      "value": "Förhandsgranskning av vatten"
+    },
+    {
+      "key": 82,
+      "value": "Skärmutrymme Ambient Occlusion"
+    },
+    {
+      "key": 83,
+      "value": "Reflektion över skärmutrymmet"
+    },
+    {
+      "key": 84,
+      "value": "Anti-Aliasing"
+    },
+    {
+      "key": 85,
+      "value": "Blomning"
+    },
+    {
+      "key": 86,
+      "value": "Korrigering av ljusstyrka"
+    },
+    {
+      "key": 87,
+      "value": "Dither"
+    },
+    {
+      "key": 88,
+      "value": "Oskärpa i rörelse"
+    },
+    {
+      "key": 89,
+      "value": "Skärpedjup"
+    },
+    {
+      "key": 90,
+      "value": "Kromatisk aberration"
+    },
+    {
+      "key": 91,
+      "value": "Öppna mappen Språk"
+    },
+    {
+      "key": 92,
+      "value": "Ladda om Språk"
+    },
+    {
+      "key": 93,
+      "value": "Återställ alla inställningar"
+    },
+    {
+      "key": 94,
+      "value": "Hitta lobbyn"
+    },
+    {
+      "key": 95,
+      "value": "Skapa lobby"
+    },
+    {
+      "key": 96,
+      "value": "Filter"
+    },
+    {
+      "key": 97,
+      "value": "Avstånd till lobby"
+    },
+    {
+      "key": 98,
+      "value": "Lösenord"
+    },
+    {
+      "key": 99,
+      "value": "Bots"
+    },
+    {
+      "key": 100,
+      "value": "Fullständiga lobbyer"
+    },
+    {
+      "key": 101,
+      "value": "Playstyle"
+    },
+    {
+      "key": 102,
+      "value": "Casual"
+    },
+    {
+      "key": 103,
+      "value": "Hardcore"
+    },
+    {
+      "key": 104,
+      "value": "Rollspel"
+    },
+    {
+      "key": 105,
+      "value": "Nära"
+    },
+    {
+      "key": 106,
+      "value": "Standard"
+    },
+    {
+      "key": 107,
+      "value": "Far"
+    },
+    {
+      "key": 108,
+      "value": "Över hela världen"
+    },
+    {
+      "key": 111,
+      "value": "Titel"
+    },
+    {
+      "key": 112,
+      "value": "Beskrivning"
+    },
+    {
+      "key": 113,
+      "value": "Synlighet"
+    },
+    {
+      "key": 114,
+      "value": "Vänner kan bjuda in till lobby"
+    },
+    {
+      "key": 115,
+      "value": "Dold"
+    },
+    {
+      "key": 116,
+      "value": "Endast vänner"
+    },
+    {
+      "key": 117,
+      "value": "Offentlig"
+    },
+    {
+      "key": 109,
+      "value": "Uppdatera"
+    },
+    {
+      "key": 110,
+      "value": "Skapa"
+    },
+    {
+      "key": 118,
+      "value": "Genomgång av uppdraget"
+    },
+    {
+      "key": 119,
+      "value": "Inställningar för svårighetsgrad"
+    },
+    {
+      "key": 120,
+      "value": "Scenario"
+    },
+    {
+      "key": 121,
+      "value": "Beställningar"
+    },
+    {
+      "key": 122,
+      "value": "Allmänt"
+    },
+    {
+      "key": 123,
+      "value": "Tid och datum"
+    },
+    {
+      "key": 124,
+      "value": "Väder"
+    },
+    {
+      "key": 125,
+      "value": "Uppdrag"
+    },
+    {
+      "key": 126,
+      "value": "Svårighet"
+    },
+    {
+      "key": 127,
+      "value": "Spelläge"
+    },
+    {
+      "key": 128,
+      "value": "Dag"
+    },
+    {
+      "key": 129,
+      "value": "Månad"
+    },
+    {
+      "key": 130,
+      "value": "År"
+    },
+    {
+      "key": 131,
+      "value": "Tid på dagen"
+    },
+    {
+      "key": 132,
+      "value": "Plats"
+    },
+    {
+      "key": 133,
+      "value": "Vindhastighet"
+    },
+    {
+      "key": 134,
+      "value": "Vindriktning"
+    },
+    {
+      "key": 135,
+      "value": "Datum"
+    },
+    {
+      "key": 136,
+      "value": "Dimma"
+    },
+    {
+      "key": 137,
+      "value": "Automatisk navigering"
+    },
+    {
+      "key": 138,
+      "value": "Vänskaplig eldgivning"
+    },
+    {
+      "key": 139,
+      "value": "Besättningsmedlemmar som inte är spelare"
+    },
+    {
+      "key": 140,
+      "value": "Förenklad radio"
+    },
+    {
+      "key": 141,
+      "value": "Realistisk röstdämpning"
+    },
+    {
+      "key": 142,
+      "value": "Snabbt möte"
+    },
+    {
+      "key": 143,
+      "value": "Automatisk motor"
+    },
+    {
+      "key": 144,
+      "value": "Konvojen ändrar riktning med jämna mellanrum"
+    },
+    {
+      "key": 145,
+      "value": "Eskorter använder alltid aktiv sonar"
+    },
+    {
+      "key": 146,
+      "value": "Escort Pursuit Tid"
+    },
+    {
+      "key": 147,
+      "value": "Konvojens storlek"
+    },
+    {
+      "key": 148,
+      "value": "Realistisk omladdningshastighet för torpeder"
+    },
+    {
+      "key": 149,
+      "value": "Felaktiga torpeder"
+    },
+    {
+      "key": 150,
+      "value": "Begränsad noggrannhet för torpeder"
+    },
+    {
+      "key": 151,
+      "value": "Torpedutlösaren beror på vinkeln"
+    },
+    {
+      "key": 152,
+      "value": "Bjud in vänner"
+    },
+    {
+      "key": 153,
+      "value": "Starta spelet"
+    },
+    {
+      "key": 154,
+      "value": "Skärmytsling"
+    },
+    {
+      "key": 155,
+      "value": "Handledning"
+    },
+    {
+      "key": 156,
+      "value": "Biscayabukten"
+    },
+    {
+      "key": 157,
+      "value": "Nordsjön"
+    },
+    {
+      "key": 158,
+      "value": "Norska havet"
+    },
+    {
+      "key": 159,
+      "value": "Östersjön"
+    },
+    {
+      "key": 160,
+      "value": "Liten"
+    },
+    {
+      "key": 161,
+      "value": "Normal"
+    },
+    {
+      "key": 162,
+      "value": "Stor"
+    },
+    {
+      "key": 163,
+      "value": "Kort"
+    },
+    {
+      "key": 164,
+      "value": "Lång"
+    },
+    {
+      "key": 165,
+      "value": "Målsättningar"
+    },
+    {
+      "key": 166,
+      "value": "Klicka för att bläddra bland uppdrag på Steam Workshop!"
+    },
+    {
+      "key": 167,
+      "value": "Exportera uppdrag till urklipp."
+    },
+    {
+      "key": 168,
+      "value": "Importera uppdrag från urklipp."
+    },
+    {
+      "key": 169,
+      "value": "Översikt"
+    },
+    {
+      "key": 170,
+      "value": "Detaljer"
+    },
+    {
+      "key": 171,
+      "value": "Upptäckt under uppdraget"
+    },
+    {
+      "key": 172,
+      "value": "Torpeder avfyrade"
+    },
+    {
+      "key": 173,
+      "value": "Torpeder träffar"
+    },
+    {
+      "key": 174,
+      "value": "Torpedens träffkvot"
+    },
+    {
+      "key": 175,
+      "value": "Handlare förstörda"
+    },
+    {
+      "key": 176,
+      "value": "Förstörda krigsfartyg"
+    },
+    {
+      "key": 177,
+      "value": "Tonnage Sunk"
+    },
+    {
+      "key": 178,
+      "value": "Tid för uppdrag"
+    },
+    {
+      "key": 179,
+      "value": "Exportera till urklipp"
+    },
+    {
+      "key": 180,
+      "value": "Återgå till lobbyn"
+    },
+    {
+      "key": 181,
+      "value": "Återuppta uppdrag"
+    },
+    {
+      "key": 182,
+      "value": "Nästa uppdrag"
+    },
+    {
+      "key": 183,
+      "value": "Koppla från"
+    },
+    {
+      "key": 184,
+      "value": "Återställ bindningar"
+    },
+    {
+      "key": 185,
+      "value": "Gå framåt"
+    },
+    {
+      "key": 186,
+      "value": "Flytta vänster"
+    },
+    {
+      "key": 187,
+      "value": "Gå bakåt"
+    },
+    {
+      "key": 188,
+      "value": "Gå åt höger"
+    },
+    {
+      "key": 189,
+      "value": "Kör"
+    },
+    {
+      "key": 190,
+      "value": "Växla karta"
+    },
+    {
+      "key": 191,
+      "value": "Visa anslutna klienter"
+    },
+    {
+      "key": 192,
+      "value": "Växla stoppur 1"
+    },
+    {
+      "key": 193,
+      "value": "Växla stoppur 2"
+    },
+    {
+      "key": 194,
+      "value": "Växla stoppur 3"
+    },
+    {
+      "key": 195,
+      "value": "Växla stoppur 4"
+    },
+    {
+      "key": 196,
+      "value": "Återställ stoppur 1"
+    },
+    {
+      "key": 197,
+      "value": "Återställ stoppur 2"
+    },
+    {
+      "key": 198,
+      "value": "Återställ stoppur 3"
+    },
+    {
+      "key": 199,
+      "value": "Återställ stoppur 4"
+    },
+    {
+      "key": 200,
+      "value": "Återställ alla stoppur"
+    },
+    {
+      "key": 201,
+      "value": "Eldtorped"
+    },
+    {
+      "key": 202,
+      "value": "Dykplan med lägre framkant"
+    },
+    {
+      "key": 203,
+      "value": "Höj och sänk framåt Dykplan"
+    },
+    {
+      "key": 204,
+      "value": "Dykplan med lägre akter"
+    },
+    {
+      "key": 205,
+      "value": "Höjning av dykplan"
+    },
+    {
+      "key": 206,
+      "value": "Växla ficklampa"
+    },
+    {
+      "key": 207,
+      "value": "Manual för växling av igenkänning"
+    },
+    {
+      "key": 208,
+      "value": "Växla färg på ficklampa"
+    },
+    {
+      "key": 209,
+      "value": "Visa uppdragets mål"
+    },
+    {
+      "key": 210,
+      "value": "Center Forward dykplan"
+    },
+    {
+      "key": 211,
+      "value": "Dykplan med central akter"
+    },
+    {
+      "key": 212,
+      "value": "Morse-nyckel"
+    },
+    {
+      "key": 213,
+      "value": "Morse Single Dot"
+    },
+    {
+      "key": 214,
+      "value": "Morse Enkelt streck"
+    },
+    {
+      "key": 215,
+      "value": "Morse Kontinuerliga punkter"
+    },
+    {
+      "key": 216,
+      "value": "Morse Kontinuerliga streck"
+    },
+    {
+      "key": 217,
+      "value": "Nästa sida med morsealfabetet"
+    },
+    {
+      "key": 218,
+      "value": "Föregående sida med morsealfabetet"
+    },
+    {
+      "key": 219,
+      "value": "Ljud av röst"
+    },
+    {
+      "key": 220,
+      "value": "Bot meny Toggle"
+    },
+    {
+      "key": 221,
+      "value": "Bot Meny1"
+    },
+    {
+      "key": 222,
+      "value": "Bot Meny2"
+    },
+    {
+      "key": 223,
+      "value": "Bot Meny3"
+    },
+    {
+      "key": 224,
+      "value": "Karta Återställ vägmätare"
+    },
+    {
+      "key": 225,
+      "value": "Verktyg för kartsymboler"
+    },
+    {
+      "key": 226,
+      "value": "Verktyg för kartlinje"
+    },
+    {
+      "key": 227,
+      "value": "Verktyg för kartcirkel"
+    },
+    {
+      "key": 228,
+      "value": "Verktyg för att skriva karta"
+    },
+    {
+      "key": 229,
+      "value": "Verktyg för kopiering av kartlinjer"
+    },
+    {
+      "key": 230,
+      "value": "Verktyg för att sudda ut kartor"
+    },
+    {
+      "key": 231,
+      "value": "Kartvinkelmätare Verktyg"
+    },
+    {
+      "key": 232,
+      "value": "Karta Snabbverktyg Symbol"
+    },
+    {
+      "key": 233,
+      "value": "Karta Quicktool Linje"
+    },
+    {
+      "key": 234,
+      "value": "Karta Quicktool Cirkel"
+    },
+    {
+      "key": 235,
+      "value": "Karta Quicktool Kopiera linje"
+    },
+    {
+      "key": 236,
+      "value": "Karta Quicktool suddgummi"
+    },
+    {
+      "key": 237,
+      "value": "Karta Quicktool gradskiva"
+    },
+    {
+      "key": 238,
+      "value": "Karta Toggle Skiss"
+    },
+    {
+      "key": 239,
+      "value": "Karta Gradskiva Följ"
+    },
+    {
+      "key": 240,
+      "value": "Karta Växla till omvänd kompass"
+    },
+    {
+      "key": 241,
+      "value": "Karta Växla tidsläge"
+    },
+    {
+      "key": 242,
+      "value": "Karta Växla Visa vinkel"
+    },
+    {
+      "key": 243,
+      "value": "Karta Växla Snap"
+    },
+    {
+      "key": 244,
+      "value": "Karta Växla Visa avstånd"
+    },
+    {
+      "key": 245,
+      "value": "Karta Växla symbol"
+    },
+    {
+      "key": 246,
+      "value": "Återställning av karta Rotation av gradskiva"
+    },
+    {
+      "key": 247,
+      "value": "Karta Toggle Dra från mittpunkt"
+    },
+    {
+      "key": 248,
+      "value": "Karta Växla Polylinje"
+    },
+    {
+      "key": 249,
+      "value": "Karta Växla linjestil"
+    },
+    {
+      "key": 250,
+      "value": "Karta Växla Visa gradskiva"
+    },
+    {
+      "key": 251,
+      "value": "Karta Ange Vinkel Före Avstånd"
+    },
+    {
+      "key": 252,
+      "value": "Växla periskopöverlägg"
+    },
+    {
+      "key": 253,
+      "value": "Byt Periskop Overlay"
+    },
+    {
+      "key": 254,
+      "value": "Öka Periscope Overlay X 1"
+    },
+    {
+      "key": 255,
+      "value": "Minska Periscope Overlay X 1"
+    },
+    {
+      "key": 256,
+      "value": "Öka Periscope Overlay X 10"
+    },
+    {
+      "key": 257,
+      "value": "Minska Periscope Overlay X 10"
+    },
+    {
+      "key": 258,
+      "value": "Öka ljusstyrkan i Periscope"
+    },
+    {
+      "key": 259,
+      "value": "Minska Periscope Brigthness"
+    },
+    {
+      "key": 260,
+      "value": "Toggle Anteckningsbok"
+    },
+    {
+      "key": 261,
+      "value": "Besättning"
+    },
+    {
+      "key": 262,
+      "value": "Utlastning"
+    },
+    {
+      "key": 263,
+      "value": "Lämna besättning"
+    },
+    {
+      "key": 264,
+      "value": "Gå med i besättningen"
+    },
+    {
+      "key": 265,
+      "value": "Ansluta"
+    },
+    {
+      "key": 266,
+      "value": "Besättningen är fulltalig"
+    },
+    {
+      "key": 267,
+      "value": "Smeknamn"
+    },
+    {
+      "key": 268,
+      "value": "Gemenskap"
+    },
+    {
+      "key": 269,
+      "value": "Rapportera ett fel"
+    },
+    {
+      "key": 270,
+      "value": "Alternativ för besättning"
+    },
+    {
+      "key": 271,
+      "value": "Alternativ för förbudslista"
+    },
+    {
+      "key": 272,
+      "value": "Logg över verksamheten"
+    },
+    {
+      "key": 273,
+      "value": "CV"
+    },
+    {
+      "key": 274,
+      "value": "Lämna spelet"
+    },
+    {
+      "key": 275,
+      "value": "Metadata"
+    },
+    {
+      "key": 276,
+      "value": "Startvillkor"
+    },
+    {
+      "key": 277,
+      "value": "Villkor för seger"
+    },
+    {
+      "key": 278,
+      "value": "Målsättningar"
+    },
+    {
+      "key": 279,
+      "value": "Alltid visa"
+    },
+    {
+      "key": 280,
+      "value": "Visa vid färdigställande"
+    },
+    {
+      "key": 281,
+      "value": "Alltid dold"
+    },
+    {
+      "key": 282,
+      "value": "Höjer eller sänker spelets totala volym samtidigt som förhållandet mellan olika volymer bibehålls."
+    },
+    {
+      "key": 283,
+      "value": "Styr volymen på musiken."
+    },
+    {
+      "key": 284,
+      "value": "Styr volymen på olika effekter, t.ex. explosioner och liknande."
+    },
+    {
+      "key": 285,
+      "value": "Styr volymen på inkommande röstchatt."
+    },
+    {
+      "key": 286,
+      "value": "Visar mikrofonens ingångsnivå."
+    },
+    {
+      "key": 287,
+      "value": "Push-To-Talk slår på och stänger av mikrofonen när du trycker på lämplig knapp."
+    },
+    {
+      "key": 288,
+      "value": "Aktivera för att visa en ledtråd för när mikrofonen är aktiverad eller inte."
+    },
+    {
+      "key": 289,
+      "value": "Inaktivera för att stoppa morse-ljudeffekten från att spelas upp när morse-tangenten används."
+    },
+    {
+      "key": 290,
+      "value": "Kodat meddelande"
+    },
+    {
+      "key": 291,
+      "value": "Spara meddelande"
+    },
+    {
+      "key": 292,
+      "value": "Markera meddelande som skickat"
+    },
+    {
+      "key": 293,
+      "value": "Avkodat meddelande"
+    },
+    {
+      "key": 294,
+      "value": "Kanal"
+    },
+    {
+      "key": 295,
+      "value": "Från"
+    },
+    {
+      "key": 296,
+      "value": "Till"
+    },
+    {
+      "key": 297,
+      "value": "Avbryt"
+    },
+    {
+      "key": 298,
+      "value": "Skicka"
+    },
+    {
+      "key": 299,
+      "value": "Spara"
+    },
+    {
+      "key": 300,
+      "value": "Radera"
+    },
+    {
+      "key": 301,
+      "value": "Sändning"
+    },
+    {
+      "key": 302,
+      "value": "U-96"
+    },
+    {
+      "key": 303,
+      "value": "U-552"
+    },
+    {
+      "key": 304,
+      "value": "U-564"
+    },
+    {
+      "key": 305,
+      "value": "U-307"
+    },
+    {
+      "key": 306,
+      "value": "U-98"
+    },
+    {
+      "key": 307,
+      "value": "U-371"
+    },
+    {
+      "key": 308,
+      "value": "U-706"
+    },
+    {
+      "key": 309,
+      "value": "U-431"
+    },
+    {
+      "key": 310,
+      "value": "Acceptera"
+    },
+    {
+      "key": 311,
+      "value": "Förkasta"
+    },
+    {
+      "key": 312,
+      "value": "Avvisa och ignorera"
+    },
+    {
+      "key": 313,
+      "value": "Acceptera begäran om anslutning"
+    },
+    {
+      "key": 314,
+      "value": "Avvisa begäran om anslutning"
+    },
+    {
+      "key": 315,
+      "value": "Avvisa och ignorera begäran om anslutning"
+    }
+  ],
+  "suffixPairs": [
+    {
+      "key": 0,
+      "value": "°"
+    },
+    {
+      "key": 1,
+      "value": " kts"
+    },
+    {
+      "key": 2,
+      "value": " %"
+    },
+    {
+      "key": 3,
+      "value": " meter"
+    },
+    {
+      "key": 4,
+      "value": " ton"
+    },
+    {
+      "key": 5,
+      "value": "km"
+    },
+    {
+      "key": 6,
+      "value": "km/h"
+    }
+  ],
+  "morsePairs": [
+    {
+      "key": 0,
+      "value": "Anropar någon"
+    },
+    {
+      "key": 1,
+      "value": "Från kanal"
+    },
+    {
+      "key": 9,
+      "value": "Över"
+    },
+    {
+      "key": 2,
+      "value": "Roger"
+    },
+    {
+      "key": 3,
+      "value": "Meddelande verifierat"
+    },
+    {
+      "key": 4,
+      "value": "Säg igen"
+    },
+    {
+      "key": 5,
+      "value": "Vänta"
+    },
+    {
+      "key": 6,
+      "value": "Ut"
+    },
+    {
+      "key": 7,
+      "value": "Ja"
+    },
+    {
+      "key": 8,
+      "value": "Nej"
+    },
+    {
+      "key": 10,
+      "value": "Nytt meddelande"
+    },
+    {
+      "key": 11,
+      "value": "Slut på meddelandet"
+    }
+  ]
+}

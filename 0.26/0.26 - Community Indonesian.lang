@@ -1,0 +1,1353 @@
+{
+  "header": "Community (AI) Indonesian",
+  "pairs": [
+    {
+      "key": -1,
+      "value": "TIDAK VALID"
+    },
+    {
+      "key": 0,
+      "value": "TIDAK TERCACHING"
+    },
+    {
+      "key": 20,
+      "value": "Bermain"
+    },
+    {
+      "key": 21,
+      "value": "Manual"
+    },
+    {
+      "key": 22,
+      "value": "Pilihan"
+    },
+    {
+      "key": 23,
+      "value": "Editor"
+    },
+    {
+      "key": 24,
+      "value": "Bengkel"
+    },
+    {
+      "key": 25,
+      "value": "Kredit"
+    },
+    {
+      "key": 26,
+      "value": "Berhenti"
+    },
+    {
+      "key": 4,
+      "value": "Berita"
+    },
+    {
+      "key": 3,
+      "value": "Versi"
+    },
+    {
+      "key": 5,
+      "value": "Bahasa"
+    },
+    {
+      "key": 6,
+      "value": "Pada"
+    },
+    {
+      "key": 7,
+      "value": "Mati"
+    },
+    {
+      "key": 8,
+      "value": "Diaktifkan"
+    },
+    {
+      "key": 9,
+      "value": "Dinonaktifkan"
+    },
+    {
+      "key": 10,
+      "value": "Tampilkan"
+    },
+    {
+      "key": 11,
+      "value": "Sembunyikan"
+    },
+    {
+      "key": 12,
+      "value": "Apa saja"
+    },
+    {
+      "key": 13,
+      "value": "Ya."
+    },
+    {
+      "key": 14,
+      "value": "Tidak."
+    },
+    {
+      "key": 15,
+      "value": "Waktu"
+    },
+    {
+      "key": 16,
+      "value": "Mulai"
+    },
+    {
+      "key": 17,
+      "value": "Waktu bermain"
+    },
+    {
+      "key": 18,
+      "value": "Acak"
+    },
+    {
+      "key": 19,
+      "value": "Menerbitkan"
+    },
+    {
+      "key": 1,
+      "value": "Kembali"
+    },
+    {
+      "key": 2,
+      "value": "Pergi."
+    },
+    {
+      "key": 27,
+      "value": "Audio"
+    },
+    {
+      "key": 28,
+      "value": "Video"
+    },
+    {
+      "key": 29,
+      "value": "Keyboard"
+    },
+    {
+      "key": 30,
+      "value": "Mouse"
+    },
+    {
+      "key": 31,
+      "value": "Permainan"
+    },
+    {
+      "key": 32,
+      "value": "Air"
+    },
+    {
+      "key": 33,
+      "value": "Pasca-Pemrosesan"
+    },
+    {
+      "key": 34,
+      "value": "Volume Utama"
+    },
+    {
+      "key": 35,
+      "value": "Volume Musik"
+    },
+    {
+      "key": 36,
+      "value": "Volume Efek"
+    },
+    {
+      "key": 37,
+      "value": "Volume VOIP"
+    },
+    {
+      "key": 38,
+      "value": "Volume Antarmuka Pengguna"
+    },
+    {
+      "key": 39,
+      "value": "Volume Mikrofon"
+    },
+    {
+      "key": 40,
+      "value": "Dorong Untuk Bicara (Push-To-Talk)"
+    },
+    {
+      "key": 41,
+      "value": "Menampilkan Petunjuk Push-To-Talk"
+    },
+    {
+      "key": 42,
+      "value": "Memutar masukan morse"
+    },
+    {
+      "key": 43,
+      "value": "Resolusi Permainan"
+    },
+    {
+      "key": 44,
+      "value": "Mode Tampilan"
+    },
+    {
+      "key": 45,
+      "value": "Sinkronisasi Vertikal"
+    },
+    {
+      "key": 46,
+      "value": "Batas Kecepatan Bingkai"
+    },
+    {
+      "key": 47,
+      "value": "Resolusi Tekstur"
+    },
+    {
+      "key": 48,
+      "value": "Penyaringan Anisotropik"
+    },
+    {
+      "key": 49,
+      "value": "Bayangan"
+    },
+    {
+      "key": 50,
+      "value": "Layar Penuh Eksklusif"
+    },
+    {
+      "key": 51,
+      "value": "Jendela Tanpa Batas"
+    },
+    {
+      "key": 52,
+      "value": "Jendela yang Dimaksimalkan"
+    },
+    {
+      "key": 53,
+      "value": "Jendela"
+    },
+    {
+      "key": 54,
+      "value": "Setiap Bingkai"
+    },
+    {
+      "key": 55,
+      "value": "Setiap Bingkai Lainnya"
+    },
+    {
+      "key": 56,
+      "value": "Lebih rendah"
+    },
+    {
+      "key": 57,
+      "value": "Rendah"
+    },
+    {
+      "key": 58,
+      "value": "Sedang"
+    },
+    {
+      "key": 59,
+      "value": "Tinggi"
+    },
+    {
+      "key": 60,
+      "value": "Sangat Tinggi"
+    },
+    {
+      "key": 61,
+      "value": "Ultra"
+    },
+    {
+      "key": 62,
+      "value": "Terlalu banyak"
+    },
+    {
+      "key": 63,
+      "value": "Max"
+    },
+    {
+      "key": 64,
+      "value": "Sensitivitas Rotasi Kamera"
+    },
+    {
+      "key": 65,
+      "value": "Sensitivitas Interaksi Kursor"
+    },
+    {
+      "key": 66,
+      "value": "Intensitas Roda Gulir"
+    },
+    {
+      "key": 67,
+      "value": "Skala Kursor"
+    },
+    {
+      "key": 68,
+      "value": "Membalikkan Mouse"
+    },
+    {
+      "key": 69,
+      "value": "Skala Garis Peta"
+    },
+    {
+      "key": 70,
+      "value": "Skala Font Peta"
+    },
+    {
+      "key": 71,
+      "value": "Tampilkan Papan Nama"
+    },
+    {
+      "key": 72,
+      "value": "Tampilkan Keterangan Alat"
+    },
+    {
+      "key": 73,
+      "value": "Tampilkan Penghitung Kecepatan Bingkai"
+    },
+    {
+      "key": 74,
+      "value": "Tampilkan Tutorial Saat Game Dimulai"
+    },
+    {
+      "key": 75,
+      "value": "Mengaktifkan Goyangan Kamera"
+    },
+    {
+      "key": 76,
+      "value": "Bidang pandang"
+    },
+    {
+      "key": 77,
+      "value": "Opasitas Latar Belakang Menu"
+    },
+    {
+      "key": 78,
+      "value": "Resolusi Air"
+    },
+    {
+      "key": 79,
+      "value": "Jumlah Partikel Semprotan Air"
+    },
+    {
+      "key": 80,
+      "value": "Kualitas Busa Dinamis"
+    },
+    {
+      "key": 81,
+      "value": "Pratinjau Air"
+    },
+    {
+      "key": 82,
+      "value": "Oklusi Sekitar Ruang Layar"
+    },
+    {
+      "key": 83,
+      "value": "Refleksi Ruang Layar"
+    },
+    {
+      "key": 84,
+      "value": "Anti-Aliasing"
+    },
+    {
+      "key": 85,
+      "value": "Mekar"
+    },
+    {
+      "key": 86,
+      "value": "Koreksi Kecerahan"
+    },
+    {
+      "key": 87,
+      "value": "Dither"
+    },
+    {
+      "key": 88,
+      "value": "Buram Gerakan"
+    },
+    {
+      "key": 89,
+      "value": "Kedalaman Bidang"
+    },
+    {
+      "key": 90,
+      "value": "Aberasi Kromatik"
+    },
+    {
+      "key": 91,
+      "value": "Buka Folder Bahasa"
+    },
+    {
+      "key": 92,
+      "value": "Muat Ulang Bahasa"
+    },
+    {
+      "key": 93,
+      "value": "Mengatur Ulang Semua Pengaturan"
+    },
+    {
+      "key": 94,
+      "value": "Temukan Lobi"
+    },
+    {
+      "key": 95,
+      "value": "Buat Lobi"
+    },
+    {
+      "key": 96,
+      "value": "Filter"
+    },
+    {
+      "key": 97,
+      "value": "Jarak Lobi"
+    },
+    {
+      "key": 98,
+      "value": "Kata sandi"
+    },
+    {
+      "key": 99,
+      "value": "Bot"
+    },
+    {
+      "key": 100,
+      "value": "Lobi Penuh"
+    },
+    {
+      "key": 101,
+      "value": "Gaya bermain"
+    },
+    {
+      "key": 102,
+      "value": "Santai"
+    },
+    {
+      "key": 103,
+      "value": "Hardcore"
+    },
+    {
+      "key": 104,
+      "value": "Bermain peran"
+    },
+    {
+      "key": 105,
+      "value": "Tutup"
+    },
+    {
+      "key": 106,
+      "value": "Default"
+    },
+    {
+      "key": 107,
+      "value": "Jauh"
+    },
+    {
+      "key": 108,
+      "value": "Di seluruh dunia"
+    },
+    {
+      "key": 111,
+      "value": "Judul"
+    },
+    {
+      "key": 112,
+      "value": "Deskripsi"
+    },
+    {
+      "key": 113,
+      "value": "Visibilitas"
+    },
+    {
+      "key": 114,
+      "value": "Teman Dapat Mengundang Untuk Melobi"
+    },
+    {
+      "key": 115,
+      "value": "Tersembunyi"
+    },
+    {
+      "key": 116,
+      "value": "Hanya untuk Teman"
+    },
+    {
+      "key": 117,
+      "value": "Publik"
+    },
+    {
+      "key": 109,
+      "value": "Menyegarkan"
+    },
+    {
+      "key": 110,
+      "value": "Membuat"
+    },
+    {
+      "key": 118,
+      "value": "Pengarahan Misi"
+    },
+    {
+      "key": 119,
+      "value": "Pengaturan Kesulitan"
+    },
+    {
+      "key": 120,
+      "value": "Skenario"
+    },
+    {
+      "key": 121,
+      "value": "Pesanan"
+    },
+    {
+      "key": 122,
+      "value": "Umum"
+    },
+    {
+      "key": 123,
+      "value": "Waktu dan Tanggal"
+    },
+    {
+      "key": 124,
+      "value": "Cuaca"
+    },
+    {
+      "key": 125,
+      "value": "Misi"
+    },
+    {
+      "key": 126,
+      "value": "Kesulitan"
+    },
+    {
+      "key": 127,
+      "value": "Mode Permainan"
+    },
+    {
+      "key": 128,
+      "value": "Hari"
+    },
+    {
+      "key": 129,
+      "value": "Bulan"
+    },
+    {
+      "key": 130,
+      "value": "Tahun"
+    },
+    {
+      "key": 131,
+      "value": "Waktu dalam sehari"
+    },
+    {
+      "key": 132,
+      "value": "Lokasi"
+    },
+    {
+      "key": 133,
+      "value": "Kecepatan Angin"
+    },
+    {
+      "key": 134,
+      "value": "Arah Angin"
+    },
+    {
+      "key": 135,
+      "value": "Tanggal"
+    },
+    {
+      "key": 136,
+      "value": "Kabut"
+    },
+    {
+      "key": 137,
+      "value": "Navigasi Otomatis"
+    },
+    {
+      "key": 138,
+      "value": "Api yang bersahabat"
+    },
+    {
+      "key": 139,
+      "value": "Anggota Kru Non-Pemain"
+    },
+    {
+      "key": 140,
+      "value": "Radio yang Disederhanakan"
+    },
+    {
+      "key": 141,
+      "value": "Pelemahan Suara yang Realistis"
+    },
+    {
+      "key": 142,
+      "value": "Pertemuan Cepat"
+    },
+    {
+      "key": 143,
+      "value": "Mesin Otomatis"
+    },
+    {
+      "key": 144,
+      "value": "Konvoi Secara Berkala Mengubah Arah"
+    },
+    {
+      "key": 145,
+      "value": "Pengawalan Selalu Menggunakan Sonar Aktif"
+    },
+    {
+      "key": 146,
+      "value": "Waktu Pengawalan Pengejaran"
+    },
+    {
+      "key": 147,
+      "value": "Ukuran Konvoi"
+    },
+    {
+      "key": 148,
+      "value": "Kecepatan Reload Torpedo yang Realistis"
+    },
+    {
+      "key": 149,
+      "value": "Torpedo Rusak"
+    },
+    {
+      "key": 150,
+      "value": "Akurasi Torpedo Terbatas"
+    },
+    {
+      "key": 151,
+      "value": "Pemicu Torpedo Tergantung Pada Sudut"
+    },
+    {
+      "key": 152,
+      "value": "Undang Teman"
+    },
+    {
+      "key": 153,
+      "value": "Mulai Permainan"
+    },
+    {
+      "key": 154,
+      "value": "Pertempuran"
+    },
+    {
+      "key": 155,
+      "value": "Tutorial"
+    },
+    {
+      "key": 156,
+      "value": "Teluk Biscay"
+    },
+    {
+      "key": 157,
+      "value": "Laut Utara"
+    },
+    {
+      "key": 158,
+      "value": "Laut Norwegia"
+    },
+    {
+      "key": 159,
+      "value": "Laut Baltik"
+    },
+    {
+      "key": 160,
+      "value": "Kecil"
+    },
+    {
+      "key": 161,
+      "value": "Normal"
+    },
+    {
+      "key": 162,
+      "value": "Besar"
+    },
+    {
+      "key": 163,
+      "value": "Pendek"
+    },
+    {
+      "key": 164,
+      "value": "Panjang"
+    },
+    {
+      "key": 165,
+      "value": "Tujuan"
+    },
+    {
+      "key": 166,
+      "value": "Klik untuk menelusuri misi di Steam Workshop!"
+    },
+    {
+      "key": 167,
+      "value": "Ekspor misi ke papan klip."
+    },
+    {
+      "key": 168,
+      "value": "Mengimpor misi dari papan klip."
+    },
+    {
+      "key": 169,
+      "value": "Ikhtisar"
+    },
+    {
+      "key": 170,
+      "value": "Detail"
+    },
+    {
+      "key": 171,
+      "value": "Terdeteksi Selama Misi"
+    },
+    {
+      "key": 172,
+      "value": "Torpedo Ditembakkan"
+    },
+    {
+      "key": 173,
+      "value": "Torpedo Hit"
+    },
+    {
+      "key": 174,
+      "value": "Rasio Hit Torpedo"
+    },
+    {
+      "key": 175,
+      "value": "Para Pedagang Hancur"
+    },
+    {
+      "key": 176,
+      "value": "Kapal Perang Dihancurkan"
+    },
+    {
+      "key": 177,
+      "value": "Tonase Tenggelam"
+    },
+    {
+      "key": 178,
+      "value": "Waktu Misi"
+    },
+    {
+      "key": 179,
+      "value": "Ekspor Ke Papan Klip"
+    },
+    {
+      "key": 180,
+      "value": "Kembali ke Lobi"
+    },
+    {
+      "key": 181,
+      "value": "Coba lagi Misi"
+    },
+    {
+      "key": 182,
+      "value": "Misi Berikutnya"
+    },
+    {
+      "key": 183,
+      "value": "Putuskan sambungan"
+    },
+    {
+      "key": 184,
+      "value": "Atur Ulang Ikatan"
+    },
+    {
+      "key": 185,
+      "value": "Bergerak maju"
+    },
+    {
+      "key": 186,
+      "value": "Pindah ke kiri"
+    },
+    {
+      "key": 187,
+      "value": "Pindah ke belakang"
+    },
+    {
+      "key": 188,
+      "value": "Pindah ke kanan"
+    },
+    {
+      "key": 189,
+      "value": "Jalankan"
+    },
+    {
+      "key": 190,
+      "value": "Beralih Peta"
+    },
+    {
+      "key": 191,
+      "value": "Tampilkan Klien yang Terhubung"
+    },
+    {
+      "key": 192,
+      "value": "Beralih ke Stopwatch 1"
+    },
+    {
+      "key": 193,
+      "value": "Beralih ke Stopwatch 2"
+    },
+    {
+      "key": 194,
+      "value": "Beralih ke Stopwatch 3"
+    },
+    {
+      "key": 195,
+      "value": "Beralih ke Stopwatch 4"
+    },
+    {
+      "key": 196,
+      "value": "Setel Ulang Stopwatch 1"
+    },
+    {
+      "key": 197,
+      "value": "Setel Ulang Stopwatch 2"
+    },
+    {
+      "key": 198,
+      "value": "Setel Ulang Stopwatch 3"
+    },
+    {
+      "key": 199,
+      "value": "Setel Ulang Stopwatch 4"
+    },
+    {
+      "key": 200,
+      "value": "Atur Ulang Semua Stopwatch"
+    },
+    {
+      "key": 201,
+      "value": "Torpedo Api"
+    },
+    {
+      "key": 202,
+      "value": "Diveplanes Depan Bawah"
+    },
+    {
+      "key": 203,
+      "value": "Naikkan Diveplanes ke Depan"
+    },
+    {
+      "key": 204,
+      "value": "Bidang Balik Bagian Belakang Lebih Rendah"
+    },
+    {
+      "key": 205,
+      "value": "Naikkan Pesawat Bagian Belakang"
+    },
+    {
+      "key": 206,
+      "value": "Alihkan Senter"
+    },
+    {
+      "key": 207,
+      "value": "Panduan Pengalihan Pengakuan"
+    },
+    {
+      "key": 208,
+      "value": "Alihkan Warna Senter"
+    },
+    {
+      "key": 209,
+      "value": "Tampilkan Tujuan Misi"
+    },
+    {
+      "key": 210,
+      "value": "Diveplane Penyerang Tengah"
+    },
+    {
+      "key": 211,
+      "value": "Diveplane Belakang Tengah"
+    },
+    {
+      "key": 212,
+      "value": "Kunci Morse"
+    },
+    {
+      "key": 213,
+      "value": "Morse Single Dot"
+    },
+    {
+      "key": 214,
+      "value": "Morse Single Dash"
+    },
+    {
+      "key": 215,
+      "value": "Titik-Titik Berkelanjutan Morse"
+    },
+    {
+      "key": 216,
+      "value": "Morse Garis Putus-Putus Berkelanjutan"
+    },
+    {
+      "key": 217,
+      "value": "Halaman Teks Morse Berikutnya"
+    },
+    {
+      "key": 218,
+      "value": "Halaman Teks Morse sebelumnya"
+    },
+    {
+      "key": 219,
+      "value": "Suara Bisu"
+    },
+    {
+      "key": 220,
+      "value": "Tombol Menu Bot"
+    },
+    {
+      "key": 221,
+      "value": "Menu Bot1"
+    },
+    {
+      "key": 222,
+      "value": "Menu Bot2"
+    },
+    {
+      "key": 223,
+      "value": "Menu Bot3"
+    },
+    {
+      "key": 224,
+      "value": "Peta Setel Ulang Odometer"
+    },
+    {
+      "key": 225,
+      "value": "Alat Simbol Peta"
+    },
+    {
+      "key": 226,
+      "value": "Alat Garis Peta"
+    },
+    {
+      "key": 227,
+      "value": "Alat Lingkaran Peta"
+    },
+    {
+      "key": 228,
+      "value": "Alat Tulis Peta"
+    },
+    {
+      "key": 229,
+      "value": "Alat Garis Salin Peta"
+    },
+    {
+      "key": 230,
+      "value": "Alat Penghapus Peta"
+    },
+    {
+      "key": 231,
+      "value": "Alat Busur Derajat Peta"
+    },
+    {
+      "key": 232,
+      "value": "Simbol Alat Cepat Peta"
+    },
+    {
+      "key": 233,
+      "value": "Peta Garis Quicktool"
+    },
+    {
+      "key": 234,
+      "value": "Lingkaran Alat Cepat Peta"
+    },
+    {
+      "key": 235,
+      "value": "Peta Alat Cepat Salin Garis"
+    },
+    {
+      "key": 236,
+      "value": "Penghapus Alat Cepat Peta"
+    },
+    {
+      "key": 237,
+      "value": "Peta Busur Derajat Quicktool"
+    },
+    {
+      "key": 238,
+      "value": "Sketsa Alihkan Peta"
+    },
+    {
+      "key": 239,
+      "value": "Ikuti Busur Derajat Peta"
+    },
+    {
+      "key": 240,
+      "value": "Peta Membalikkan Kompas Terbalik"
+    },
+    {
+      "key": 241,
+      "value": "Peta Beralih Mode Waktu"
+    },
+    {
+      "key": 242,
+      "value": "Peta Beralih Tampilkan Sudut"
+    },
+    {
+      "key": 243,
+      "value": "Jepret Beralih Peta"
+    },
+    {
+      "key": 244,
+      "value": "Peta Beralih Tampilkan Jarak"
+    },
+    {
+      "key": 245,
+      "value": "Simbol Pengalihan Peta"
+    },
+    {
+      "key": 246,
+      "value": "Peta Reset Rotasi Busur Derajat"
+    },
+    {
+      "key": 247,
+      "value": "Peta Beralih Menggambar Dari Titik Tengah"
+    },
+    {
+      "key": 248,
+      "value": "Peta Alihkan Polyline"
+    },
+    {
+      "key": 249,
+      "value": "Peta Beralih Gaya Garis"
+    },
+    {
+      "key": 250,
+      "value": "Peta Beralih Tampilkan Busur Derajat"
+    },
+    {
+      "key": 251,
+      "value": "Peta Masukkan Sudut Sebelum Jarak"
+    },
+    {
+      "key": 252,
+      "value": "Alihkan Hamparan Periskop"
+    },
+    {
+      "key": 253,
+      "value": "Tukar Hamparan Periskop"
+    },
+    {
+      "key": 254,
+      "value": "Tingkatkan Hamparan Periskop X 1"
+    },
+    {
+      "key": 255,
+      "value": "Kurangi Hamparan Periskop X 1"
+    },
+    {
+      "key": 256,
+      "value": "Tingkatkan Hamparan Periskop X 10"
+    },
+    {
+      "key": 257,
+      "value": "Kurangi Hamparan Periskop X 10"
+    },
+    {
+      "key": 258,
+      "value": "Meningkatkan Kecerahan Periskop"
+    },
+    {
+      "key": 259,
+      "value": "Kurangi Brigthness Periskop"
+    },
+    {
+      "key": 260,
+      "value": "Beralih Buku Catatan"
+    },
+    {
+      "key": 261,
+      "value": "Kru"
+    },
+    {
+      "key": 262,
+      "value": "Pemuatan"
+    },
+    {
+      "key": 263,
+      "value": "Tinggalkan Kru"
+    },
+    {
+      "key": 264,
+      "value": "Bergabung dengan Kru"
+    },
+    {
+      "key": 265,
+      "value": "Bergabung"
+    },
+    {
+      "key": 266,
+      "value": "Kru Penuh"
+    },
+    {
+      "key": 267,
+      "value": "Nama panggilan"
+    },
+    {
+      "key": 268,
+      "value": "Komunitas"
+    },
+    {
+      "key": 269,
+      "value": "Laporkan Bug"
+    },
+    {
+      "key": 270,
+      "value": "Opsi Kru"
+    },
+    {
+      "key": 271,
+      "value": "Opsi Daftar Larangan"
+    },
+    {
+      "key": 272,
+      "value": "Log Aktivitas"
+    },
+    {
+      "key": 273,
+      "value": "Melanjutkan"
+    },
+    {
+      "key": 274,
+      "value": "Tinggalkan permainan"
+    },
+    {
+      "key": 275,
+      "value": "Metadata"
+    },
+    {
+      "key": 276,
+      "value": "Kondisi Awal"
+    },
+    {
+      "key": 277,
+      "value": "Ketentuan Kemenangan"
+    },
+    {
+      "key": 278,
+      "value": "Target"
+    },
+    {
+      "key": 279,
+      "value": "Selalu Tampilkan"
+    },
+    {
+      "key": 280,
+      "value": "Tunjukkan Pada Penyelesaian"
+    },
+    {
+      "key": 281,
+      "value": "Selalu Tersembunyi"
+    },
+    {
+      "key": 282,
+      "value": "Menaikkan atau menurunkan volume permainan secara keseluruhan sambil mempertahankan rasio di antara volume yang berbeda."
+    },
+    {
+      "key": 283,
+      "value": "Mengontrol volume musik."
+    },
+    {
+      "key": 284,
+      "value": "Mengontrol volume berbagai efek, seperti ledakan dan sejenisnya."
+    },
+    {
+      "key": 285,
+      "value": "Mengontrol volume obrolan suara yang masuk."
+    },
+    {
+      "key": 286,
+      "value": "Menampilkan level input mikrofon Anda."
+    },
+    {
+      "key": 287,
+      "value": "Push-To-Talk mengaktifkan dan menonaktifkan mikrofon Anda ketika tombol yang sesuai ditekan."
+    },
+    {
+      "key": 288,
+      "value": "Aktifkan untuk menampilkan petunjuk kapan mikrofon Anda diaktifkan atau tidak."
+    },
+    {
+      "key": 289,
+      "value": "Nonaktifkan untuk menghentikan efek suara morse agar tidak diputar saat menggunakan tombol morse."
+    },
+    {
+      "key": 290,
+      "value": "Pesan yang disandikan"
+    },
+    {
+      "key": 291,
+      "value": "Simpan Pesan"
+    },
+    {
+      "key": 292,
+      "value": "Tandai Pesan Sebagai Terkirim"
+    },
+    {
+      "key": 293,
+      "value": "Pesan yang diterjemahkan"
+    },
+    {
+      "key": 294,
+      "value": "Saluran"
+    },
+    {
+      "key": 295,
+      "value": "Dari"
+    },
+    {
+      "key": 296,
+      "value": "Untuk"
+    },
+    {
+      "key": 297,
+      "value": "Batal"
+    },
+    {
+      "key": 298,
+      "value": "Kirim"
+    },
+    {
+      "key": 299,
+      "value": "Simpan"
+    },
+    {
+      "key": 300,
+      "value": "Menghapus"
+    },
+    {
+      "key": 301,
+      "value": "Siaran"
+    },
+    {
+      "key": 302,
+      "value": "U-96"
+    },
+    {
+      "key": 303,
+      "value": "U-552"
+    },
+    {
+      "key": 304,
+      "value": "U-564"
+    },
+    {
+      "key": 305,
+      "value": "U-307"
+    },
+    {
+      "key": 306,
+      "value": "U-98"
+    },
+    {
+      "key": 307,
+      "value": "U-371"
+    },
+    {
+      "key": 308,
+      "value": "U-706"
+    },
+    {
+      "key": 309,
+      "value": "U-431"
+    },
+    {
+      "key": 310,
+      "value": "Menerima"
+    },
+    {
+      "key": 311,
+      "value": "Menolak"
+    },
+    {
+      "key": 312,
+      "value": "Tolak dan Abaikan"
+    },
+    {
+      "key": 313,
+      "value": "Terima Permintaan Bergabung"
+    },
+    {
+      "key": 314,
+      "value": "Tolak Permintaan Bergabung"
+    },
+    {
+      "key": 315,
+      "value": "Tolak dan Abaikan Permintaan Bergabung"
+    }
+  ],
+  "suffixPairs": [
+    {
+      "key": 0,
+      "value": "°"
+    },
+    {
+      "key": 1,
+      "value": " kts"
+    },
+    {
+      "key": 2,
+      "value": " %"
+    },
+    {
+      "key": 3,
+      "value": " meter"
+    },
+    {
+      "key": 4,
+      "value": " ton"
+    },
+    {
+      "key": 5,
+      "value": "km"
+    },
+    {
+      "key": 6,
+      "value": "km/jam"
+    }
+  ],
+  "morsePairs": [
+    {
+      "key": 0,
+      "value": "Memanggil siapa pun"
+    },
+    {
+      "key": 1,
+      "value": "Dari Saluran"
+    },
+    {
+      "key": 9,
+      "value": "Ganti."
+    },
+    {
+      "key": 2,
+      "value": "Roger."
+    },
+    {
+      "key": 3,
+      "value": "Pesan diverifikasi"
+    },
+    {
+      "key": 4,
+      "value": "Katakan lagi."
+    },
+    {
+      "key": 5,
+      "value": "Tunggu."
+    },
+    {
+      "key": 6,
+      "value": "Keluar."
+    },
+    {
+      "key": 7,
+      "value": "Ya."
+    },
+    {
+      "key": 8,
+      "value": "Tidak."
+    },
+    {
+      "key": 10,
+      "value": "Pesan baru"
+    },
+    {
+      "key": 11,
+      "value": "Akhir pesan"
+    }
+  ]
+}

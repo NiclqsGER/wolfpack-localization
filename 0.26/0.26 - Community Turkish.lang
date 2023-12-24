@@ -1,0 +1,1353 @@
+{
+  "header": "Community (AI) Turkish",
+  "pairs": [
+    {
+      "key": -1,
+      "value": "GEÇERSİZ"
+    },
+    {
+      "key": 0,
+      "value": "ULAŞILAMADI"
+    },
+    {
+      "key": 20,
+      "value": "Oyun"
+    },
+    {
+      "key": 21,
+      "value": "Manuel"
+    },
+    {
+      "key": 22,
+      "value": "Seçenekler"
+    },
+    {
+      "key": 23,
+      "value": "Editör"
+    },
+    {
+      "key": 24,
+      "value": "Atölye Çalışması"
+    },
+    {
+      "key": 25,
+      "value": "Krediler"
+    },
+    {
+      "key": 26,
+      "value": "Bırak"
+    },
+    {
+      "key": 4,
+      "value": "Haberler"
+    },
+    {
+      "key": 3,
+      "value": "Versiyon"
+    },
+    {
+      "key": 5,
+      "value": "Dil"
+    },
+    {
+      "key": 6,
+      "value": "Açık"
+    },
+    {
+      "key": 7,
+      "value": "Kapalı"
+    },
+    {
+      "key": 8,
+      "value": "Etkin"
+    },
+    {
+      "key": 9,
+      "value": "Engelli"
+    },
+    {
+      "key": 10,
+      "value": "Göster"
+    },
+    {
+      "key": 11,
+      "value": "Gizle"
+    },
+    {
+      "key": 12,
+      "value": "Herhangi bir"
+    },
+    {
+      "key": 13,
+      "value": "Evet"
+    },
+    {
+      "key": 14,
+      "value": "Hayır"
+    },
+    {
+      "key": 15,
+      "value": "Zaman"
+    },
+    {
+      "key": 16,
+      "value": "Başlangıç"
+    },
+    {
+      "key": 17,
+      "value": "Oyun Zamanı"
+    },
+    {
+      "key": 18,
+      "value": "Rastgele"
+    },
+    {
+      "key": 19,
+      "value": "Yayınla"
+    },
+    {
+      "key": 1,
+      "value": "Geri"
+    },
+    {
+      "key": 2,
+      "value": "Ayrılın"
+    },
+    {
+      "key": 27,
+      "value": "Ses"
+    },
+    {
+      "key": 28,
+      "value": "Video"
+    },
+    {
+      "key": 29,
+      "value": "Klavye"
+    },
+    {
+      "key": 30,
+      "value": "Fare"
+    },
+    {
+      "key": 31,
+      "value": "Oyun"
+    },
+    {
+      "key": 32,
+      "value": "Su"
+    },
+    {
+      "key": 33,
+      "value": "İşlem Sonrası"
+    },
+    {
+      "key": 34,
+      "value": "Ana Ses Seviyesi"
+    },
+    {
+      "key": 35,
+      "value": "Müzik Sesi"
+    },
+    {
+      "key": 36,
+      "value": "Efekt Hacmi"
+    },
+    {
+      "key": 37,
+      "value": "VOIP Ses Seviyesi"
+    },
+    {
+      "key": 38,
+      "value": "Kullanıcı Arayüzü Hacmi"
+    },
+    {
+      "key": 39,
+      "value": "Mikrofon Ses Seviyesi"
+    },
+    {
+      "key": 40,
+      "value": "Bas-Konuş"
+    },
+    {
+      "key": 41,
+      "value": "Bas-Konuş İpucunu Göster"
+    },
+    {
+      "key": 42,
+      "value": "Mors girişini oynat"
+    },
+    {
+      "key": 43,
+      "value": "Oyun Çözünürlüğü"
+    },
+    {
+      "key": 44,
+      "value": "Ekran Modu"
+    },
+    {
+      "key": 45,
+      "value": "Dikey Senkronizasyon"
+    },
+    {
+      "key": 46,
+      "value": "Kare Hızı Sınırı"
+    },
+    {
+      "key": 47,
+      "value": "Doku Çözünürlüğü"
+    },
+    {
+      "key": 48,
+      "value": "Anizotropik Filtreleme"
+    },
+    {
+      "key": 49,
+      "value": "Gölgeler"
+    },
+    {
+      "key": 50,
+      "value": "Özel Tam Ekran"
+    },
+    {
+      "key": 51,
+      "value": "Kenarlıksız Pencere"
+    },
+    {
+      "key": 52,
+      "value": "Büyütülmüş Pencere"
+    },
+    {
+      "key": 53,
+      "value": "Pencere"
+    },
+    {
+      "key": 54,
+      "value": "Her Çerçeve"
+    },
+    {
+      "key": 55,
+      "value": "Diğer Her Kare"
+    },
+    {
+      "key": 56,
+      "value": "Daha düşük"
+    },
+    {
+      "key": 57,
+      "value": "Düşük"
+    },
+    {
+      "key": 58,
+      "value": "Orta"
+    },
+    {
+      "key": 59,
+      "value": "Yüksek"
+    },
+    {
+      "key": 60,
+      "value": "Çok Yüksek"
+    },
+    {
+      "key": 61,
+      "value": "Ultra"
+    },
+    {
+      "key": 62,
+      "value": "Overkill"
+    },
+    {
+      "key": 63,
+      "value": "Maksimum"
+    },
+    {
+      "key": 64,
+      "value": "Kamera Dönüş Hassasiyeti"
+    },
+    {
+      "key": 65,
+      "value": "İmleç Etkileşim Hassasiyeti"
+    },
+    {
+      "key": 66,
+      "value": "Kaydırma Tekerleği Yoğunluğu"
+    },
+    {
+      "key": 67,
+      "value": "İmleç Ölçeği"
+    },
+    {
+      "key": 68,
+      "value": "Ters Fare"
+    },
+    {
+      "key": 69,
+      "value": "Harita Çizgi Ölçeği"
+    },
+    {
+      "key": 70,
+      "value": "Harita Yazı Tipi Ölçeği"
+    },
+    {
+      "key": 71,
+      "value": "İsim Plakalarını Göster"
+    },
+    {
+      "key": 72,
+      "value": "Araç İpuçlarını Göster"
+    },
+    {
+      "key": 73,
+      "value": "Kare Hızı Sayacını Göster"
+    },
+    {
+      "key": 74,
+      "value": "Oyun Başlangıcında Öğreticiyi Göster"
+    },
+    {
+      "key": 75,
+      "value": "Kamera Salınımını Etkinleştir"
+    },
+    {
+      "key": 76,
+      "value": "Görüş Alanı"
+    },
+    {
+      "key": 77,
+      "value": "Menü Arka Plan Opaklığı"
+    },
+    {
+      "key": 78,
+      "value": "Su Çözünürlüğü"
+    },
+    {
+      "key": 79,
+      "value": "Su Spreyi Partikül Sayısı"
+    },
+    {
+      "key": 80,
+      "value": "Dinamik Köpük Kalitesi"
+    },
+    {
+      "key": 81,
+      "value": "Su Önizlemesi"
+    },
+    {
+      "key": 82,
+      "value": "Ekran Alanı Ortam Oklüzyonu"
+    },
+    {
+      "key": 83,
+      "value": "Ekran Alanı Yansıması"
+    },
+    {
+      "key": 84,
+      "value": "Örtüşme Önleme"
+    },
+    {
+      "key": 85,
+      "value": "Bloom"
+    },
+    {
+      "key": 86,
+      "value": "Parlaklık Düzeltme"
+    },
+    {
+      "key": 87,
+      "value": "Dither"
+    },
+    {
+      "key": 88,
+      "value": "Hareket Bulanıklığı"
+    },
+    {
+      "key": 89,
+      "value": "Alan Derinliği"
+    },
+    {
+      "key": 90,
+      "value": "Kromatik Aberasyon"
+    },
+    {
+      "key": 91,
+      "value": "Diller Klasörünü Açın"
+    },
+    {
+      "key": 92,
+      "value": "Dilleri Yeniden Yükle"
+    },
+    {
+      "key": 93,
+      "value": "Tüm Ayarları Sıfırla"
+    },
+    {
+      "key": 94,
+      "value": "Lobi Bul"
+    },
+    {
+      "key": 95,
+      "value": "Lobi Oluştur"
+    },
+    {
+      "key": 96,
+      "value": "Filtreler"
+    },
+    {
+      "key": 97,
+      "value": "Lobi Mesafesi"
+    },
+    {
+      "key": 98,
+      "value": "Şifre"
+    },
+    {
+      "key": 99,
+      "value": "Botlar"
+    },
+    {
+      "key": 100,
+      "value": "Dolu Lobiler"
+    },
+    {
+      "key": 101,
+      "value": "Oyun Stili"
+    },
+    {
+      "key": 102,
+      "value": "Gündelik"
+    },
+    {
+      "key": 103,
+      "value": "Hardcore"
+    },
+    {
+      "key": 104,
+      "value": "Roleplay"
+    },
+    {
+      "key": 105,
+      "value": "Kapat"
+    },
+    {
+      "key": 106,
+      "value": "Varsayılan"
+    },
+    {
+      "key": 107,
+      "value": "Uzak"
+    },
+    {
+      "key": 108,
+      "value": "Dünya çapında"
+    },
+    {
+      "key": 111,
+      "value": "Başlık"
+    },
+    {
+      "key": 112,
+      "value": "Açıklama"
+    },
+    {
+      "key": 113,
+      "value": "Görünürlük"
+    },
+    {
+      "key": 114,
+      "value": "Arkadaşlar Lobiye Davet Edebilir"
+    },
+    {
+      "key": 115,
+      "value": "Gizli"
+    },
+    {
+      "key": 116,
+      "value": "Sadece Arkadaşlar"
+    },
+    {
+      "key": 117,
+      "value": "Kamu"
+    },
+    {
+      "key": 109,
+      "value": "Yenile"
+    },
+    {
+      "key": 110,
+      "value": "Oluştur"
+    },
+    {
+      "key": 118,
+      "value": "Görev Brifingi"
+    },
+    {
+      "key": 119,
+      "value": "Zorluk Ayarları"
+    },
+    {
+      "key": 120,
+      "value": "Senaryo"
+    },
+    {
+      "key": 121,
+      "value": "Siparişler"
+    },
+    {
+      "key": 122,
+      "value": "Genel"
+    },
+    {
+      "key": 123,
+      "value": "Saat ve Tarih"
+    },
+    {
+      "key": 124,
+      "value": "Hava Durumu"
+    },
+    {
+      "key": 125,
+      "value": "Görev"
+    },
+    {
+      "key": 126,
+      "value": "Zorluk"
+    },
+    {
+      "key": 127,
+      "value": "Oyun Modu"
+    },
+    {
+      "key": 128,
+      "value": "Gün"
+    },
+    {
+      "key": 129,
+      "value": "Ay"
+    },
+    {
+      "key": 130,
+      "value": "Yıl"
+    },
+    {
+      "key": 131,
+      "value": "Günün Saati"
+    },
+    {
+      "key": 132,
+      "value": "Konum"
+    },
+    {
+      "key": 133,
+      "value": "Rüzgar Hızı"
+    },
+    {
+      "key": 134,
+      "value": "Rüzgar Yönü"
+    },
+    {
+      "key": 135,
+      "value": "Tarih"
+    },
+    {
+      "key": 136,
+      "value": "Sis"
+    },
+    {
+      "key": 137,
+      "value": "Otomatik Navigasyon"
+    },
+    {
+      "key": 138,
+      "value": "Dost Ateşi"
+    },
+    {
+      "key": 139,
+      "value": "Oyuncu Olmayan Mürettebat Üyeleri"
+    },
+    {
+      "key": 140,
+      "value": "Basitleştirilmiş Radyo"
+    },
+    {
+      "key": 141,
+      "value": "Gerçekçi Ses Zayıflaması"
+    },
+    {
+      "key": 142,
+      "value": "Hızlı Karşılaşma"
+    },
+    {
+      "key": 143,
+      "value": "Otomatik Motor"
+    },
+    {
+      "key": 144,
+      "value": "Konvoy Periyodik Olarak Yön Değiştiriyor"
+    },
+    {
+      "key": 145,
+      "value": "Eskortlar Her Zaman Aktif Sonar Kullanır"
+    },
+    {
+      "key": 146,
+      "value": "Eskort Takip Süresi"
+    },
+    {
+      "key": 147,
+      "value": "Konvoy Boyutu"
+    },
+    {
+      "key": 148,
+      "value": "Gerçekçi Torpido Yeniden Doldurma Hızı"
+    },
+    {
+      "key": 149,
+      "value": "Hatalı Torpidolar"
+    },
+    {
+      "key": 150,
+      "value": "Sınırlı Torpido İsabeti"
+    },
+    {
+      "key": 151,
+      "value": "Torpido Tetiği Açıya Bağlı"
+    },
+    {
+      "key": 152,
+      "value": "Arkadaşlarınızı Davet Edin"
+    },
+    {
+      "key": 153,
+      "value": "Oyunu Başlat"
+    },
+    {
+      "key": 154,
+      "value": "Çatışma"
+    },
+    {
+      "key": 155,
+      "value": "Öğretici"
+    },
+    {
+      "key": 156,
+      "value": "Biscay Körfezi"
+    },
+    {
+      "key": 157,
+      "value": "Kuzey Denizi"
+    },
+    {
+      "key": 158,
+      "value": "Norveç Denizi"
+    },
+    {
+      "key": 159,
+      "value": "Baltık Denizi"
+    },
+    {
+      "key": 160,
+      "value": "Küçük"
+    },
+    {
+      "key": 161,
+      "value": "Normal"
+    },
+    {
+      "key": 162,
+      "value": "Büyük"
+    },
+    {
+      "key": 163,
+      "value": "Kısa"
+    },
+    {
+      "key": 164,
+      "value": "Uzun"
+    },
+    {
+      "key": 165,
+      "value": "Hedefler"
+    },
+    {
+      "key": 166,
+      "value": "Steam Atölyesindeki görevlere göz atmak için tıklayın!"
+    },
+    {
+      "key": 167,
+      "value": "Görevi panoya aktarın."
+    },
+    {
+      "key": 168,
+      "value": "Panodan görevi içe aktarın."
+    },
+    {
+      "key": 169,
+      "value": "Genel Bakış"
+    },
+    {
+      "key": 170,
+      "value": "Detaylar"
+    },
+    {
+      "key": 171,
+      "value": "Görev Sırasında Tespit Edildi"
+    },
+    {
+      "key": 172,
+      "value": "Torpidolar Ateşlendi"
+    },
+    {
+      "key": 173,
+      "value": "Torpidolar Vuruldu"
+    },
+    {
+      "key": 174,
+      "value": "Torpido İsabet Oranı"
+    },
+    {
+      "key": 175,
+      "value": "Tüccarlar Yok Edildi"
+    },
+    {
+      "key": 176,
+      "value": "İmha Edilen Savaş Gemileri"
+    },
+    {
+      "key": 177,
+      "value": "Batırılan Tonaj"
+    },
+    {
+      "key": 178,
+      "value": "Görev Zamanı"
+    },
+    {
+      "key": 179,
+      "value": "Panoya Aktar"
+    },
+    {
+      "key": 180,
+      "value": "Lobiye Geri Dön"
+    },
+    {
+      "key": 181,
+      "value": "Görevi Yeniden Dene"
+    },
+    {
+      "key": 182,
+      "value": "Sonraki Görev"
+    },
+    {
+      "key": 183,
+      "value": "Bağlantıyı Kes"
+    },
+    {
+      "key": 184,
+      "value": "Bağları Sıfırla"
+    },
+    {
+      "key": 185,
+      "value": "İleriye Doğru"
+    },
+    {
+      "key": 186,
+      "value": "Sola Hareket Et"
+    },
+    {
+      "key": 187,
+      "value": "Geri Hareket Et"
+    },
+    {
+      "key": 188,
+      "value": "Sağa Dön"
+    },
+    {
+      "key": 189,
+      "value": "Koşmak"
+    },
+    {
+      "key": 190,
+      "value": "Harita Değiştir"
+    },
+    {
+      "key": 191,
+      "value": "Bağlı Müşterileri Göster"
+    },
+    {
+      "key": 192,
+      "value": "Kronometre 1'i Değiştir"
+    },
+    {
+      "key": 193,
+      "value": "Kronometre 2'yi Aç / Kapat"
+    },
+    {
+      "key": 194,
+      "value": "Kronometreyi Değiştir 3"
+    },
+    {
+      "key": 195,
+      "value": "Kronometreyi Değiştir 4"
+    },
+    {
+      "key": 196,
+      "value": "Kronometreyi Sıfırla 1"
+    },
+    {
+      "key": 197,
+      "value": "Kronometreyi Sıfırla 2"
+    },
+    {
+      "key": 198,
+      "value": "Kronometreyi Sıfırla 3"
+    },
+    {
+      "key": 199,
+      "value": "Kronometreyi Sıfırla 4"
+    },
+    {
+      "key": 200,
+      "value": "Tüm Kronometreleri Sıfırla"
+    },
+    {
+      "key": 201,
+      "value": "Ateş Torpidosu"
+    },
+    {
+      "key": 202,
+      "value": "Alt İleri Dalış Düzlemleri"
+    },
+    {
+      "key": 203,
+      "value": "İleri Dalış Uçaklarını Kaldırın"
+    },
+    {
+      "key": 204,
+      "value": "Alt Kıç Dalış Uçakları"
+    },
+    {
+      "key": 205,
+      "value": "Kıçtan Kaldırma Dalış Uçakları"
+    },
+    {
+      "key": 206,
+      "value": "El Fenerini Değiştir"
+    },
+    {
+      "key": 207,
+      "value": "Geçiş Tanıma Kılavuzu"
+    },
+    {
+      "key": 208,
+      "value": "El Feneri Rengini Değiştir"
+    },
+    {
+      "key": 209,
+      "value": "Görev Hedeflerini Göster"
+    },
+    {
+      "key": 210,
+      "value": "Merkez İleri Dalış Uçağı"
+    },
+    {
+      "key": 211,
+      "value": "Orta Kıç Dalış Uçağı"
+    },
+    {
+      "key": 212,
+      "value": "Mors Anahtarı"
+    },
+    {
+      "key": 213,
+      "value": "Mors Tek Nokta"
+    },
+    {
+      "key": 214,
+      "value": "Mors Tek Çizgi"
+    },
+    {
+      "key": 215,
+      "value": "Mors Sürekli Noktalar"
+    },
+    {
+      "key": 216,
+      "value": "Mors Sürekli Tire"
+    },
+    {
+      "key": 217,
+      "value": "Sonraki Mors Metin Sayfası"
+    },
+    {
+      "key": 218,
+      "value": "Önceki Mors Metin Sayfası"
+    },
+    {
+      "key": 219,
+      "value": "Sessiz Ses"
+    },
+    {
+      "key": 220,
+      "value": "Bot Menüsü Geçiş"
+    },
+    {
+      "key": 221,
+      "value": "Bot Menüsü1"
+    },
+    {
+      "key": 222,
+      "value": "Bot Menüsü2"
+    },
+    {
+      "key": 223,
+      "value": "Bot Menüsü3"
+    },
+    {
+      "key": 224,
+      "value": "Harita Kilometre Sayacını Sıfırla"
+    },
+    {
+      "key": 225,
+      "value": "Harita Sembol Aracı"
+    },
+    {
+      "key": 226,
+      "value": "Harita Çizgisi Aracı"
+    },
+    {
+      "key": 227,
+      "value": "Harita Çemberi Aracı"
+    },
+    {
+      "key": 228,
+      "value": "Harita Yazma Aracı"
+    },
+    {
+      "key": 229,
+      "value": "Harita Kopyalama Çizgisi Aracı"
+    },
+    {
+      "key": 230,
+      "value": "Harita Silgi Aracı"
+    },
+    {
+      "key": 231,
+      "value": "Harita Açıölçer Aracı"
+    },
+    {
+      "key": 232,
+      "value": "Harita Quicktool Sembolü"
+    },
+    {
+      "key": 233,
+      "value": "Harita Quicktool Hattı"
+    },
+    {
+      "key": 234,
+      "value": "Harita Quicktool Circle"
+    },
+    {
+      "key": 235,
+      "value": "Harita Quicktool Kopyalama Hattı"
+    },
+    {
+      "key": 236,
+      "value": "Harita Quicktool Silgi"
+    },
+    {
+      "key": 237,
+      "value": "Harita Quicktool Açıölçer"
+    },
+    {
+      "key": 238,
+      "value": "Harita Geçiş Krokisi"
+    },
+    {
+      "key": 239,
+      "value": "Harita Açıölçer Takip"
+    },
+    {
+      "key": 240,
+      "value": "Harita Değiştirme Ters Pusula"
+    },
+    {
+      "key": 241,
+      "value": "Harita Zaman Modunu Değiştir"
+    },
+    {
+      "key": 242,
+      "value": "Harita Toggle Açıyı Göster"
+    },
+    {
+      "key": 243,
+      "value": "Harita Değiştirme Çıtçıt"
+    },
+    {
+      "key": 244,
+      "value": "Harita Değiştir Mesafeyi Göster"
+    },
+    {
+      "key": 245,
+      "value": "Harita Geçiş Sembolü"
+    },
+    {
+      "key": 246,
+      "value": "Harita Sıfırlama Açıölçer Döndürme"
+    },
+    {
+      "key": 247,
+      "value": "Harita Geçiş Orta Noktadan Çiz"
+    },
+    {
+      "key": 248,
+      "value": "Harita Geçiş Çoklu Çizgisi"
+    },
+    {
+      "key": 249,
+      "value": "Harita Geçiş Çizgisi Stili"
+    },
+    {
+      "key": 250,
+      "value": "Harita Toggle Açıölçeri Göster"
+    },
+    {
+      "key": 251,
+      "value": "Harita Mesafeden Önce Açı Girin"
+    },
+    {
+      "key": 252,
+      "value": "Periskop Yerleşimini Değiştir"
+    },
+    {
+      "key": 253,
+      "value": "Periskop Yerleşimini Değiştir"
+    },
+    {
+      "key": 254,
+      "value": "Periskop Yerleşimini Artır X 1"
+    },
+    {
+      "key": 255,
+      "value": "Periskop Yerleşimini Azalt X 1"
+    },
+    {
+      "key": 256,
+      "value": "Periskop Yerleşimini X 10 Artırın"
+    },
+    {
+      "key": 257,
+      "value": "Periskop Yerleşimini Azalt X 10"
+    },
+    {
+      "key": 258,
+      "value": "Periskop Parlaklığını Artırma"
+    },
+    {
+      "key": 259,
+      "value": "Periskop Parlaklığını Azaltın"
+    },
+    {
+      "key": 260,
+      "value": "Not Defterini Değiştir"
+    },
+    {
+      "key": 261,
+      "value": "Mürettebat"
+    },
+    {
+      "key": 262,
+      "value": "Yükleme"
+    },
+    {
+      "key": 263,
+      "value": "Ekipten Ayrılın"
+    },
+    {
+      "key": 264,
+      "value": "Mürettebata Katıl"
+    },
+    {
+      "key": 265,
+      "value": "Katılın"
+    },
+    {
+      "key": 266,
+      "value": "Mürettebat Dolu"
+    },
+    {
+      "key": 267,
+      "value": "Takma ad"
+    },
+    {
+      "key": 268,
+      "value": "Topluluk"
+    },
+    {
+      "key": 269,
+      "value": "Hata Bildir"
+    },
+    {
+      "key": 270,
+      "value": "Mürettebat Seçenekleri"
+    },
+    {
+      "key": 271,
+      "value": "Yasak Listesi Seçenekleri"
+    },
+    {
+      "key": 272,
+      "value": "Faaliyet Günlüğü"
+    },
+    {
+      "key": 273,
+      "value": "Özgeçmiş"
+    },
+    {
+      "key": 274,
+      "value": "Oyundan Ayrıl"
+    },
+    {
+      "key": 275,
+      "value": "Metadata"
+    },
+    {
+      "key": 276,
+      "value": "Başlangıç Koşulları"
+    },
+    {
+      "key": 277,
+      "value": "Zafer Koşulları"
+    },
+    {
+      "key": 278,
+      "value": "Hedefler"
+    },
+    {
+      "key": 279,
+      "value": "Daima Göster"
+    },
+    {
+      "key": 280,
+      "value": "Tamamlandığında Göster"
+    },
+    {
+      "key": 281,
+      "value": "Her Zaman Gizli"
+    },
+    {
+      "key": 282,
+      "value": "Farklı ses seviyeleri arasındaki oranları korurken oyunun genel ses seviyesini yükseltir veya düşürür."
+    },
+    {
+      "key": 283,
+      "value": "Müziğin ses seviyesini kontrol eder."
+    },
+    {
+      "key": 284,
+      "value": "Patlama ve benzeri gibi çeşitli efektlerin ses seviyesini kontrol eder."
+    },
+    {
+      "key": 285,
+      "value": "Gelen sesli sohbetin ses seviyesini kontrol eder."
+    },
+    {
+      "key": 286,
+      "value": "Mikrofon giriş seviyenizi görüntüler."
+    },
+    {
+      "key": 287,
+      "value": "Bas-Konuş, uygun tuşa basıldığında mikrofonunuzu açar ve kapatır."
+    },
+    {
+      "key": 288,
+      "value": "Mikrofonunuzun etkin olup olmadığına dair bir ipucu görüntülemek için Etkinleştir."
+    },
+    {
+      "key": 289,
+      "value": "Mors tuşunu kullanırken mors ses efektinin çalınmasını durdurmak için devre dışı bırakın."
+    },
+    {
+      "key": 290,
+      "value": "Kodlanmış Mesaj"
+    },
+    {
+      "key": 291,
+      "value": "Mesajı Kaydet"
+    },
+    {
+      "key": 292,
+      "value": "Mesajı Gönderildi Olarak İşaretle"
+    },
+    {
+      "key": 293,
+      "value": "Şifresi Çözülmüş Mesaj"
+    },
+    {
+      "key": 294,
+      "value": "Kanal"
+    },
+    {
+      "key": 295,
+      "value": "Kimden"
+    },
+    {
+      "key": 296,
+      "value": "için"
+    },
+    {
+      "key": 297,
+      "value": "İptal"
+    },
+    {
+      "key": 298,
+      "value": "Gönder"
+    },
+    {
+      "key": 299,
+      "value": "Kaydet"
+    },
+    {
+      "key": 300,
+      "value": "Silme"
+    },
+    {
+      "key": 301,
+      "value": "Yayın"
+    },
+    {
+      "key": 302,
+      "value": "U-96"
+    },
+    {
+      "key": 303,
+      "value": "U-552"
+    },
+    {
+      "key": 304,
+      "value": "U-564"
+    },
+    {
+      "key": 305,
+      "value": "U-307"
+    },
+    {
+      "key": 306,
+      "value": "U-98"
+    },
+    {
+      "key": 307,
+      "value": "U-371"
+    },
+    {
+      "key": 308,
+      "value": "U-706"
+    },
+    {
+      "key": 309,
+      "value": "U-431"
+    },
+    {
+      "key": 310,
+      "value": "Kabul et"
+    },
+    {
+      "key": 311,
+      "value": "Reddet"
+    },
+    {
+      "key": 312,
+      "value": "Reddet ve Görmezden Gel"
+    },
+    {
+      "key": 313,
+      "value": "Katılma İsteğini Kabul Et"
+    },
+    {
+      "key": 314,
+      "value": "Katılma İsteğini Reddet"
+    },
+    {
+      "key": 315,
+      "value": "Katılma Talebini Reddetme ve Yok Sayma"
+    }
+  ],
+  "suffixPairs": [
+    {
+      "key": 0,
+      "value": "°"
+    },
+    {
+      "key": 1,
+      "value": " kts"
+    },
+    {
+      "key": 2,
+      "value": " %"
+    },
+    {
+      "key": 3,
+      "value": " metre"
+    },
+    {
+      "key": 4,
+      "value": " ton"
+    },
+    {
+      "key": 5,
+      "value": "km"
+    },
+    {
+      "key": 6,
+      "value": "km/h"
+    }
+  ],
+  "morsePairs": [
+    {
+      "key": 0,
+      "value": "Herkesi arıyorum"
+    },
+    {
+      "key": 1,
+      "value": "Kanaldan"
+    },
+    {
+      "key": 9,
+      "value": "Bitti"
+    },
+    {
+      "key": 2,
+      "value": "Roger"
+    },
+    {
+      "key": 3,
+      "value": "Mesaj doğrulandı"
+    },
+    {
+      "key": 4,
+      "value": "Tekrar söyle."
+    },
+    {
+      "key": 5,
+      "value": "Bekle"
+    },
+    {
+      "key": 6,
+      "value": "Dışarı"
+    },
+    {
+      "key": 7,
+      "value": "Evet"
+    },
+    {
+      "key": 8,
+      "value": "Hayır"
+    },
+    {
+      "key": 10,
+      "value": "Yeni mesaj"
+    },
+    {
+      "key": 11,
+      "value": "Mesajın sonu"
+    }
+  ]
+}

@@ -1,0 +1,1353 @@
+{
+  "header": "Community (AI) Estonian",
+  "pairs": [
+    {
+      "key": -1,
+      "value": "INVALID"
+    },
+    {
+      "key": 0,
+      "value": "KORRALDATUD"
+    },
+    {
+      "key": 20,
+      "value": "Mängi"
+    },
+    {
+      "key": 21,
+      "value": "Käsitsi"
+    },
+    {
+      "key": 22,
+      "value": "Valikud"
+    },
+    {
+      "key": 23,
+      "value": "Toimetaja"
+    },
+    {
+      "key": 24,
+      "value": "Töötuba"
+    },
+    {
+      "key": 25,
+      "value": "Krediit"
+    },
+    {
+      "key": 26,
+      "value": "Lõpeta"
+    },
+    {
+      "key": 4,
+      "value": "Uudised"
+    },
+    {
+      "key": 3,
+      "value": "Versioon"
+    },
+    {
+      "key": 5,
+      "value": "Keel"
+    },
+    {
+      "key": 6,
+      "value": "Veebilehel"
+    },
+    {
+      "key": 7,
+      "value": "Väljaspool"
+    },
+    {
+      "key": 8,
+      "value": "Lubatud"
+    },
+    {
+      "key": 9,
+      "value": "Puudega inimesed"
+    },
+    {
+      "key": 10,
+      "value": "Näita"
+    },
+    {
+      "key": 11,
+      "value": "Peida"
+    },
+    {
+      "key": 12,
+      "value": "Iga"
+    },
+    {
+      "key": 13,
+      "value": "Jah"
+    },
+    {
+      "key": 14,
+      "value": "Ei"
+    },
+    {
+      "key": 15,
+      "value": "Aeg"
+    },
+    {
+      "key": 16,
+      "value": "Start"
+    },
+    {
+      "key": 17,
+      "value": "Mänguaeg"
+    },
+    {
+      "key": 18,
+      "value": "Juhuslik"
+    },
+    {
+      "key": 19,
+      "value": "Avalda"
+    },
+    {
+      "key": 1,
+      "value": "Tagasi"
+    },
+    {
+      "key": 2,
+      "value": "Jäta"
+    },
+    {
+      "key": 27,
+      "value": "Audio"
+    },
+    {
+      "key": 28,
+      "value": "Video"
+    },
+    {
+      "key": 29,
+      "value": "Klaviatuur"
+    },
+    {
+      "key": 30,
+      "value": "Hiir"
+    },
+    {
+      "key": 31,
+      "value": "Mäng"
+    },
+    {
+      "key": 32,
+      "value": "Vesi"
+    },
+    {
+      "key": 33,
+      "value": "Järeltöötlus"
+    },
+    {
+      "key": 34,
+      "value": "Master Volume"
+    },
+    {
+      "key": 35,
+      "value": "Muusika helitugevus"
+    },
+    {
+      "key": 36,
+      "value": "Efektide maht"
+    },
+    {
+      "key": 37,
+      "value": "VOIP maht"
+    },
+    {
+      "key": 38,
+      "value": "Kasutajaliidese maht"
+    },
+    {
+      "key": 39,
+      "value": "Mikrofoni helitugevus"
+    },
+    {
+      "key": 40,
+      "value": "Push-To-Talk"
+    },
+    {
+      "key": 41,
+      "value": "Näidik Push-To-Talk Hint"
+    },
+    {
+      "key": 42,
+      "value": "Mängi morse sisendit"
+    },
+    {
+      "key": 43,
+      "value": "Mängu resolutsioon"
+    },
+    {
+      "key": 44,
+      "value": "Kuva režiim"
+    },
+    {
+      "key": 45,
+      "value": "Vertikaalne sünkroniseerimine"
+    },
+    {
+      "key": 46,
+      "value": "Kaadrisageduse piirang"
+    },
+    {
+      "key": 47,
+      "value": "Tekstuuri resolutsioon"
+    },
+    {
+      "key": 48,
+      "value": "Anisotroopiline filtreerimine"
+    },
+    {
+      "key": 49,
+      "value": "Varjud"
+    },
+    {
+      "key": 50,
+      "value": "Eksklusiivne täisekraan"
+    },
+    {
+      "key": 51,
+      "value": "Piirideta aken"
+    },
+    {
+      "key": 52,
+      "value": "Maksimeeritud aken"
+    },
+    {
+      "key": 53,
+      "value": "Aken"
+    },
+    {
+      "key": 54,
+      "value": "Iga kaader"
+    },
+    {
+      "key": 55,
+      "value": "Iga teine raam"
+    },
+    {
+      "key": 56,
+      "value": "Alumine"
+    },
+    {
+      "key": 57,
+      "value": "Madal"
+    },
+    {
+      "key": 58,
+      "value": "Keskmine"
+    },
+    {
+      "key": 59,
+      "value": "Kõrge"
+    },
+    {
+      "key": 60,
+      "value": "Väga kõrge"
+    },
+    {
+      "key": 61,
+      "value": "Ultra"
+    },
+    {
+      "key": 62,
+      "value": "Overkill"
+    },
+    {
+      "key": 63,
+      "value": "Max"
+    },
+    {
+      "key": 64,
+      "value": "Kaamera pööramise tundlikkus"
+    },
+    {
+      "key": 65,
+      "value": "Kursori interaktsiooni tundlikkus"
+    },
+    {
+      "key": 66,
+      "value": "Kerimisratta intensiivsus"
+    },
+    {
+      "key": 67,
+      "value": "Kursori skaala"
+    },
+    {
+      "key": 68,
+      "value": "Invert hiir"
+    },
+    {
+      "key": 69,
+      "value": "Kaardijoonte skaala"
+    },
+    {
+      "key": 70,
+      "value": "Kaardi fondi skaala"
+    },
+    {
+      "key": 71,
+      "value": "Näita nimesilte"
+    },
+    {
+      "key": 72,
+      "value": "Näita tööriistakäskudeid"
+    },
+    {
+      "key": 73,
+      "value": "Näita kaadrisageduse loendurit"
+    },
+    {
+      "key": 74,
+      "value": "Näita õpetust mängu alguses"
+    },
+    {
+      "key": 75,
+      "value": "Kaamera kõikumise lubamine"
+    },
+    {
+      "key": 76,
+      "value": "Vaateväli"
+    },
+    {
+      "key": 77,
+      "value": "Menüü tausta läbipaistmatus"
+    },
+    {
+      "key": 78,
+      "value": "Vee resolutsioon"
+    },
+    {
+      "key": 79,
+      "value": "Veepihustuse osakeste arv"
+    },
+    {
+      "key": 80,
+      "value": "Dünaamilise vahu kvaliteet"
+    },
+    {
+      "key": 81,
+      "value": "Vee eelvaade"
+    },
+    {
+      "key": 82,
+      "value": "Ekraaniruum Ambient Occlusion"
+    },
+    {
+      "key": 83,
+      "value": "Ekraaniruumi peegeldus"
+    },
+    {
+      "key": 84,
+      "value": "Anti-Aliasing"
+    },
+    {
+      "key": 85,
+      "value": "Bloom"
+    },
+    {
+      "key": 86,
+      "value": "Heleduse korrigeerimine"
+    },
+    {
+      "key": 87,
+      "value": "Dither"
+    },
+    {
+      "key": 88,
+      "value": "Liikumise hägusus"
+    },
+    {
+      "key": 89,
+      "value": "Teravussügavus"
+    },
+    {
+      "key": 90,
+      "value": "Kromaatiline aberratsioon"
+    },
+    {
+      "key": 91,
+      "value": "Avatud keelte kausta avamine"
+    },
+    {
+      "key": 92,
+      "value": "Keelte ümberlaadimine"
+    },
+    {
+      "key": 93,
+      "value": "Kõikide seadete lähtestamine"
+    },
+    {
+      "key": 94,
+      "value": "Leia fuajee"
+    },
+    {
+      "key": 95,
+      "value": "Loo lobby"
+    },
+    {
+      "key": 96,
+      "value": "Filtrid"
+    },
+    {
+      "key": 97,
+      "value": "Lobby kaugus"
+    },
+    {
+      "key": 98,
+      "value": "Parool"
+    },
+    {
+      "key": 99,
+      "value": "Bots"
+    },
+    {
+      "key": 100,
+      "value": "Täielikud fuajeed"
+    },
+    {
+      "key": 101,
+      "value": "Mängustiil"
+    },
+    {
+      "key": 102,
+      "value": "Casual"
+    },
+    {
+      "key": 103,
+      "value": "Hardcore"
+    },
+    {
+      "key": 104,
+      "value": "Rollimäng"
+    },
+    {
+      "key": 105,
+      "value": "Sulge"
+    },
+    {
+      "key": 106,
+      "value": "Vaikimisi"
+    },
+    {
+      "key": 107,
+      "value": "Far"
+    },
+    {
+      "key": 108,
+      "value": "Ülemaailmne"
+    },
+    {
+      "key": 111,
+      "value": "Pealkiri"
+    },
+    {
+      "key": 112,
+      "value": "Kirjeldus"
+    },
+    {
+      "key": 113,
+      "value": "Nähtavus"
+    },
+    {
+      "key": 114,
+      "value": "Sõbrad saavad kutsuda lobitööle"
+    },
+    {
+      "key": 115,
+      "value": "Peidetud"
+    },
+    {
+      "key": 116,
+      "value": "Ainult sõbrad"
+    },
+    {
+      "key": 117,
+      "value": "Avalik"
+    },
+    {
+      "key": 109,
+      "value": "Värskenda"
+    },
+    {
+      "key": 110,
+      "value": "Loo"
+    },
+    {
+      "key": 118,
+      "value": "Missiooni briifing"
+    },
+    {
+      "key": 119,
+      "value": "Raskuse seaded"
+    },
+    {
+      "key": 120,
+      "value": "Stsenaarium"
+    },
+    {
+      "key": 121,
+      "value": "Tellimused"
+    },
+    {
+      "key": 122,
+      "value": "Üldine"
+    },
+    {
+      "key": 123,
+      "value": "Kellaaeg ja kuupäev"
+    },
+    {
+      "key": 124,
+      "value": "Ilm"
+    },
+    {
+      "key": 125,
+      "value": "Missioon"
+    },
+    {
+      "key": 126,
+      "value": "Raskused"
+    },
+    {
+      "key": 127,
+      "value": "Mängurežiim"
+    },
+    {
+      "key": 128,
+      "value": "Päev"
+    },
+    {
+      "key": 129,
+      "value": "Kuu"
+    },
+    {
+      "key": 130,
+      "value": "Aasta"
+    },
+    {
+      "key": 131,
+      "value": "Kellaaeg"
+    },
+    {
+      "key": 132,
+      "value": "Asukoht"
+    },
+    {
+      "key": 133,
+      "value": "Tuule kiirus"
+    },
+    {
+      "key": 134,
+      "value": "Tuule suund"
+    },
+    {
+      "key": 135,
+      "value": "Kuupäev"
+    },
+    {
+      "key": 136,
+      "value": "Udu"
+    },
+    {
+      "key": 137,
+      "value": "Automaatne navigeerimine"
+    },
+    {
+      "key": 138,
+      "value": "Sõbralik tuli"
+    },
+    {
+      "key": 139,
+      "value": "Mitte-mängija meeskonnaliikmed"
+    },
+    {
+      "key": 140,
+      "value": "Lihtsustatud raadio"
+    },
+    {
+      "key": 141,
+      "value": "Realistlik hääle nõrgenemine"
+    },
+    {
+      "key": 142,
+      "value": "Kiire kohtumine"
+    },
+    {
+      "key": 143,
+      "value": "Automaatne mootor"
+    },
+    {
+      "key": 144,
+      "value": "Konvoi muudab perioodiliselt suunda"
+    },
+    {
+      "key": 145,
+      "value": "Saatjad kasutavad alati aktiivset sonarit"
+    },
+    {
+      "key": 146,
+      "value": "Escort Pursuit aeg"
+    },
+    {
+      "key": 147,
+      "value": "Konvoi suurus"
+    },
+    {
+      "key": 148,
+      "value": "Realistlik torpeedo ümberlaadimise kiirus"
+    },
+    {
+      "key": 149,
+      "value": "Vigased torpeedod"
+    },
+    {
+      "key": 150,
+      "value": "Piiratud torpeedo täpsus"
+    },
+    {
+      "key": 151,
+      "value": "Torpeedo päästik sõltub nurgast"
+    },
+    {
+      "key": 152,
+      "value": "Kutsuge sõpru"
+    },
+    {
+      "key": 153,
+      "value": "Alusta mängu"
+    },
+    {
+      "key": 154,
+      "value": "Skirmish"
+    },
+    {
+      "key": 155,
+      "value": "Tutorial"
+    },
+    {
+      "key": 156,
+      "value": "Biskaia laht"
+    },
+    {
+      "key": 157,
+      "value": "Põhjameri"
+    },
+    {
+      "key": 158,
+      "value": "Norra meri"
+    },
+    {
+      "key": 159,
+      "value": "Läänemeri"
+    },
+    {
+      "key": 160,
+      "value": "Väike"
+    },
+    {
+      "key": 161,
+      "value": "Tavaline"
+    },
+    {
+      "key": 162,
+      "value": "Suur"
+    },
+    {
+      "key": 163,
+      "value": "Lühike"
+    },
+    {
+      "key": 164,
+      "value": "Pikk"
+    },
+    {
+      "key": 165,
+      "value": "Eesmärgid"
+    },
+    {
+      "key": 166,
+      "value": "Kliki, et sirvida missioone Steam Workshopis!"
+    },
+    {
+      "key": 167,
+      "value": "Ekspordi ülesanne lõikelauale."
+    },
+    {
+      "key": 168,
+      "value": "Importige missioon lõikelauast."
+    },
+    {
+      "key": 169,
+      "value": "Ülevaade"
+    },
+    {
+      "key": 170,
+      "value": "Üksikasjad"
+    },
+    {
+      "key": 171,
+      "value": "Missiooni ajal tuvastatud"
+    },
+    {
+      "key": 172,
+      "value": "Torpeedod tulistatud"
+    },
+    {
+      "key": 173,
+      "value": "Torpeedode tabamus"
+    },
+    {
+      "key": 174,
+      "value": "Torpeedode tabamuse suhe"
+    },
+    {
+      "key": 175,
+      "value": "Kaupmehed hävitatud"
+    },
+    {
+      "key": 176,
+      "value": "Hävitatud sõjalaevad"
+    },
+    {
+      "key": 177,
+      "value": "Tonnaaž uppunud"
+    },
+    {
+      "key": 178,
+      "value": "Missiooni aeg"
+    },
+    {
+      "key": 179,
+      "value": "Eksportimine lõikelauale"
+    },
+    {
+      "key": 180,
+      "value": "Tagasi fuajeesse"
+    },
+    {
+      "key": 181,
+      "value": "Ülesande korduvülesanne"
+    },
+    {
+      "key": 182,
+      "value": "Järgmine missioon"
+    },
+    {
+      "key": 183,
+      "value": "Lahutage"
+    },
+    {
+      "key": 184,
+      "value": "Sidemete lähtestamine"
+    },
+    {
+      "key": 185,
+      "value": "Liigu edasi"
+    },
+    {
+      "key": 186,
+      "value": "Liigu vasakule"
+    },
+    {
+      "key": 187,
+      "value": "Liigu tagasi"
+    },
+    {
+      "key": 188,
+      "value": "Liigu paremale"
+    },
+    {
+      "key": 189,
+      "value": "Käivita"
+    },
+    {
+      "key": 190,
+      "value": "Kaardi vahetamine"
+    },
+    {
+      "key": 191,
+      "value": "Näita ühendatud kliente"
+    },
+    {
+      "key": 192,
+      "value": "Stoppkella 1 lülitamine"
+    },
+    {
+      "key": 193,
+      "value": "Stoppkella 2 lülitamine"
+    },
+    {
+      "key": 194,
+      "value": "Stoppkella lülitamine 3"
+    },
+    {
+      "key": 195,
+      "value": "Stoppkella lülitamine 4"
+    },
+    {
+      "key": 196,
+      "value": "Stoppkella lähtestamine 1"
+    },
+    {
+      "key": 197,
+      "value": "Stoppkella lähtestamine 2"
+    },
+    {
+      "key": 198,
+      "value": "Stoppkella lähtestamine 3"
+    },
+    {
+      "key": 199,
+      "value": "Stoppkella lähtestamine 4"
+    },
+    {
+      "key": 200,
+      "value": "Kõik stoppkellad lähtestada"
+    },
+    {
+      "key": 201,
+      "value": "Tuletorpeedo"
+    },
+    {
+      "key": 202,
+      "value": "Alumine eesmine sukeldumislennuk"
+    },
+    {
+      "key": 203,
+      "value": "Tõsta ettepoole sukeldumislennukid"
+    },
+    {
+      "key": 204,
+      "value": "Alumine ahtriosa sukeldumislennukid"
+    },
+    {
+      "key": 205,
+      "value": "Tõsta ahtri sukelaparaadid"
+    },
+    {
+      "key": 206,
+      "value": "Välklampide lülitamine"
+    },
+    {
+      "key": 207,
+      "value": "Toggle Recognition Manual (Käsiraamat)"
+    },
+    {
+      "key": 208,
+      "value": "Vaheta taskulambi värvi"
+    },
+    {
+      "key": 209,
+      "value": "Näita missiooni eesmärke"
+    },
+    {
+      "key": 210,
+      "value": "Center Forward Diveplane"
+    },
+    {
+      "key": 211,
+      "value": "Keskmine ahtriosa sukelaparaat"
+    },
+    {
+      "key": 212,
+      "value": "Morse võti"
+    },
+    {
+      "key": 213,
+      "value": "Morse üksikpunkt"
+    },
+    {
+      "key": 214,
+      "value": "Morse Single Dash"
+    },
+    {
+      "key": 215,
+      "value": "Morse Pidevad punktid"
+    },
+    {
+      "key": 216,
+      "value": "Morse pidev kriips"
+    },
+    {
+      "key": 217,
+      "value": "Järgmine Morse tekstilehekülg"
+    },
+    {
+      "key": 218,
+      "value": "Eelmine Morse tekstilehekülg"
+    },
+    {
+      "key": 219,
+      "value": "Mute Voice"
+    },
+    {
+      "key": 220,
+      "value": "Bot menüü Toggle"
+    },
+    {
+      "key": 221,
+      "value": "Bot Menüü1"
+    },
+    {
+      "key": 222,
+      "value": "Bot Menu2"
+    },
+    {
+      "key": 223,
+      "value": "Bot Menu3"
+    },
+    {
+      "key": 224,
+      "value": "Kaardi lähtestamine läbisõidumõõtja"
+    },
+    {
+      "key": 225,
+      "value": "Kaardi sümboli tööriist"
+    },
+    {
+      "key": 226,
+      "value": "Kaardiliini tööriist"
+    },
+    {
+      "key": 227,
+      "value": "Kaardiringi tööriist"
+    },
+    {
+      "key": 228,
+      "value": "Kaardi kirjutamise tööriist"
+    },
+    {
+      "key": 229,
+      "value": "Kaardi kopeerimisliini tööriist"
+    },
+    {
+      "key": 230,
+      "value": "Kaardi kustutusvahend"
+    },
+    {
+      "key": 231,
+      "value": "Kaardiprotektor tööriist"
+    },
+    {
+      "key": 232,
+      "value": "Kaart Quicktool Sümbol"
+    },
+    {
+      "key": 233,
+      "value": "Kaart Quicktool Line"
+    },
+    {
+      "key": 234,
+      "value": "Kaart Quicktool Circle"
+    },
+    {
+      "key": 235,
+      "value": "Kaart QuickTool Copy Line"
+    },
+    {
+      "key": 236,
+      "value": "Kaart Quicktool Eraser"
+    },
+    {
+      "key": 237,
+      "value": "Kaart Quicktool Protractor"
+    },
+    {
+      "key": 238,
+      "value": "Kaardi vahelduvväli Sketch"
+    },
+    {
+      "key": 239,
+      "value": "Kaardiprotektor Jälgi"
+    },
+    {
+      "key": 240,
+      "value": "Kaardi ümberlülitamine Tagurpidi kompass"
+    },
+    {
+      "key": 241,
+      "value": "Kaardi ajarežiimi vahetamine"
+    },
+    {
+      "key": 242,
+      "value": "Kaardi ümberlülitamine Näita nurka"
+    },
+    {
+      "key": 243,
+      "value": "Kaardi vaheldumine Snap"
+    },
+    {
+      "key": 244,
+      "value": "Kaardi ümberlülitamine Näita kaugust"
+    },
+    {
+      "key": 245,
+      "value": "Kaardi vahetamise sümbol"
+    },
+    {
+      "key": 246,
+      "value": "Kaardi lähtestamine nurgamõõtja pööramine"
+    },
+    {
+      "key": 247,
+      "value": "Kaardi ümberlülitamine Joonista keskpunktist"
+    },
+    {
+      "key": 248,
+      "value": "Kaardi vahelduv polügoon"
+    },
+    {
+      "key": 249,
+      "value": "Kaardi vahelduv joonestiil"
+    },
+    {
+      "key": 250,
+      "value": "Kaardi lülitusnäidik Näita nurgamõõturit"
+    },
+    {
+      "key": 251,
+      "value": "Kaart Sisestage nurk enne kaugust"
+    },
+    {
+      "key": 252,
+      "value": "Periskoopi ülekate lülitamine"
+    },
+    {
+      "key": 253,
+      "value": "Vaheta Periskoopi ülekate"
+    },
+    {
+      "key": 254,
+      "value": "Suurenda periskoopiakatte ülekannet X 1"
+    },
+    {
+      "key": 255,
+      "value": "Vähenda periskoopiakatet X 1"
+    },
+    {
+      "key": 256,
+      "value": "Suurendage Periskoopi ülekannet X 10"
+    },
+    {
+      "key": 257,
+      "value": "Vähenda periskoopi ülekannet X 10"
+    },
+    {
+      "key": 258,
+      "value": "Periskoobi heleduse suurendamine"
+    },
+    {
+      "key": 259,
+      "value": "Periskoopi brigaalsuse vähendamine"
+    },
+    {
+      "key": 260,
+      "value": "Vahetage märkmikku"
+    },
+    {
+      "key": 261,
+      "value": "Meeskond"
+    },
+    {
+      "key": 262,
+      "value": "Loadout"
+    },
+    {
+      "key": 263,
+      "value": "Jäta meeskond"
+    },
+    {
+      "key": 264,
+      "value": "Liitu meeskonnaga"
+    },
+    {
+      "key": 265,
+      "value": "Liitu"
+    },
+    {
+      "key": 266,
+      "value": "Meeskond on täis"
+    },
+    {
+      "key": 267,
+      "value": "Hüüdnimi"
+    },
+    {
+      "key": 268,
+      "value": "Ühendus"
+    },
+    {
+      "key": 269,
+      "value": "Teatage veast"
+    },
+    {
+      "key": 270,
+      "value": "Meeskonna valikud"
+    },
+    {
+      "key": 271,
+      "value": "Keelamisloendi valikud"
+    },
+    {
+      "key": 272,
+      "value": "Tegevuspäevik"
+    },
+    {
+      "key": 273,
+      "value": "CV"
+    },
+    {
+      "key": 274,
+      "value": "Jäta mäng"
+    },
+    {
+      "key": 275,
+      "value": "Metaandmed"
+    },
+    {
+      "key": 276,
+      "value": "Alustingimused"
+    },
+    {
+      "key": 277,
+      "value": "Võidu tingimused"
+    },
+    {
+      "key": 278,
+      "value": "Eesmärgid"
+    },
+    {
+      "key": 279,
+      "value": "Näita alati"
+    },
+    {
+      "key": 280,
+      "value": "Näita lõpetamisel"
+    },
+    {
+      "key": 281,
+      "value": "Alati peidetud"
+    },
+    {
+      "key": 282,
+      "value": "Tõstab või langetab mängu üldist helitugevust, säilitades samal ajal erinevate helitugevuste vahelised suhted."
+    },
+    {
+      "key": 283,
+      "value": "Reguleerib muusika helitugevust."
+    },
+    {
+      "key": 284,
+      "value": "Reguleerib erinevate efektide, nagu plahvatused jms, helitugevust."
+    },
+    {
+      "key": 285,
+      "value": "Reguleerib sissetuleva kõnekeele helitugevust."
+    },
+    {
+      "key": 286,
+      "value": "Kuvab mikrofoni sisendtaseme."
+    },
+    {
+      "key": 287,
+      "value": "Push-To-Talk lülitab mikrofoni sisse ja välja, kui vajutatakse vastavat klahvi."
+    },
+    {
+      "key": 288,
+      "value": "Luba, et kuvada vihje selle kohta, kas mikrofon on sisse lülitatud või mitte."
+    },
+    {
+      "key": 289,
+      "value": "Lülita välja, et peatada morseefekti mängimine morsepildi klahvi kasutamisel."
+    },
+    {
+      "key": 290,
+      "value": "Kodeeritud sõnum"
+    },
+    {
+      "key": 291,
+      "value": "Salvesta sõnum"
+    },
+    {
+      "key": 292,
+      "value": "Märgista sõnum kui saadetud"
+    },
+    {
+      "key": 293,
+      "value": "Dekodeeritud sõnum"
+    },
+    {
+      "key": 294,
+      "value": "Kanal"
+    },
+    {
+      "key": 295,
+      "value": "Alates"
+    },
+    {
+      "key": 296,
+      "value": "aadressile"
+    },
+    {
+      "key": 297,
+      "value": "Tühista"
+    },
+    {
+      "key": 298,
+      "value": "Saada"
+    },
+    {
+      "key": 299,
+      "value": "Salvesta"
+    },
+    {
+      "key": 300,
+      "value": "Kustuta"
+    },
+    {
+      "key": 301,
+      "value": "Saade"
+    },
+    {
+      "key": 302,
+      "value": "U-96"
+    },
+    {
+      "key": 303,
+      "value": "U-552"
+    },
+    {
+      "key": 304,
+      "value": "U-564"
+    },
+    {
+      "key": 305,
+      "value": "U-307"
+    },
+    {
+      "key": 306,
+      "value": "U-98"
+    },
+    {
+      "key": 307,
+      "value": "U-371"
+    },
+    {
+      "key": 308,
+      "value": "U-706"
+    },
+    {
+      "key": 309,
+      "value": "U-431"
+    },
+    {
+      "key": 310,
+      "value": "Aktsepteeri"
+    },
+    {
+      "key": 311,
+      "value": "Lükake tagasi"
+    },
+    {
+      "key": 312,
+      "value": "Tagasilükkamine ja ignoreerimine"
+    },
+    {
+      "key": 313,
+      "value": "Nõustu liitumistaotluse vastuvõtmisega"
+    },
+    {
+      "key": 314,
+      "value": "Tagasi lükata liitumistaotlus"
+    },
+    {
+      "key": 315,
+      "value": "Tagasilükkamine ja liitumistaotluse ignoreerimine"
+    }
+  ],
+  "suffixPairs": [
+    {
+      "key": 0,
+      "value": "°"
+    },
+    {
+      "key": 1,
+      "value": " kts"
+    },
+    {
+      "key": 2,
+      "value": " %"
+    },
+    {
+      "key": 3,
+      "value": " meetrid"
+    },
+    {
+      "key": 4,
+      "value": " tonni"
+    },
+    {
+      "key": 5,
+      "value": "km"
+    },
+    {
+      "key": 6,
+      "value": "km/h"
+    }
+  ],
+  "morsePairs": [
+    {
+      "key": 0,
+      "value": "Kõigile helistades"
+    },
+    {
+      "key": 1,
+      "value": "Kanalilt"
+    },
+    {
+      "key": 9,
+      "value": "Üle"
+    },
+    {
+      "key": 2,
+      "value": "Roger"
+    },
+    {
+      "key": 3,
+      "value": "Teade kontrollitud"
+    },
+    {
+      "key": 4,
+      "value": "Ütle uuesti"
+    },
+    {
+      "key": 5,
+      "value": "Oodake"
+    },
+    {
+      "key": 6,
+      "value": "Välja"
+    },
+    {
+      "key": 7,
+      "value": "Jah"
+    },
+    {
+      "key": 8,
+      "value": "Ei"
+    },
+    {
+      "key": 10,
+      "value": "Uus sõnum"
+    },
+    {
+      "key": 11,
+      "value": "Sõnumi lõpp"
+    }
+  ]
+}

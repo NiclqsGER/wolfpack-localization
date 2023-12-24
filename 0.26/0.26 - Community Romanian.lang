@@ -1,0 +1,1353 @@
+{
+  "header": "Community (AI) Romanian",
+  "pairs": [
+    {
+      "key": -1,
+      "value": "INVALID"
+    },
+    {
+      "key": 0,
+      "value": "UNCACHED"
+    },
+    {
+      "key": 20,
+      "value": "Joacă"
+    },
+    {
+      "key": 21,
+      "value": "Manual"
+    },
+    {
+      "key": 22,
+      "value": "Opțiuni"
+    },
+    {
+      "key": 23,
+      "value": "Editor"
+    },
+    {
+      "key": 24,
+      "value": "Atelier de lucru"
+    },
+    {
+      "key": 25,
+      "value": "Credite"
+    },
+    {
+      "key": 26,
+      "value": "Renunță la"
+    },
+    {
+      "key": 4,
+      "value": "Știri"
+    },
+    {
+      "key": 3,
+      "value": "Versiunea"
+    },
+    {
+      "key": 5,
+      "value": "Limba"
+    },
+    {
+      "key": 6,
+      "value": "Pe"
+    },
+    {
+      "key": 7,
+      "value": "Off"
+    },
+    {
+      "key": 8,
+      "value": "Activat"
+    },
+    {
+      "key": 9,
+      "value": "Persoane cu handicap"
+    },
+    {
+      "key": 10,
+      "value": "Arată"
+    },
+    {
+      "key": 11,
+      "value": "Ascundeți"
+    },
+    {
+      "key": 12,
+      "value": "Orice"
+    },
+    {
+      "key": 13,
+      "value": "Da"
+    },
+    {
+      "key": 14,
+      "value": "Nu"
+    },
+    {
+      "key": 15,
+      "value": "Timp"
+    },
+    {
+      "key": 16,
+      "value": "Start"
+    },
+    {
+      "key": 17,
+      "value": "Ora de joacă"
+    },
+    {
+      "key": 18,
+      "value": "Aleatoriu"
+    },
+    {
+      "key": 19,
+      "value": "Publică"
+    },
+    {
+      "key": 1,
+      "value": "Înapoi"
+    },
+    {
+      "key": 2,
+      "value": "Plecare"
+    },
+    {
+      "key": 27,
+      "value": "Audio"
+    },
+    {
+      "key": 28,
+      "value": "Video"
+    },
+    {
+      "key": 29,
+      "value": "Tastatura"
+    },
+    {
+      "key": 30,
+      "value": "Șoarece"
+    },
+    {
+      "key": 31,
+      "value": "Joc"
+    },
+    {
+      "key": 32,
+      "value": "Apă"
+    },
+    {
+      "key": 33,
+      "value": "Post-procesare"
+    },
+    {
+      "key": 34,
+      "value": "Volumul principal"
+    },
+    {
+      "key": 35,
+      "value": "Volumul muzicii"
+    },
+    {
+      "key": 36,
+      "value": "Volumul efectelor"
+    },
+    {
+      "key": 37,
+      "value": "Volumul VOIP"
+    },
+    {
+      "key": 38,
+      "value": "Volumul interfeței cu utilizatorul"
+    },
+    {
+      "key": 39,
+      "value": "Volumul microfonului"
+    },
+    {
+      "key": 40,
+      "value": "Push-To-Talk"
+    },
+    {
+      "key": 41,
+      "value": "Afișare Indicație pentru apăsarea butonului de vorbire"
+    },
+    {
+      "key": 42,
+      "value": "Redă intrarea morse"
+    },
+    {
+      "key": 43,
+      "value": "Rezoluția jocului"
+    },
+    {
+      "key": 44,
+      "value": "Mod de afișare"
+    },
+    {
+      "key": 45,
+      "value": "Sincronizare verticală"
+    },
+    {
+      "key": 46,
+      "value": "Limita ratei de cadre"
+    },
+    {
+      "key": 47,
+      "value": "Rezoluția texturii"
+    },
+    {
+      "key": 48,
+      "value": "Filtrarea anizotropică"
+    },
+    {
+      "key": 49,
+      "value": "Umbre"
+    },
+    {
+      "key": 50,
+      "value": "Exclusiv Fullscreen"
+    },
+    {
+      "key": 51,
+      "value": "Fereastră fără margini"
+    },
+    {
+      "key": 52,
+      "value": "Fereastra maximizată"
+    },
+    {
+      "key": 53,
+      "value": "Fereastra"
+    },
+    {
+      "key": 54,
+      "value": "Fiecare cadru"
+    },
+    {
+      "key": 55,
+      "value": "Fiecare alt cadru"
+    },
+    {
+      "key": 56,
+      "value": "Mai jos"
+    },
+    {
+      "key": 57,
+      "value": "Scăzut"
+    },
+    {
+      "key": 58,
+      "value": "Mediu"
+    },
+    {
+      "key": 59,
+      "value": "Mare"
+    },
+    {
+      "key": 60,
+      "value": "Foarte ridicat"
+    },
+    {
+      "key": 61,
+      "value": "Ultra"
+    },
+    {
+      "key": 62,
+      "value": "Overkill"
+    },
+    {
+      "key": 63,
+      "value": "Max"
+    },
+    {
+      "key": 64,
+      "value": "Sensibilitatea de rotație a camerei"
+    },
+    {
+      "key": 65,
+      "value": "Sensibilitatea de interacțiune a cursorului"
+    },
+    {
+      "key": 66,
+      "value": "Intensitatea rotiței de defilare"
+    },
+    {
+      "key": 67,
+      "value": "Scala cursorului"
+    },
+    {
+      "key": 68,
+      "value": "Inversează mouse-ul"
+    },
+    {
+      "key": 69,
+      "value": "Scara liniei hărții"
+    },
+    {
+      "key": 70,
+      "value": "Scara fontului hărții"
+    },
+    {
+      "key": 71,
+      "value": "Afișați plăcuțele de identificare"
+    },
+    {
+      "key": 72,
+      "value": "Afișați Tooltips"
+    },
+    {
+      "key": 73,
+      "value": "Afișați contorul de frecvență a cadrelor"
+    },
+    {
+      "key": 74,
+      "value": "Afișare tutorial la începutul jocului"
+    },
+    {
+      "key": 75,
+      "value": "Activați Camera Sway"
+    },
+    {
+      "key": 76,
+      "value": "Câmp de vedere"
+    },
+    {
+      "key": 77,
+      "value": "Opacitatea fundalului meniului"
+    },
+    {
+      "key": 78,
+      "value": "Rezoluția privind apa"
+    },
+    {
+      "key": 79,
+      "value": "Număr de particule de apă pulverizată"
+    },
+    {
+      "key": 80,
+      "value": "Spumă dinamică de calitate"
+    },
+    {
+      "key": 81,
+      "value": "Apă Previzualizare"
+    },
+    {
+      "key": 82,
+      "value": "Ocluzie ambientală în spațiul ecranului"
+    },
+    {
+      "key": 83,
+      "value": "Reflectarea spațiului ecranului"
+    },
+    {
+      "key": 84,
+      "value": "Anti-Aliasing"
+    },
+    {
+      "key": 85,
+      "value": "Bloom"
+    },
+    {
+      "key": 86,
+      "value": "Corecția luminozității"
+    },
+    {
+      "key": 87,
+      "value": "Dither"
+    },
+    {
+      "key": 88,
+      "value": "Blur de mișcare"
+    },
+    {
+      "key": 89,
+      "value": "Adâncimea de câmp"
+    },
+    {
+      "key": 90,
+      "value": "Aberația cromatică"
+    },
+    {
+      "key": 91,
+      "value": "Deschideți dosarul Limbi"
+    },
+    {
+      "key": 92,
+      "value": "Reîncărcare Limbi"
+    },
+    {
+      "key": 93,
+      "value": "Resetarea tuturor setărilor"
+    },
+    {
+      "key": 94,
+      "value": "Găsiți Lobby"
+    },
+    {
+      "key": 95,
+      "value": "Creați Lobby"
+    },
+    {
+      "key": 96,
+      "value": "Filtre"
+    },
+    {
+      "key": 97,
+      "value": "Distanța dintre holuri"
+    },
+    {
+      "key": 98,
+      "value": "Parola"
+    },
+    {
+      "key": 99,
+      "value": "Bots"
+    },
+    {
+      "key": 100,
+      "value": "Lobby-uri pline"
+    },
+    {
+      "key": 101,
+      "value": "Stil de joc"
+    },
+    {
+      "key": 102,
+      "value": "Casual"
+    },
+    {
+      "key": 103,
+      "value": "Hardcore"
+    },
+    {
+      "key": 104,
+      "value": "Roleplay"
+    },
+    {
+      "key": 105,
+      "value": "Închideți"
+    },
+    {
+      "key": 106,
+      "value": "Implicit"
+    },
+    {
+      "key": 107,
+      "value": "Departe"
+    },
+    {
+      "key": 108,
+      "value": "La nivel mondial"
+    },
+    {
+      "key": 111,
+      "value": "Titlu"
+    },
+    {
+      "key": 112,
+      "value": "Descriere"
+    },
+    {
+      "key": 113,
+      "value": "Vizibilitate"
+    },
+    {
+      "key": 114,
+      "value": "Prietenii pot invita la lobby"
+    },
+    {
+      "key": 115,
+      "value": "Ascuns"
+    },
+    {
+      "key": 116,
+      "value": "Doar pentru prieteni"
+    },
+    {
+      "key": 117,
+      "value": "Public"
+    },
+    {
+      "key": 109,
+      "value": "Reîmprospătare"
+    },
+    {
+      "key": 110,
+      "value": "Creați"
+    },
+    {
+      "key": 118,
+      "value": "Informare despre misiune"
+    },
+    {
+      "key": 119,
+      "value": "Setări de dificultate"
+    },
+    {
+      "key": 120,
+      "value": "Scenariul"
+    },
+    {
+      "key": 121,
+      "value": "Comenzi"
+    },
+    {
+      "key": 122,
+      "value": "General"
+    },
+    {
+      "key": 123,
+      "value": "Ora și data"
+    },
+    {
+      "key": 124,
+      "value": "Vremea"
+    },
+    {
+      "key": 125,
+      "value": "Misiune"
+    },
+    {
+      "key": 126,
+      "value": "Dificultate"
+    },
+    {
+      "key": 127,
+      "value": "Modul de joc"
+    },
+    {
+      "key": 128,
+      "value": "Ziua"
+    },
+    {
+      "key": 129,
+      "value": "Luna"
+    },
+    {
+      "key": 130,
+      "value": "Anul"
+    },
+    {
+      "key": 131,
+      "value": "Ora din zi"
+    },
+    {
+      "key": 132,
+      "value": "Locație"
+    },
+    {
+      "key": 133,
+      "value": "Viteza vântului"
+    },
+    {
+      "key": 134,
+      "value": "Direcția vântului"
+    },
+    {
+      "key": 135,
+      "value": "Data"
+    },
+    {
+      "key": 136,
+      "value": "Ceață"
+    },
+    {
+      "key": 137,
+      "value": "Navigație automată"
+    },
+    {
+      "key": 138,
+      "value": "Foc prietenesc"
+    },
+    {
+      "key": 139,
+      "value": "Membri ai echipajului care nu sunt jucători"
+    },
+    {
+      "key": 140,
+      "value": "Radio simplificat"
+    },
+    {
+      "key": 141,
+      "value": "Atenuare realistă a vocii"
+    },
+    {
+      "key": 142,
+      "value": "Întâlnire rapidă"
+    },
+    {
+      "key": 143,
+      "value": "Motor automat"
+    },
+    {
+      "key": 144,
+      "value": "Convoiul își schimbă periodic direcția"
+    },
+    {
+      "key": 145,
+      "value": "Escortele folosesc întotdeauna un sonar activ"
+    },
+    {
+      "key": 146,
+      "value": "Timp de urmărire Escort"
+    },
+    {
+      "key": 147,
+      "value": "Dimensiunea convoiului"
+    },
+    {
+      "key": 148,
+      "value": "Viteza realistă de reîncărcare a torpilelor"
+    },
+    {
+      "key": 149,
+      "value": "Torpile defecte"
+    },
+    {
+      "key": 150,
+      "value": "Precizia limitată a torpilelor"
+    },
+    {
+      "key": 151,
+      "value": "Declanșarea torpilei depinde de unghi"
+    },
+    {
+      "key": 152,
+      "value": "Invitați prieteni"
+    },
+    {
+      "key": 153,
+      "value": "Începeți jocul"
+    },
+    {
+      "key": 154,
+      "value": "Skirmish"
+    },
+    {
+      "key": 155,
+      "value": "Tutorial"
+    },
+    {
+      "key": 156,
+      "value": "Golful Biscaya"
+    },
+    {
+      "key": 157,
+      "value": "Marea Nordului"
+    },
+    {
+      "key": 158,
+      "value": "Marea Norvegiei"
+    },
+    {
+      "key": 159,
+      "value": "Marea Baltică"
+    },
+    {
+      "key": 160,
+      "value": "Mici"
+    },
+    {
+      "key": 161,
+      "value": "Normal"
+    },
+    {
+      "key": 162,
+      "value": "Mare"
+    },
+    {
+      "key": 163,
+      "value": "Scurt"
+    },
+    {
+      "key": 164,
+      "value": "Lung"
+    },
+    {
+      "key": 165,
+      "value": "Obiective"
+    },
+    {
+      "key": 166,
+      "value": "Dă click pentru a căuta misiuni pe Atelierul Steam!"
+    },
+    {
+      "key": 167,
+      "value": "Exportați misiunea în clipboard."
+    },
+    {
+      "key": 168,
+      "value": "Importați misiunea din clipboard."
+    },
+    {
+      "key": 169,
+      "value": "Prezentare generală"
+    },
+    {
+      "key": 170,
+      "value": "Detalii"
+    },
+    {
+      "key": 171,
+      "value": "Detectate în timpul misiunii"
+    },
+    {
+      "key": 172,
+      "value": "Torpilele lansate"
+    },
+    {
+      "key": 173,
+      "value": "Torpilele au lovit"
+    },
+    {
+      "key": 174,
+      "value": "Raportul de lovire a torpilelor"
+    },
+    {
+      "key": 175,
+      "value": "Comercianți distruși"
+    },
+    {
+      "key": 176,
+      "value": "Nave de război distruse"
+    },
+    {
+      "key": 177,
+      "value": "Tonaj scufundat"
+    },
+    {
+      "key": 178,
+      "value": "Timp de misiune"
+    },
+    {
+      "key": 179,
+      "value": "Exportați în clipboard"
+    },
+    {
+      "key": 180,
+      "value": "Întoarcere la lobby"
+    },
+    {
+      "key": 181,
+      "value": "Reîncercarea misiunii"
+    },
+    {
+      "key": 182,
+      "value": "Următoarea misiune"
+    },
+    {
+      "key": 183,
+      "value": "Deconectați"
+    },
+    {
+      "key": 184,
+      "value": "Resetarea legăturilor"
+    },
+    {
+      "key": 185,
+      "value": "Mergeți înainte"
+    },
+    {
+      "key": 186,
+      "value": "Mutarea la stânga"
+    },
+    {
+      "key": 187,
+      "value": "Mutarea înapoi"
+    },
+    {
+      "key": 188,
+      "value": "Mutarea la dreapta"
+    },
+    {
+      "key": 189,
+      "value": "Rulați"
+    },
+    {
+      "key": 190,
+      "value": "Toggle Map"
+    },
+    {
+      "key": 191,
+      "value": "Afișați clienții conectați"
+    },
+    {
+      "key": 192,
+      "value": "Comutați Cronometru 1"
+    },
+    {
+      "key": 193,
+      "value": "Comutarea cronometrului 2"
+    },
+    {
+      "key": 194,
+      "value": "Comutarea cronometrului 3"
+    },
+    {
+      "key": 195,
+      "value": "Comutarea cronometrului 4"
+    },
+    {
+      "key": 196,
+      "value": "Resetare cronometru 1"
+    },
+    {
+      "key": 197,
+      "value": "Resetare cronometru 2"
+    },
+    {
+      "key": 198,
+      "value": "Resetare cronometru 3"
+    },
+    {
+      "key": 199,
+      "value": "Resetare cronometru 4"
+    },
+    {
+      "key": 200,
+      "value": "Resetarea tuturor cronometrelor"
+    },
+    {
+      "key": 201,
+      "value": "Torpilă de foc"
+    },
+    {
+      "key": 202,
+      "value": "Avioanele plutitoare anterioare inferioare"
+    },
+    {
+      "key": 203,
+      "value": "Ridicați avioanele plutitoare înainte"
+    },
+    {
+      "key": 204,
+      "value": "Lower Aft Diveplanes"
+    },
+    {
+      "key": 205,
+      "value": "Ridicați Aft Diveplanes"
+    },
+    {
+      "key": 206,
+      "value": "Comutarea lanternei"
+    },
+    {
+      "key": 207,
+      "value": "Manual de recunoaștere a comutatorului"
+    },
+    {
+      "key": 208,
+      "value": "Comutați culoarea lanternei"
+    },
+    {
+      "key": 209,
+      "value": "Afișați obiectivele misiunii"
+    },
+    {
+      "key": 210,
+      "value": "Centrul înainte Diveplane"
+    },
+    {
+      "key": 211,
+      "value": "Centrul Aft Diveplane centru"
+    },
+    {
+      "key": 212,
+      "value": "Cheia Morse"
+    },
+    {
+      "key": 213,
+      "value": "Morse Single Dot"
+    },
+    {
+      "key": 214,
+      "value": "Morse Single Dash"
+    },
+    {
+      "key": 215,
+      "value": "Puncte continue Morse"
+    },
+    {
+      "key": 216,
+      "value": "Morse liniuțe continue"
+    },
+    {
+      "key": 217,
+      "value": "Următoarea pagină de text Morse"
+    },
+    {
+      "key": 218,
+      "value": "Pagina anterioară a textului Morse"
+    },
+    {
+      "key": 219,
+      "value": "Voce silențioasă"
+    },
+    {
+      "key": 220,
+      "value": "Bot Menu Toggle"
+    },
+    {
+      "key": 221,
+      "value": "Bot Menu1"
+    },
+    {
+      "key": 222,
+      "value": "Bot Menu2"
+    },
+    {
+      "key": 223,
+      "value": "Bot Menu3"
+    },
+    {
+      "key": 224,
+      "value": "Hartă Resetare contor kilometraj"
+    },
+    {
+      "key": 225,
+      "value": "Instrumentul Simboluri de hartă"
+    },
+    {
+      "key": 226,
+      "value": "Instrumentul Map Line"
+    },
+    {
+      "key": 227,
+      "value": "Instrumentul cerc de hartă"
+    },
+    {
+      "key": 228,
+      "value": "Instrumentul de scriere a hărții"
+    },
+    {
+      "key": 229,
+      "value": "Instrumentul Map Copy Line Tool"
+    },
+    {
+      "key": 230,
+      "value": "Instrumentul de ștergere a hărții"
+    },
+    {
+      "key": 231,
+      "value": "Instrumentul Protractor de hartă"
+    },
+    {
+      "key": 232,
+      "value": "Harta Quicktool Simbol"
+    },
+    {
+      "key": 233,
+      "value": "Harta Quicktool Line"
+    },
+    {
+      "key": 234,
+      "value": "Hartă Quicktool Circle"
+    },
+    {
+      "key": 235,
+      "value": "Harta Quicktool Copy Line"
+    },
+    {
+      "key": 236,
+      "value": "Harta Quicktool Eraser"
+    },
+    {
+      "key": 237,
+      "value": "Harta Quicktool Protractor"
+    },
+    {
+      "key": 238,
+      "value": "Harta Toggle Sketch"
+    },
+    {
+      "key": 239,
+      "value": "Harta Protractor Urmează"
+    },
+    {
+      "key": 240,
+      "value": "Harta Toggle Busola inversă"
+    },
+    {
+      "key": 241,
+      "value": "Harta Comutarea modului timp"
+    },
+    {
+      "key": 242,
+      "value": "Harta Toggle Arată unghiul"
+    },
+    {
+      "key": 243,
+      "value": "Harta Toggle Snap"
+    },
+    {
+      "key": 244,
+      "value": "Harta Afișează distanța"
+    },
+    {
+      "key": 245,
+      "value": "Simbol de comutare a hărții"
+    },
+    {
+      "key": 246,
+      "value": "Harta Reset Protractor Rotire"
+    },
+    {
+      "key": 247,
+      "value": "Harta Toggle Draw From Midpoint"
+    },
+    {
+      "key": 248,
+      "value": "Harta Toggle Polyline"
+    },
+    {
+      "key": 249,
+      "value": "Harta Toggle Line Style"
+    },
+    {
+      "key": 250,
+      "value": "Harta Toggle Arată raportor"
+    },
+    {
+      "key": 251,
+      "value": "Hartă Introduceți unghiul înainte de distanță"
+    },
+    {
+      "key": 252,
+      "value": "Comutați suprapunerea Periscope"
+    },
+    {
+      "key": 253,
+      "value": "Schimbă suprapunerea Periscop"
+    },
+    {
+      "key": 254,
+      "value": "Creșteți suprapunerea Periscope X 1"
+    },
+    {
+      "key": 255,
+      "value": "Diminuarea suprapunerii periscopului X 1"
+    },
+    {
+      "key": 256,
+      "value": "Creșteți suprapunerea Periscope X 10"
+    },
+    {
+      "key": 257,
+      "value": "Reducerea suprapunerii Periscope X 10"
+    },
+    {
+      "key": 258,
+      "value": "Creșteți luminozitatea periscopului"
+    },
+    {
+      "key": 259,
+      "value": "Diminuează Brigada Periscope"
+    },
+    {
+      "key": 260,
+      "value": "Comutați Notebook"
+    },
+    {
+      "key": 261,
+      "value": "Echipaj"
+    },
+    {
+      "key": 262,
+      "value": "Loadout"
+    },
+    {
+      "key": 263,
+      "value": "Plecare echipaj"
+    },
+    {
+      "key": 264,
+      "value": "Alăturați-vă echipajului"
+    },
+    {
+      "key": 265,
+      "value": "Alăturați-vă"
+    },
+    {
+      "key": 266,
+      "value": "Echipajul este complet"
+    },
+    {
+      "key": 267,
+      "value": "Porecla"
+    },
+    {
+      "key": 268,
+      "value": "Comunitate"
+    },
+    {
+      "key": 269,
+      "value": "Raportați un bug"
+    },
+    {
+      "key": 270,
+      "value": "Opțiuni pentru echipaj"
+    },
+    {
+      "key": 271,
+      "value": "Opțiuni pentru lista de interdicții"
+    },
+    {
+      "key": 272,
+      "value": "Jurnal de activitate"
+    },
+    {
+      "key": 273,
+      "value": "Curriculum vitae"
+    },
+    {
+      "key": 274,
+      "value": "Părăsiți jocul"
+    },
+    {
+      "key": 275,
+      "value": "Metadate"
+    },
+    {
+      "key": 276,
+      "value": "Condiții de pornire"
+    },
+    {
+      "key": 277,
+      "value": "Condiții de victorie"
+    },
+    {
+      "key": 278,
+      "value": "Obiective"
+    },
+    {
+      "key": 279,
+      "value": "Întotdeauna arată"
+    },
+    {
+      "key": 280,
+      "value": "Arată la finalizare"
+    },
+    {
+      "key": 281,
+      "value": "Întotdeauna ascuns"
+    },
+    {
+      "key": 282,
+      "value": "Crește sau scade volumul general al jocului, menținând în același timp raportul dintre diferitele volume."
+    },
+    {
+      "key": 283,
+      "value": "Controlează volumul muzicii."
+    },
+    {
+      "key": 284,
+      "value": "Controlează volumul diferitelor efecte, cum ar fi exploziile și altele similare."
+    },
+    {
+      "key": 285,
+      "value": "Controlează volumul conversației vocale primite."
+    },
+    {
+      "key": 286,
+      "value": "Afișează nivelul de intrare al microfonului."
+    },
+    {
+      "key": 287,
+      "value": "Push-To-Talk activează și dezactivează microfonul atunci când este apăsată tasta corespunzătoare."
+    },
+    {
+      "key": 288,
+      "value": "Enable (Activare) pentru a afișa un indiciu atunci când microfonul este activat sau nu."
+    },
+    {
+      "key": 289,
+      "value": "Disable (Dezactivare) pentru a opri redarea efectului sonor morse atunci când se utilizează tasta morse."
+    },
+    {
+      "key": 290,
+      "value": "Mesaj codificat"
+    },
+    {
+      "key": 291,
+      "value": "Salvați mesajul"
+    },
+    {
+      "key": 292,
+      "value": "Marcați mesajul ca fiind trimis"
+    },
+    {
+      "key": 293,
+      "value": "Mesaj decodificat"
+    },
+    {
+      "key": 294,
+      "value": "Canal"
+    },
+    {
+      "key": 295,
+      "value": "De la"
+    },
+    {
+      "key": 296,
+      "value": "La"
+    },
+    {
+      "key": 297,
+      "value": "Anulează"
+    },
+    {
+      "key": 298,
+      "value": "Trimiteți"
+    },
+    {
+      "key": 299,
+      "value": "Salvați"
+    },
+    {
+      "key": 300,
+      "value": "Ștergeți"
+    },
+    {
+      "key": 301,
+      "value": "Emisiune"
+    },
+    {
+      "key": 302,
+      "value": "U-96"
+    },
+    {
+      "key": 303,
+      "value": "U-552"
+    },
+    {
+      "key": 304,
+      "value": "U-564"
+    },
+    {
+      "key": 305,
+      "value": "U-307"
+    },
+    {
+      "key": 306,
+      "value": "U-98"
+    },
+    {
+      "key": 307,
+      "value": "U-371"
+    },
+    {
+      "key": 308,
+      "value": "U-706"
+    },
+    {
+      "key": 309,
+      "value": "U-431"
+    },
+    {
+      "key": 310,
+      "value": "Acceptă"
+    },
+    {
+      "key": 311,
+      "value": "Respingeți"
+    },
+    {
+      "key": 312,
+      "value": "Respingeți și ignorați"
+    },
+    {
+      "key": 313,
+      "value": "Acceptarea cererii de aderare"
+    },
+    {
+      "key": 314,
+      "value": "Respingeți cererea de aderare"
+    },
+    {
+      "key": 315,
+      "value": "Respingeți și ignorați cererea de aderare"
+    }
+  ],
+  "suffixPairs": [
+    {
+      "key": 0,
+      "value": "°"
+    },
+    {
+      "key": 1,
+      "value": " kts"
+    },
+    {
+      "key": 2,
+      "value": " %"
+    },
+    {
+      "key": 3,
+      "value": " metri"
+    },
+    {
+      "key": 4,
+      "value": " tone"
+    },
+    {
+      "key": 5,
+      "value": "km"
+    },
+    {
+      "key": 6,
+      "value": "km/h"
+    }
+  ],
+  "morsePairs": [
+    {
+      "key": 0,
+      "value": "Apelarea oricui"
+    },
+    {
+      "key": 1,
+      "value": "De la Canal"
+    },
+    {
+      "key": 9,
+      "value": "Peste"
+    },
+    {
+      "key": 2,
+      "value": "Roger"
+    },
+    {
+      "key": 3,
+      "value": "Mesaj verificat"
+    },
+    {
+      "key": 4,
+      "value": "Spune din nou"
+    },
+    {
+      "key": 5,
+      "value": "Așteptați"
+    },
+    {
+      "key": 6,
+      "value": "Out"
+    },
+    {
+      "key": 7,
+      "value": "Da"
+    },
+    {
+      "key": 8,
+      "value": "Nu"
+    },
+    {
+      "key": 10,
+      "value": "Mesaj nou"
+    },
+    {
+      "key": 11,
+      "value": "Sfârșitul mesajului"
+    }
+  ]
+}

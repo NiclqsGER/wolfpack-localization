@@ -1,0 +1,1353 @@
+{
+  "header": "Community (AI) Latvian",
+  "pairs": [
+    {
+      "key": -1,
+      "value": "INVALID"
+    },
+    {
+      "key": 0,
+      "value": "UNCACHED"
+    },
+    {
+      "key": 20,
+      "value": "Spēlēt"
+    },
+    {
+      "key": 21,
+      "value": "Rokasgrāmata"
+    },
+    {
+      "key": 22,
+      "value": "Iespējas"
+    },
+    {
+      "key": 23,
+      "value": "Redaktors"
+    },
+    {
+      "key": 24,
+      "value": "Seminārs"
+    },
+    {
+      "key": 25,
+      "value": "Kredīti"
+    },
+    {
+      "key": 26,
+      "value": "Pārtraukt"
+    },
+    {
+      "key": 4,
+      "value": "Ziņas"
+    },
+    {
+      "key": 3,
+      "value": "Versija"
+    },
+    {
+      "key": 5,
+      "value": "Valoda"
+    },
+    {
+      "key": 6,
+      "value": "Uz"
+    },
+    {
+      "key": 7,
+      "value": "Izslēgts"
+    },
+    {
+      "key": 8,
+      "value": "Ieslēgts"
+    },
+    {
+      "key": 9,
+      "value": "Invalīdi"
+    },
+    {
+      "key": 10,
+      "value": "Rādīt"
+    },
+    {
+      "key": 11,
+      "value": "Paslēpt"
+    },
+    {
+      "key": 12,
+      "value": "Jebkurš"
+    },
+    {
+      "key": 13,
+      "value": "Jā"
+    },
+    {
+      "key": 14,
+      "value": "Nē"
+    },
+    {
+      "key": 15,
+      "value": "Laiks"
+    },
+    {
+      "key": 16,
+      "value": "Sākt"
+    },
+    {
+      "key": 17,
+      "value": "Spēles laiks"
+    },
+    {
+      "key": 18,
+      "value": "Nejaušs"
+    },
+    {
+      "key": 19,
+      "value": "Publicēt"
+    },
+    {
+      "key": 1,
+      "value": "Atpakaļ"
+    },
+    {
+      "key": 2,
+      "value": "Atstāj"
+    },
+    {
+      "key": 27,
+      "value": "Audio"
+    },
+    {
+      "key": 28,
+      "value": "Video"
+    },
+    {
+      "key": 29,
+      "value": "Tastatūra"
+    },
+    {
+      "key": 30,
+      "value": "Pele"
+    },
+    {
+      "key": 31,
+      "value": "Spēle"
+    },
+    {
+      "key": 32,
+      "value": "Ūdens"
+    },
+    {
+      "key": 33,
+      "value": "Pēcapstrāde"
+    },
+    {
+      "key": 34,
+      "value": "Galvenais skaļums"
+    },
+    {
+      "key": 35,
+      "value": "Mūzikas apjoms"
+    },
+    {
+      "key": 36,
+      "value": "Efektu apjoms"
+    },
+    {
+      "key": 37,
+      "value": "VOIP apjoms"
+    },
+    {
+      "key": 38,
+      "value": "Lietotāja saskarnes apjoms"
+    },
+    {
+      "key": 39,
+      "value": "Mikrofona skaļums"
+    },
+    {
+      "key": 40,
+      "value": "Push-To-Talk"
+    },
+    {
+      "key": 41,
+      "value": "Rādīt Push-To-Talk mājienu"
+    },
+    {
+      "key": 42,
+      "value": "Atskaņot Morzes ievades"
+    },
+    {
+      "key": 43,
+      "value": "Spēles izšķirtspēja"
+    },
+    {
+      "key": 44,
+      "value": "Displeja režīms"
+    },
+    {
+      "key": 45,
+      "value": "Vertikālā sinhronizācija"
+    },
+    {
+      "key": 46,
+      "value": "Kadru ātruma ierobežojums"
+    },
+    {
+      "key": 47,
+      "value": "Tekstūru izšķirtspēja"
+    },
+    {
+      "key": 48,
+      "value": "Anizotropā filtrēšana"
+    },
+    {
+      "key": 49,
+      "value": "Ēnas"
+    },
+    {
+      "key": 50,
+      "value": "Ekskluzīvs pilnekrāna ekrāns"
+    },
+    {
+      "key": 51,
+      "value": "Logs bez robežām"
+    },
+    {
+      "key": 52,
+      "value": "Maksimizēts logs"
+    },
+    {
+      "key": 53,
+      "value": "Logs"
+    },
+    {
+      "key": 54,
+      "value": "Katrs kadrs"
+    },
+    {
+      "key": 55,
+      "value": "Katrs otrs kadrs"
+    },
+    {
+      "key": 56,
+      "value": "Apakšējā"
+    },
+    {
+      "key": 57,
+      "value": "Zema"
+    },
+    {
+      "key": 58,
+      "value": "Vidēja"
+    },
+    {
+      "key": 59,
+      "value": "Augsts"
+    },
+    {
+      "key": 60,
+      "value": "Ļoti augsts"
+    },
+    {
+      "key": 61,
+      "value": "Ultra"
+    },
+    {
+      "key": 62,
+      "value": "Overkill"
+    },
+    {
+      "key": 63,
+      "value": "Max"
+    },
+    {
+      "key": 64,
+      "value": "Kameras rotācijas jutība"
+    },
+    {
+      "key": 65,
+      "value": "Kursora mijiedarbības jutība"
+    },
+    {
+      "key": 66,
+      "value": "Ritināšanas ritenīša intensitāte"
+    },
+    {
+      "key": 67,
+      "value": "Kursora skala"
+    },
+    {
+      "key": 68,
+      "value": "Apvērst peli"
+    },
+    {
+      "key": 69,
+      "value": "Kartes līnijas mērogs"
+    },
+    {
+      "key": 70,
+      "value": "Kartes fonta mērogs"
+    },
+    {
+      "key": 71,
+      "value": "Rādīt nosaukumu plāksnītes"
+    },
+    {
+      "key": 72,
+      "value": "Rādīt rīkkopas"
+    },
+    {
+      "key": 73,
+      "value": "Rādīt kadru ātruma skaitītāju"
+    },
+    {
+      "key": 74,
+      "value": "Rādīt pamācību spēles sākumā"
+    },
+    {
+      "key": 75,
+      "value": "Kameras šūpošanās iespējošana"
+    },
+    {
+      "key": 76,
+      "value": "Redzamības lauks"
+    },
+    {
+      "key": 77,
+      "value": "Izvēlnes fona necaurredzamība"
+    },
+    {
+      "key": 78,
+      "value": "Ūdens izšķirtspēja"
+    },
+    {
+      "key": 79,
+      "value": "Ūdens izsmidzināšanas daļiņu skaits"
+    },
+    {
+      "key": 80,
+      "value": "Dinamiskā putu kvalitāte"
+    },
+    {
+      "key": 81,
+      "value": "Ūdens priekšskatījums"
+    },
+    {
+      "key": 82,
+      "value": "Ekrāna telpas apkārtējās vides apklūzija"
+    },
+    {
+      "key": 83,
+      "value": "Ekrāna telpas atspoguļojums"
+    },
+    {
+      "key": 84,
+      "value": "Izlīdzināšanas novēršana"
+    },
+    {
+      "key": 85,
+      "value": "Bloom"
+    },
+    {
+      "key": 86,
+      "value": "Spilgtuma korekcija"
+    },
+    {
+      "key": 87,
+      "value": "Dither"
+    },
+    {
+      "key": 88,
+      "value": "Kustības izplūdums"
+    },
+    {
+      "key": 89,
+      "value": "Laukuma dziļums"
+    },
+    {
+      "key": 90,
+      "value": "Hromatiskā aberācija"
+    },
+    {
+      "key": 91,
+      "value": "Atvērt mapi Valodas"
+    },
+    {
+      "key": 92,
+      "value": "Pārlādēt valodas"
+    },
+    {
+      "key": 93,
+      "value": "Visu iestatījumu atiestatīšana"
+    },
+    {
+      "key": 94,
+      "value": "Atrast vestibilu"
+    },
+    {
+      "key": 95,
+      "value": "Izveidot vestibilu"
+    },
+    {
+      "key": 96,
+      "value": "Filtri"
+    },
+    {
+      "key": 97,
+      "value": "Attālums no vestibila"
+    },
+    {
+      "key": 98,
+      "value": "Parole"
+    },
+    {
+      "key": 99,
+      "value": "Boti"
+    },
+    {
+      "key": 100,
+      "value": "Pilni lobiji"
+    },
+    {
+      "key": 101,
+      "value": "Spēles stils"
+    },
+    {
+      "key": 102,
+      "value": "Gadījuma"
+    },
+    {
+      "key": 103,
+      "value": "Hardcore"
+    },
+    {
+      "key": 104,
+      "value": "Lomu loma"
+    },
+    {
+      "key": 105,
+      "value": "Aizvērt"
+    },
+    {
+      "key": 106,
+      "value": "Noklusējuma"
+    },
+    {
+      "key": 107,
+      "value": "Tālu"
+    },
+    {
+      "key": 108,
+      "value": "Visā pasaulē"
+    },
+    {
+      "key": 111,
+      "value": "Nosaukums"
+    },
+    {
+      "key": 112,
+      "value": "Apraksts"
+    },
+    {
+      "key": 113,
+      "value": "Redzamība"
+    },
+    {
+      "key": 114,
+      "value": "Draugi var uzaicināt uz lobiju"
+    },
+    {
+      "key": 115,
+      "value": "Slēptais"
+    },
+    {
+      "key": 116,
+      "value": "Tikai draugiem"
+    },
+    {
+      "key": 117,
+      "value": "Publiski"
+    },
+    {
+      "key": 109,
+      "value": "Atjaunināt"
+    },
+    {
+      "key": 110,
+      "value": "Izveidot"
+    },
+    {
+      "key": 118,
+      "value": "Misijas instruktāža"
+    },
+    {
+      "key": 119,
+      "value": "Grūtības iestatījumi"
+    },
+    {
+      "key": 120,
+      "value": "Scenārijs"
+    },
+    {
+      "key": 121,
+      "value": "Pasūtījumi"
+    },
+    {
+      "key": 122,
+      "value": "Vispārīgi"
+    },
+    {
+      "key": 123,
+      "value": "Laiks un datums"
+    },
+    {
+      "key": 124,
+      "value": "Laikapstākļi"
+    },
+    {
+      "key": 125,
+      "value": "Misija"
+    },
+    {
+      "key": 126,
+      "value": "Grūtības"
+    },
+    {
+      "key": 127,
+      "value": "Spēles režīms"
+    },
+    {
+      "key": 128,
+      "value": "Diena"
+    },
+    {
+      "key": 129,
+      "value": "Mēnesis"
+    },
+    {
+      "key": 130,
+      "value": "Gads"
+    },
+    {
+      "key": 131,
+      "value": "Dienas laiks"
+    },
+    {
+      "key": 132,
+      "value": "Atrašanās vieta"
+    },
+    {
+      "key": 133,
+      "value": "Vēja ātrums"
+    },
+    {
+      "key": 134,
+      "value": "Vēja virziens"
+    },
+    {
+      "key": 135,
+      "value": "Datums"
+    },
+    {
+      "key": 136,
+      "value": "Migla"
+    },
+    {
+      "key": 137,
+      "value": "Automātiskā navigācija"
+    },
+    {
+      "key": 138,
+      "value": "Draudzīgā uguns"
+    },
+    {
+      "key": 139,
+      "value": "Ar spēlētājiem nesaistīti apkalpes locekļi"
+    },
+    {
+      "key": 140,
+      "value": "Vienkāršots radio"
+    },
+    {
+      "key": 141,
+      "value": "Reālistisks balss vājinājums"
+    },
+    {
+      "key": 142,
+      "value": "Ātra tikšanās"
+    },
+    {
+      "key": 143,
+      "value": "Automātiskais dzinējs"
+    },
+    {
+      "key": 144,
+      "value": "Konvojs periodiski maina virzienu"
+    },
+    {
+      "key": 145,
+      "value": "Eskorts vienmēr izmanto aktīvo sonaru"
+    },
+    {
+      "key": 146,
+      "value": "Eskorta vajāšanas laiks"
+    },
+    {
+      "key": 147,
+      "value": "Konvoja lielums"
+    },
+    {
+      "key": 148,
+      "value": "Reālistisks torpēdas pārlādes ātrums"
+    },
+    {
+      "key": 149,
+      "value": "Bojātas torpēdas"
+    },
+    {
+      "key": 150,
+      "value": "Ierobežota torpēdas precizitāte"
+    },
+    {
+      "key": 151,
+      "value": "Torpēdas iedarbināšanas mehānisms atkarīgs no leņķa"
+    },
+    {
+      "key": 152,
+      "value": "Uzaicināt draugus"
+    },
+    {
+      "key": 153,
+      "value": "Sākt spēli"
+    },
+    {
+      "key": 154,
+      "value": "Skirmish"
+    },
+    {
+      "key": 155,
+      "value": "Mācību pamācība"
+    },
+    {
+      "key": 156,
+      "value": "Biskajas līcis"
+    },
+    {
+      "key": 157,
+      "value": "Ziemeļjūra"
+    },
+    {
+      "key": 158,
+      "value": "Norvēģijas jūra"
+    },
+    {
+      "key": 159,
+      "value": "Baltijas jūra"
+    },
+    {
+      "key": 160,
+      "value": "Mazs"
+    },
+    {
+      "key": 161,
+      "value": "Parasts"
+    },
+    {
+      "key": 162,
+      "value": "Liels"
+    },
+    {
+      "key": 163,
+      "value": "Īss"
+    },
+    {
+      "key": 164,
+      "value": "Long"
+    },
+    {
+      "key": 165,
+      "value": "Mērķi"
+    },
+    {
+      "key": 166,
+      "value": "Spiediet, lai pārlūkotu misijas Steam Workshop!"
+    },
+    {
+      "key": 167,
+      "value": "Eksportēt misiju uz starpliktuvi."
+    },
+    {
+      "key": 168,
+      "value": "Importēt misiju no starpliktuves."
+    },
+    {
+      "key": 169,
+      "value": "Pārskats"
+    },
+    {
+      "key": 170,
+      "value": "Sīkāka informācija"
+    },
+    {
+      "key": 171,
+      "value": "Atklāts misijas laikā"
+    },
+    {
+      "key": 172,
+      "value": "Izšautas torpēdas"
+    },
+    {
+      "key": 173,
+      "value": "Torpēdas trāpīja"
+    },
+    {
+      "key": 174,
+      "value": "Torpēdas trāpījuma koeficients"
+    },
+    {
+      "key": 175,
+      "value": "Iznīcinātie tirgotāji"
+    },
+    {
+      "key": 176,
+      "value": "Iznīcinātie karakuģi"
+    },
+    {
+      "key": 177,
+      "value": "Nogremdētā tonnāža"
+    },
+    {
+      "key": 178,
+      "value": "Misijas laiks"
+    },
+    {
+      "key": 179,
+      "value": "Eksportēt uz starpliktuvi"
+    },
+    {
+      "key": 180,
+      "value": "Atgriezties vestibilā"
+    },
+    {
+      "key": 181,
+      "value": "Atkārtot misiju"
+    },
+    {
+      "key": 182,
+      "value": "Nākamā misija"
+    },
+    {
+      "key": 183,
+      "value": "Atvienojiet"
+    },
+    {
+      "key": 184,
+      "value": "Sasaistes atiestatīšana"
+    },
+    {
+      "key": 185,
+      "value": "Virzīties uz priekšu"
+    },
+    {
+      "key": 186,
+      "value": "Pārvietot pa kreisi"
+    },
+    {
+      "key": 187,
+      "value": "Pārvietot atpakaļ"
+    },
+    {
+      "key": 188,
+      "value": "Pārvietot pa labi"
+    },
+    {
+      "key": 189,
+      "value": "Palaist"
+    },
+    {
+      "key": 190,
+      "value": "Pārslēgt karti"
+    },
+    {
+      "key": 191,
+      "value": "Rādīt savienotos klientus"
+    },
+    {
+      "key": 192,
+      "value": "Pārslēgt hronometru 1"
+    },
+    {
+      "key": 193,
+      "value": "Pārslēgt hronometru 2"
+    },
+    {
+      "key": 194,
+      "value": "Pārslēgt hronometru 3"
+    },
+    {
+      "key": 195,
+      "value": "Pārslēgt hronometru 4"
+    },
+    {
+      "key": 196,
+      "value": "Stopkrātera atiestatīšana 1"
+    },
+    {
+      "key": 197,
+      "value": "Stopkrātera atiestatīšana 2"
+    },
+    {
+      "key": 198,
+      "value": "Stopkrātera atiestatīšana 3"
+    },
+    {
+      "key": 199,
+      "value": "Stopkrātera atiestatīšana 4"
+    },
+    {
+      "key": 200,
+      "value": "Visu hronometru atiestatīšana"
+    },
+    {
+      "key": 201,
+      "value": "Ugunsdzēsības torpēda"
+    },
+    {
+      "key": 202,
+      "value": "Apakšējās priekšējās ieniršanas lidmašīnas"
+    },
+    {
+      "key": 203,
+      "value": "Paceliet uz priekšu niršanas lidmašīnas"
+    },
+    {
+      "key": 204,
+      "value": "Apakšējās pakaļgala niršanas lidmašīnas"
+    },
+    {
+      "key": 205,
+      "value": "Paaugstināt pakaļgala niršanas lidmašīnas"
+    },
+    {
+      "key": 206,
+      "value": "Pārslēgt lukturīti"
+    },
+    {
+      "key": 207,
+      "value": "Pārslēgt Atpazīšanas rokasgrāmata"
+    },
+    {
+      "key": 208,
+      "value": "Pārslēgt lukturīša krāsu"
+    },
+    {
+      "key": 209,
+      "value": "Rādīt misijas mērķus"
+    },
+    {
+      "key": 210,
+      "value": "Centrs uz priekšu Diveplane"
+    },
+    {
+      "key": 211,
+      "value": "Centrs pakaļgala niršanas lidmašīna"
+    },
+    {
+      "key": 212,
+      "value": "Morzes atslēga"
+    },
+    {
+      "key": 213,
+      "value": "Morzes vienpunkte"
+    },
+    {
+      "key": 214,
+      "value": "Morzes vienreizējais domuzīme"
+    },
+    {
+      "key": 215,
+      "value": "Morzesa nepārtrauktās līnijas punkti"
+    },
+    {
+      "key": 216,
+      "value": "Morsē nepārtrauktas domuzīmes"
+    },
+    {
+      "key": 217,
+      "value": "Nākamā Morzes teksta lapa"
+    },
+    {
+      "key": 218,
+      "value": "Iepriekšējais Morzes teksts Lapa"
+    },
+    {
+      "key": 219,
+      "value": "Izslēgt balsi"
+    },
+    {
+      "key": 220,
+      "value": "Bot izvēlnes pārslēgs"
+    },
+    {
+      "key": 221,
+      "value": "Bot Menu1"
+    },
+    {
+      "key": 222,
+      "value": "Bot Menu2"
+    },
+    {
+      "key": 223,
+      "value": "Bot Menu3"
+    },
+    {
+      "key": 224,
+      "value": "Kartes atiestatīšana nobraukuma skaitītāja"
+    },
+    {
+      "key": 225,
+      "value": "Kartes simbolu rīks"
+    },
+    {
+      "key": 226,
+      "value": "Kartes līnijas rīks"
+    },
+    {
+      "key": 227,
+      "value": "Kartes apļa rīks"
+    },
+    {
+      "key": 228,
+      "value": "Kartes rakstīšanas rīks"
+    },
+    {
+      "key": 229,
+      "value": "Kartes kopēšanas līnijas rīks"
+    },
+    {
+      "key": 230,
+      "value": "Kartes dzēšgumijas rīks"
+    },
+    {
+      "key": 231,
+      "value": "Kartes transportieris rīks"
+    },
+    {
+      "key": 232,
+      "value": "Ātrā rīka karte Simbols"
+    },
+    {
+      "key": 233,
+      "value": "Kartes QuickTool līnija"
+    },
+    {
+      "key": 234,
+      "value": "Karte QuickTool aplis"
+    },
+    {
+      "key": 235,
+      "value": "Ātrā rīka karte Kopēšanas līnija"
+    },
+    {
+      "key": 236,
+      "value": "Kartes Quicktool Eraser"
+    },
+    {
+      "key": 237,
+      "value": "Karte Quicktool transportieris"
+    },
+    {
+      "key": 238,
+      "value": "Karte Pārslēgt skici"
+    },
+    {
+      "key": 239,
+      "value": "Kartes protoktors Sekojiet"
+    },
+    {
+      "key": 240,
+      "value": "Karte Pārslēgt reverso kompasu"
+    },
+    {
+      "key": 241,
+      "value": "Kartes pārslēgšanas laika režīms"
+    },
+    {
+      "key": 242,
+      "value": "Kartes Toggle Rādīt leņķi"
+    },
+    {
+      "key": 243,
+      "value": "Karte Pārslēgt Snap"
+    },
+    {
+      "key": 244,
+      "value": "Kartes Toggle Rādīt attālumu"
+    },
+    {
+      "key": 245,
+      "value": "Kartes pārslēgšanas simbols"
+    },
+    {
+      "key": 246,
+      "value": "Kartes atiestatīšana Protraktora rotācija"
+    },
+    {
+      "key": 247,
+      "value": "Kartes pārslēgs Zīmēt no viduspunkta"
+    },
+    {
+      "key": 248,
+      "value": "Kartes pārslēgs Polinērija"
+    },
+    {
+      "key": 249,
+      "value": "Kartes pārslēgšanas līnijas stils"
+    },
+    {
+      "key": 250,
+      "value": "Kartes pārslēgs Rādīt transportieri"
+    },
+    {
+      "key": 251,
+      "value": "Karte Ievadiet leņķi pirms attāluma"
+    },
+    {
+      "key": 252,
+      "value": "Pārslēgt Periscope pārklājumu"
+    },
+    {
+      "key": 253,
+      "value": "Apmainīt Periscope pārklājumu"
+    },
+    {
+      "key": 254,
+      "value": "Periskopa pārklājuma palielināšana X 1"
+    },
+    {
+      "key": 255,
+      "value": "Samazināt periskopa pārklājumu X 1"
+    },
+    {
+      "key": 256,
+      "value": "Palielināt periskopa pārklājumu X 10"
+    },
+    {
+      "key": 257,
+      "value": "Samazināt periskopa pārklājumu X 10"
+    },
+    {
+      "key": 258,
+      "value": "Periskopa spilgtuma palielināšana"
+    },
+    {
+      "key": 259,
+      "value": "Samazināt Periscope Brigthness"
+    },
+    {
+      "key": 260,
+      "value": "Toggle Notebook"
+    },
+    {
+      "key": 261,
+      "value": "Ekipāža"
+    },
+    {
+      "key": 262,
+      "value": "Iekraušanas veids"
+    },
+    {
+      "key": 263,
+      "value": "Atvaļinājuma apkalpe"
+    },
+    {
+      "key": 264,
+      "value": "Pievienojieties apkalpei"
+    },
+    {
+      "key": 265,
+      "value": "Pievienojies"
+    },
+    {
+      "key": 266,
+      "value": "Apkalpe ir pilna"
+    },
+    {
+      "key": 267,
+      "value": "Pārsaukums"
+    },
+    {
+      "key": 268,
+      "value": "Kopiena"
+    },
+    {
+      "key": 269,
+      "value": "Ziņot par kļūdu"
+    },
+    {
+      "key": 270,
+      "value": "Apkalpes iespējas"
+    },
+    {
+      "key": 271,
+      "value": "Aizliegumu saraksta opcijas"
+    },
+    {
+      "key": 272,
+      "value": "Darbību žurnāls"
+    },
+    {
+      "key": 273,
+      "value": "CV"
+    },
+    {
+      "key": 274,
+      "value": "Atstāj spēli"
+    },
+    {
+      "key": 275,
+      "value": "Metadati"
+    },
+    {
+      "key": 276,
+      "value": "Sākuma nosacījumi"
+    },
+    {
+      "key": 277,
+      "value": "Uzvaras nosacījumi"
+    },
+    {
+      "key": 278,
+      "value": "Mērķi"
+    },
+    {
+      "key": 279,
+      "value": "Vienmēr rādīt"
+    },
+    {
+      "key": 280,
+      "value": "Rādīt pēc pabeigšanas"
+    },
+    {
+      "key": 281,
+      "value": "Vienmēr paslēpts"
+    },
+    {
+      "key": 282,
+      "value": "Palielina vai samazina kopējo spēles skaļumu, vienlaikus saglabājot attiecību starp dažādiem skaļumiem."
+    },
+    {
+      "key": 283,
+      "value": "Regulē mūzikas skaļumu."
+    },
+    {
+      "key": 284,
+      "value": "Kontrolē dažādu efektu, piemēram, sprādzienu u. tml., skaļumu."
+    },
+    {
+      "key": 285,
+      "value": "Kontrolē ienākošās balss tērzēšanas skaļumu."
+    },
+    {
+      "key": 286,
+      "value": "Rāda mikrofona ieejas līmeni."
+    },
+    {
+      "key": 287,
+      "value": "Push-To-Talk ieslēdz un izslēdz mikrofonu, kad tiek nospiests attiecīgais taustiņš."
+    },
+    {
+      "key": 288,
+      "value": "Ieslēgt, lai parādītu mājienu, kad mikrofons ir vai nav ieslēgts."
+    },
+    {
+      "key": 289,
+      "value": "Atslēgt, lai pārtrauktu morzes skaņas efekta atskaņošanu, izmantojot morzes taustiņu."
+    },
+    {
+      "key": 290,
+      "value": "Kodēta ziņa"
+    },
+    {
+      "key": 291,
+      "value": "Saglabāt ziņojumu"
+    },
+    {
+      "key": 292,
+      "value": "Atzīmēt ziņu kā nosūtītu"
+    },
+    {
+      "key": 293,
+      "value": "Dekodēta ziņa"
+    },
+    {
+      "key": 294,
+      "value": "Kanāls"
+    },
+    {
+      "key": 295,
+      "value": "No"
+    },
+    {
+      "key": 296,
+      "value": "Uz"
+    },
+    {
+      "key": 297,
+      "value": "Atcelt"
+    },
+    {
+      "key": 298,
+      "value": "Sūtīt"
+    },
+    {
+      "key": 299,
+      "value": "Saglabāt"
+    },
+    {
+      "key": 300,
+      "value": "Dzēst"
+    },
+    {
+      "key": 301,
+      "value": "Raidījums"
+    },
+    {
+      "key": 302,
+      "value": "U-96"
+    },
+    {
+      "key": 303,
+      "value": "U-552"
+    },
+    {
+      "key": 304,
+      "value": "U-564"
+    },
+    {
+      "key": 305,
+      "value": "U-307"
+    },
+    {
+      "key": 306,
+      "value": "U-98"
+    },
+    {
+      "key": 307,
+      "value": "U-371"
+    },
+    {
+      "key": 308,
+      "value": "U-706"
+    },
+    {
+      "key": 309,
+      "value": "U-431"
+    },
+    {
+      "key": 310,
+      "value": "Pieņemt"
+    },
+    {
+      "key": 311,
+      "value": "Noraidīt"
+    },
+    {
+      "key": 312,
+      "value": "Noraidīt un ignorēt"
+    },
+    {
+      "key": 313,
+      "value": "Pieņemt pievienošanās pieprasījumu"
+    },
+    {
+      "key": 314,
+      "value": "Noraidīt pievienošanās pieprasījumu"
+    },
+    {
+      "key": 315,
+      "value": "Noraidīt un ignorēt pievienošanās pieprasījumu"
+    }
+  ],
+  "suffixPairs": [
+    {
+      "key": 0,
+      "value": "°"
+    },
+    {
+      "key": 1,
+      "value": " kts"
+    },
+    {
+      "key": 2,
+      "value": " %"
+    },
+    {
+      "key": 3,
+      "value": " metri"
+    },
+    {
+      "key": 4,
+      "value": " tonnas"
+    },
+    {
+      "key": 5,
+      "value": "km"
+    },
+    {
+      "key": 6,
+      "value": "km/h"
+    }
+  ],
+  "morsePairs": [
+    {
+      "key": 0,
+      "value": "Zvanot ikvienam"
+    },
+    {
+      "key": 1,
+      "value": "No kanāla"
+    },
+    {
+      "key": 9,
+      "value": "Virs"
+    },
+    {
+      "key": 2,
+      "value": "Roger"
+    },
+    {
+      "key": 3,
+      "value": "Ziņojums ir pārbaudīts"
+    },
+    {
+      "key": 4,
+      "value": "Atkārtojiet"
+    },
+    {
+      "key": 5,
+      "value": "Pagaidiet"
+    },
+    {
+      "key": 6,
+      "value": "Out"
+    },
+    {
+      "key": 7,
+      "value": "Jā"
+    },
+    {
+      "key": 8,
+      "value": "Nē"
+    },
+    {
+      "key": 10,
+      "value": "Jauna ziņa"
+    },
+    {
+      "key": 11,
+      "value": "Ziņojuma beigas"
+    }
+  ]
+}

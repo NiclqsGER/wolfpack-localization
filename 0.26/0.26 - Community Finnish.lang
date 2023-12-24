@@ -1,0 +1,1353 @@
+{
+  "header": "Community (AI) Finnish",
+  "pairs": [
+    {
+      "key": -1,
+      "value": "INVALID"
+    },
+    {
+      "key": 0,
+      "value": "UNCACHED"
+    },
+    {
+      "key": 20,
+      "value": "Pelaa"
+    },
+    {
+      "key": 21,
+      "value": "Manuaalinen"
+    },
+    {
+      "key": 22,
+      "value": "Vaihtoehdot"
+    },
+    {
+      "key": 23,
+      "value": "Toimittaja"
+    },
+    {
+      "key": 24,
+      "value": "Työpaja"
+    },
+    {
+      "key": 25,
+      "value": "Krediitit"
+    },
+    {
+      "key": 26,
+      "value": "Lopeta"
+    },
+    {
+      "key": 4,
+      "value": "Uutiset"
+    },
+    {
+      "key": 3,
+      "value": "Versio"
+    },
+    {
+      "key": 5,
+      "value": "Kieli"
+    },
+    {
+      "key": 6,
+      "value": "Osoitteessa"
+    },
+    {
+      "key": 7,
+      "value": "Off"
+    },
+    {
+      "key": 8,
+      "value": "Käytössä"
+    },
+    {
+      "key": 9,
+      "value": "Vammaiset"
+    },
+    {
+      "key": 10,
+      "value": "Näytä"
+    },
+    {
+      "key": 11,
+      "value": "Piilota"
+    },
+    {
+      "key": 12,
+      "value": "Mikä tahansa"
+    },
+    {
+      "key": 13,
+      "value": "Kyllä"
+    },
+    {
+      "key": 14,
+      "value": "Ei"
+    },
+    {
+      "key": 15,
+      "value": "Aika"
+    },
+    {
+      "key": 16,
+      "value": "Aloita"
+    },
+    {
+      "key": 17,
+      "value": "Leikkiaika"
+    },
+    {
+      "key": 18,
+      "value": "Satunnainen"
+    },
+    {
+      "key": 19,
+      "value": "Julkaise"
+    },
+    {
+      "key": 1,
+      "value": "Takaisin"
+    },
+    {
+      "key": 2,
+      "value": "Jätä"
+    },
+    {
+      "key": 27,
+      "value": "Audio"
+    },
+    {
+      "key": 28,
+      "value": "Video"
+    },
+    {
+      "key": 29,
+      "value": "Näppäimistö"
+    },
+    {
+      "key": 30,
+      "value": "Hiiri"
+    },
+    {
+      "key": 31,
+      "value": "Peli"
+    },
+    {
+      "key": 32,
+      "value": "Vesi"
+    },
+    {
+      "key": 33,
+      "value": "Jälkikäsittely"
+    },
+    {
+      "key": 34,
+      "value": "Master Volume"
+    },
+    {
+      "key": 35,
+      "value": "Musiikin äänenvoimakkuus"
+    },
+    {
+      "key": 36,
+      "value": "Tehosteet Äänenvoimakkuus"
+    },
+    {
+      "key": 37,
+      "value": "VOIP äänenvoimakkuus"
+    },
+    {
+      "key": 38,
+      "value": "Käyttöliittymän äänenvoimakkuus"
+    },
+    {
+      "key": 39,
+      "value": "Mikrofonin äänenvoimakkuus"
+    },
+    {
+      "key": 40,
+      "value": "Push-To-Talk"
+    },
+    {
+      "key": 41,
+      "value": "Näyttö Push-To-Talk Vihje"
+    },
+    {
+      "key": 42,
+      "value": "Toista morse-tulo"
+    },
+    {
+      "key": 43,
+      "value": "Pelin resoluutio"
+    },
+    {
+      "key": 44,
+      "value": "Näyttötila"
+    },
+    {
+      "key": 45,
+      "value": "Vertikaalinen synkronointi"
+    },
+    {
+      "key": 46,
+      "value": "Kuvataajuusrajoitus"
+    },
+    {
+      "key": 47,
+      "value": "Tekstuurin resoluutio"
+    },
+    {
+      "key": 48,
+      "value": "Anisotrooppinen suodatus"
+    },
+    {
+      "key": 49,
+      "value": "Varjot"
+    },
+    {
+      "key": 50,
+      "value": "Eksklusiivinen Fullscreen"
+    },
+    {
+      "key": 51,
+      "value": "Reunaton ikkuna"
+    },
+    {
+      "key": 52,
+      "value": "Maksimoitu ikkuna"
+    },
+    {
+      "key": 53,
+      "value": "Ikkuna"
+    },
+    {
+      "key": 54,
+      "value": "Jokainen kehys"
+    },
+    {
+      "key": 55,
+      "value": "Joka toinen kehys"
+    },
+    {
+      "key": 56,
+      "value": "Alempi"
+    },
+    {
+      "key": 57,
+      "value": "Matala"
+    },
+    {
+      "key": 58,
+      "value": "Medium"
+    },
+    {
+      "key": 59,
+      "value": "Korkea"
+    },
+    {
+      "key": 60,
+      "value": "Erittäin korkea"
+    },
+    {
+      "key": 61,
+      "value": "Ultra"
+    },
+    {
+      "key": 62,
+      "value": "Overkill"
+    },
+    {
+      "key": 63,
+      "value": "Max"
+    },
+    {
+      "key": 64,
+      "value": "Kameran kiertoherkkyys"
+    },
+    {
+      "key": 65,
+      "value": "Kursorin vuorovaikutusherkkyys"
+    },
+    {
+      "key": 66,
+      "value": "Vierityspyörän voimakkuus"
+    },
+    {
+      "key": 67,
+      "value": "Kursorin asteikko"
+    },
+    {
+      "key": 68,
+      "value": "Käänteinen hiiri"
+    },
+    {
+      "key": 69,
+      "value": "Karttalinjan mittakaava"
+    },
+    {
+      "key": 70,
+      "value": "Kartan fontin mittakaava"
+    },
+    {
+      "key": 71,
+      "value": "Näytä nimikilvet"
+    },
+    {
+      "key": 72,
+      "value": "Näytä työkaluvihjeet"
+    },
+    {
+      "key": 73,
+      "value": "Näytä kuvataajuuslaskuri"
+    },
+    {
+      "key": 74,
+      "value": "Näytä opetusohjelma pelin alkaessa"
+    },
+    {
+      "key": 75,
+      "value": "Ota kameran heilahdus käyttöön"
+    },
+    {
+      "key": 76,
+      "value": "Näkökenttä"
+    },
+    {
+      "key": 77,
+      "value": "Valikon taustan peittävyys"
+    },
+    {
+      "key": 78,
+      "value": "Vesipäätöslauselma"
+    },
+    {
+      "key": 79,
+      "value": "Vesiruiskun hiukkasten määrä"
+    },
+    {
+      "key": 80,
+      "value": "Dynaaminen vaahto laatu"
+    },
+    {
+      "key": 81,
+      "value": "Veden esikatselu"
+    },
+    {
+      "key": 82,
+      "value": "Näytön tilan Ambient Occlusion"
+    },
+    {
+      "key": 83,
+      "value": "Näytön tilan heijastus"
+    },
+    {
+      "key": 84,
+      "value": "Anti-Aliasing"
+    },
+    {
+      "key": 85,
+      "value": "Bloom"
+    },
+    {
+      "key": 86,
+      "value": "Kirkkauden korjaus"
+    },
+    {
+      "key": 87,
+      "value": "Dither"
+    },
+    {
+      "key": 88,
+      "value": "Liikkeen epätarkkuus"
+    },
+    {
+      "key": 89,
+      "value": "Syväterävyys"
+    },
+    {
+      "key": 90,
+      "value": "Kromaattinen aberraatio"
+    },
+    {
+      "key": 91,
+      "value": "Avaa Kielet-kansio"
+    },
+    {
+      "key": 92,
+      "value": "Lataa kielet uudelleen"
+    },
+    {
+      "key": 93,
+      "value": "Nollaa kaikki asetukset"
+    },
+    {
+      "key": 94,
+      "value": "Etsi aula"
+    },
+    {
+      "key": 95,
+      "value": "Luo aula"
+    },
+    {
+      "key": 96,
+      "value": "Suodattimet"
+    },
+    {
+      "key": 97,
+      "value": "Aulan etäisyys"
+    },
+    {
+      "key": 98,
+      "value": "Salasana"
+    },
+    {
+      "key": 99,
+      "value": "Bots"
+    },
+    {
+      "key": 100,
+      "value": "Täydet aulatilat"
+    },
+    {
+      "key": 101,
+      "value": "Pelityyli"
+    },
+    {
+      "key": 102,
+      "value": "Rento"
+    },
+    {
+      "key": 103,
+      "value": "Hardcore"
+    },
+    {
+      "key": 104,
+      "value": "Roolileikki"
+    },
+    {
+      "key": 105,
+      "value": "Sulje"
+    },
+    {
+      "key": 106,
+      "value": "Oletus"
+    },
+    {
+      "key": 107,
+      "value": "Far"
+    },
+    {
+      "key": 108,
+      "value": "Maailmanlaajuinen"
+    },
+    {
+      "key": 111,
+      "value": "Otsikko"
+    },
+    {
+      "key": 112,
+      "value": "Kuvaus"
+    },
+    {
+      "key": 113,
+      "value": "Näkyvyys"
+    },
+    {
+      "key": 114,
+      "value": "Ystävät voivat kutsua aulaan"
+    },
+    {
+      "key": 115,
+      "value": "Piilotettu"
+    },
+    {
+      "key": 116,
+      "value": "Vain ystävät"
+    },
+    {
+      "key": 117,
+      "value": "Julkinen"
+    },
+    {
+      "key": 109,
+      "value": "Päivitä"
+    },
+    {
+      "key": 110,
+      "value": "Luo"
+    },
+    {
+      "key": 118,
+      "value": "Tehtävän tiedotus"
+    },
+    {
+      "key": 119,
+      "value": "Vaikeusasetukset"
+    },
+    {
+      "key": 120,
+      "value": "Skenaario"
+    },
+    {
+      "key": 121,
+      "value": "Tilaukset"
+    },
+    {
+      "key": 122,
+      "value": "Yleistä"
+    },
+    {
+      "key": 123,
+      "value": "Aika ja päivämäärä"
+    },
+    {
+      "key": 124,
+      "value": "Sää"
+    },
+    {
+      "key": 125,
+      "value": "Tehtävä"
+    },
+    {
+      "key": 126,
+      "value": "Vaikeusaste"
+    },
+    {
+      "key": 127,
+      "value": "Pelitila"
+    },
+    {
+      "key": 128,
+      "value": "Päivä"
+    },
+    {
+      "key": 129,
+      "value": "Kuukausi"
+    },
+    {
+      "key": 130,
+      "value": "Vuosi"
+    },
+    {
+      "key": 131,
+      "value": "Kellonaika"
+    },
+    {
+      "key": 132,
+      "value": "Sijainti"
+    },
+    {
+      "key": 133,
+      "value": "Tuulen nopeus"
+    },
+    {
+      "key": 134,
+      "value": "Tuulen suunta"
+    },
+    {
+      "key": 135,
+      "value": "Päivämäärä"
+    },
+    {
+      "key": 136,
+      "value": "Sumu"
+    },
+    {
+      "key": 137,
+      "value": "Automaattinen navigointi"
+    },
+    {
+      "key": 138,
+      "value": "Ystävällinen tulitus"
+    },
+    {
+      "key": 139,
+      "value": "Miehistön muut kuin pelaajan jäsenet"
+    },
+    {
+      "key": 140,
+      "value": "Yksinkertaistettu radio"
+    },
+    {
+      "key": 141,
+      "value": "Realistinen äänenvaimennus"
+    },
+    {
+      "key": 142,
+      "value": "Nopea kohtaaminen"
+    },
+    {
+      "key": 143,
+      "value": "Automaattinen moottori"
+    },
+    {
+      "key": 144,
+      "value": "Saattue vaihtaa ajoittain suuntaa"
+    },
+    {
+      "key": 145,
+      "value": "Saattajat käyttävät aina aktiivista luotainta"
+    },
+    {
+      "key": 146,
+      "value": "Saattueen takaa-ajoaika"
+    },
+    {
+      "key": 147,
+      "value": "Saattueen koko"
+    },
+    {
+      "key": 148,
+      "value": "Realistinen torpedon latausnopeus"
+    },
+    {
+      "key": 149,
+      "value": "Vialliset torpedot"
+    },
+    {
+      "key": 150,
+      "value": "Rajoitettu torpedotarkkuus"
+    },
+    {
+      "key": 151,
+      "value": "Torpedon laukaisu riippuu kulmasta"
+    },
+    {
+      "key": 152,
+      "value": "Kutsu ystäviä"
+    },
+    {
+      "key": 153,
+      "value": "Aloita peli"
+    },
+    {
+      "key": 154,
+      "value": "Skirmish"
+    },
+    {
+      "key": 155,
+      "value": "Tutorial"
+    },
+    {
+      "key": 156,
+      "value": "Biskajanlahti"
+    },
+    {
+      "key": 157,
+      "value": "Pohjanmeri"
+    },
+    {
+      "key": 158,
+      "value": "Norjanmeri"
+    },
+    {
+      "key": 159,
+      "value": "Itämeri"
+    },
+    {
+      "key": 160,
+      "value": "Pieni"
+    },
+    {
+      "key": 161,
+      "value": "Normaali"
+    },
+    {
+      "key": 162,
+      "value": "Suuri"
+    },
+    {
+      "key": 163,
+      "value": "Lyhyt"
+    },
+    {
+      "key": 164,
+      "value": "Pitkä"
+    },
+    {
+      "key": 165,
+      "value": "Tavoitteet"
+    },
+    {
+      "key": 166,
+      "value": "Klikkaa selataksesi tehtäviä Steam Workshopissa!"
+    },
+    {
+      "key": 167,
+      "value": "Vie tehtävä leikepöydälle."
+    },
+    {
+      "key": 168,
+      "value": "Tuo tehtävä leikepöydästä."
+    },
+    {
+      "key": 169,
+      "value": "Yleiskatsaus"
+    },
+    {
+      "key": 170,
+      "value": "Yksityiskohdat"
+    },
+    {
+      "key": 171,
+      "value": "Havaittu tehtävän aikana"
+    },
+    {
+      "key": 172,
+      "value": "Torpedot laukaistu"
+    },
+    {
+      "key": 173,
+      "value": "Torpedot osuivat"
+    },
+    {
+      "key": 174,
+      "value": "Torpedojen osumasuhde"
+    },
+    {
+      "key": 175,
+      "value": "Kauppiaat tuhottu"
+    },
+    {
+      "key": 176,
+      "value": "Tuhoutuneet sota-alukset"
+    },
+    {
+      "key": 177,
+      "value": "Uppoama tonnisto"
+    },
+    {
+      "key": 178,
+      "value": "Tehtävän aika"
+    },
+    {
+      "key": 179,
+      "value": "Vie leikepöydälle"
+    },
+    {
+      "key": 180,
+      "value": "Palaa aulaan"
+    },
+    {
+      "key": 181,
+      "value": "Toista tehtävä"
+    },
+    {
+      "key": 182,
+      "value": "Seuraava tehtävä"
+    },
+    {
+      "key": 183,
+      "value": "Irrota"
+    },
+    {
+      "key": 184,
+      "value": "Nollaa sidokset"
+    },
+    {
+      "key": 185,
+      "value": "Eteenpäin"
+    },
+    {
+      "key": 186,
+      "value": "Siirry vasemmalle"
+    },
+    {
+      "key": 187,
+      "value": "Siirry taaksepäin"
+    },
+    {
+      "key": 188,
+      "value": "Siirry oikealle"
+    },
+    {
+      "key": 189,
+      "value": "Suorita"
+    },
+    {
+      "key": 190,
+      "value": "Toggle Kartta"
+    },
+    {
+      "key": 191,
+      "value": "Näytä yhdistetyt asiakkaat"
+    },
+    {
+      "key": 192,
+      "value": "Vaihda sekuntikello 1"
+    },
+    {
+      "key": 193,
+      "value": "Vaihda sekuntikello 2"
+    },
+    {
+      "key": 194,
+      "value": "Vaihda sekuntikello 3"
+    },
+    {
+      "key": 195,
+      "value": "Vaihda sekuntikello 4"
+    },
+    {
+      "key": 196,
+      "value": "Sekuntikellon nollaus 1"
+    },
+    {
+      "key": 197,
+      "value": "Sekuntikellon nollaus 2"
+    },
+    {
+      "key": 198,
+      "value": "Sekuntikellon nollaus 3"
+    },
+    {
+      "key": 199,
+      "value": "Sekuntikellon nollaus 4"
+    },
+    {
+      "key": 200,
+      "value": "Nollaa kaikki sekuntikellot"
+    },
+    {
+      "key": 201,
+      "value": "Tuli Torpedo"
+    },
+    {
+      "key": 202,
+      "value": "Alemmat keulan sukelluslentokoneet"
+    },
+    {
+      "key": 203,
+      "value": "Nostetaan sukelluslentokoneita eteenpäin"
+    },
+    {
+      "key": 204,
+      "value": "Alempi peräsin Sukelluslentokoneet"
+    },
+    {
+      "key": 205,
+      "value": "Sukelluslentokoneiden perän nostaminen"
+    },
+    {
+      "key": 206,
+      "value": "Vaihda taskulamppu"
+    },
+    {
+      "key": 207,
+      "value": "Toggle Recognition Manual"
+    },
+    {
+      "key": 208,
+      "value": "Vaihda taskulampun väriä"
+    },
+    {
+      "key": 209,
+      "value": "Näytä tehtävän tavoitteet"
+    },
+    {
+      "key": 210,
+      "value": "Sukelluslentokone keskellä eteenpäin"
+    },
+    {
+      "key": 211,
+      "value": "Sukelluslentokone keskellä perää"
+    },
+    {
+      "key": 212,
+      "value": "Morse-avain"
+    },
+    {
+      "key": 213,
+      "value": "Morse Single Dot"
+    },
+    {
+      "key": 214,
+      "value": "Morse Single Dash"
+    },
+    {
+      "key": 215,
+      "value": "Morse Jatkuvat pisteet"
+    },
+    {
+      "key": 216,
+      "value": "Morse Jatkuvat viivat"
+    },
+    {
+      "key": 217,
+      "value": "Seuraava Morse-tekstisivu"
+    },
+    {
+      "key": 218,
+      "value": "Edellinen Morse-tekstisivu"
+    },
+    {
+      "key": 219,
+      "value": "Mykistä ääni"
+    },
+    {
+      "key": 220,
+      "value": "Bot-valikko Toggle"
+    },
+    {
+      "key": 221,
+      "value": "Bot-valikko1"
+    },
+    {
+      "key": 222,
+      "value": "Bot Menu2"
+    },
+    {
+      "key": 223,
+      "value": "Botti Menu3"
+    },
+    {
+      "key": 224,
+      "value": "Kartta Nollaa matkamittari"
+    },
+    {
+      "key": 225,
+      "value": "Karttasymboli-työkalu"
+    },
+    {
+      "key": 226,
+      "value": "Karttalinja-työkalu"
+    },
+    {
+      "key": 227,
+      "value": "Kartta ympyrä työkalu"
+    },
+    {
+      "key": 228,
+      "value": "Kartan kirjoitustyökalu"
+    },
+    {
+      "key": 229,
+      "value": "Kartan kopiointiviivatyökalu"
+    },
+    {
+      "key": 230,
+      "value": "Kartan pyyhekumi-työkalu"
+    },
+    {
+      "key": 231,
+      "value": "Karttaprotraktori työkalu"
+    },
+    {
+      "key": 232,
+      "value": "Kartta Quicktool-symboli"
+    },
+    {
+      "key": 233,
+      "value": "Kartta Quicktool Line"
+    },
+    {
+      "key": 234,
+      "value": "Kartta Quicktool Circle"
+    },
+    {
+      "key": 235,
+      "value": "Kartta Quicktool Kopioi linja"
+    },
+    {
+      "key": 236,
+      "value": "Kartta Quicktool Eraser"
+    },
+    {
+      "key": 237,
+      "value": "Kartta Quicktool-suuntima"
+    },
+    {
+      "key": 238,
+      "value": "Kartta Toggle Luonnos"
+    },
+    {
+      "key": 239,
+      "value": "Kartan mittatikku Seuraa"
+    },
+    {
+      "key": 240,
+      "value": "Kartta Toggle Käänteinen kompassi"
+    },
+    {
+      "key": 241,
+      "value": "Kartta Aikatilan vaihtaminen"
+    },
+    {
+      "key": 242,
+      "value": "Kartta Toggle Näytä kulma"
+    },
+    {
+      "key": 243,
+      "value": "Kartan vaihtaminen Snap"
+    },
+    {
+      "key": 244,
+      "value": "Kartta Toggle Näytä etäisyys"
+    },
+    {
+      "key": 245,
+      "value": "Kartan vaihtosymboli"
+    },
+    {
+      "key": 246,
+      "value": "Kartan nollaus mittatikun kierto"
+    },
+    {
+      "key": 247,
+      "value": "Kartta Toggle Piirrä keskipisteestä"
+    },
+    {
+      "key": 248,
+      "value": "Kartta Toggle Polyline"
+    },
+    {
+      "key": 249,
+      "value": "Kartta Vaihda viivatyyli"
+    },
+    {
+      "key": 250,
+      "value": "Kartta Toggle Näytä mittatikku"
+    },
+    {
+      "key": 251,
+      "value": "Kartta Syötä kulma ennen etäisyyttä"
+    },
+    {
+      "key": 252,
+      "value": "Periskoopin päällekytkentä"
+    },
+    {
+      "key": 253,
+      "value": "Vaihda Periscope Overlay"
+    },
+    {
+      "key": 254,
+      "value": "Suurenna Periskoopin päällekkäisyyttä X 1"
+    },
+    {
+      "key": 255,
+      "value": "Periskoopin päällekkäisyyden vähentäminen X 1"
+    },
+    {
+      "key": 256,
+      "value": "Suurenna Periscope Overlay X 10"
+    },
+    {
+      "key": 257,
+      "value": "Periskoopin päällekkäisyyden vähentäminen X 10"
+    },
+    {
+      "key": 258,
+      "value": "Periskoopin kirkkauden lisääminen"
+    },
+    {
+      "key": 259,
+      "value": "Periskooppi Brigthnessin vähentäminen"
+    },
+    {
+      "key": 260,
+      "value": "Vaihda muistikirjaa"
+    },
+    {
+      "key": 261,
+      "value": "Miehistö"
+    },
+    {
+      "key": 262,
+      "value": "Loadout"
+    },
+    {
+      "key": 263,
+      "value": "Jätä miehistö"
+    },
+    {
+      "key": 264,
+      "value": "Liity miehistöön"
+    },
+    {
+      "key": 265,
+      "value": "Liity"
+    },
+    {
+      "key": 266,
+      "value": "Miehistö on täynnä"
+    },
+    {
+      "key": 267,
+      "value": "Lempinimi"
+    },
+    {
+      "key": 268,
+      "value": "Yhteisö"
+    },
+    {
+      "key": 269,
+      "value": "Ilmoita virheestä"
+    },
+    {
+      "key": 270,
+      "value": "Miehistön vaihtoehdot"
+    },
+    {
+      "key": 271,
+      "value": "Kieltoluettelon vaihtoehdot"
+    },
+    {
+      "key": 272,
+      "value": "Aktiviteettiloki"
+    },
+    {
+      "key": 273,
+      "value": "Yhteenveto"
+    },
+    {
+      "key": 274,
+      "value": "Jätä peli"
+    },
+    {
+      "key": 275,
+      "value": "Metatiedot"
+    },
+    {
+      "key": 276,
+      "value": "Aloitusolosuhteet"
+    },
+    {
+      "key": 277,
+      "value": "Voiton ehdot"
+    },
+    {
+      "key": 278,
+      "value": "Kohteet"
+    },
+    {
+      "key": 279,
+      "value": "Näytä aina"
+    },
+    {
+      "key": 280,
+      "value": "Näytä valmistumisen yhteydessä"
+    },
+    {
+      "key": 281,
+      "value": "Aina piilossa"
+    },
+    {
+      "key": 282,
+      "value": "Nostaa tai laskee pelin yleistä äänenvoimakkuutta säilyttäen samalla eri äänenvoimakkuuksien väliset suhteet."
+    },
+    {
+      "key": 283,
+      "value": "Säätää musiikin äänenvoimakkuutta."
+    },
+    {
+      "key": 284,
+      "value": "Säätää erilaisten efektien, kuten räjähdysten ja vastaavien, äänenvoimakkuutta."
+    },
+    {
+      "key": 285,
+      "value": "Säätää saapuvan äänikeskustelun äänenvoimakkuutta."
+    },
+    {
+      "key": 286,
+      "value": "Näyttää mikrofonin tulotason."
+    },
+    {
+      "key": 287,
+      "value": "Push-To-Talk kytkee mikrofonin päälle ja pois päältä, kun asianmukaista näppäintä painetaan."
+    },
+    {
+      "key": 288,
+      "value": "Ota käyttöön näyttääksesi vihjeen siitä, milloin mikrofoni on käytössä tai ei."
+    },
+    {
+      "key": 289,
+      "value": "Pois käytöstä estää morseäänitehosteen toistamisen morse-näppäintä käytettäessä."
+    },
+    {
+      "key": 290,
+      "value": "Koodattu viesti"
+    },
+    {
+      "key": 291,
+      "value": "Tallenna viesti"
+    },
+    {
+      "key": 292,
+      "value": "Merkitse viesti lähetetyksi"
+    },
+    {
+      "key": 293,
+      "value": "Purettu viesti"
+    },
+    {
+      "key": 294,
+      "value": "Kanava"
+    },
+    {
+      "key": 295,
+      "value": "Osoitteesta"
+    },
+    {
+      "key": 296,
+      "value": "Osoitteeseen"
+    },
+    {
+      "key": 297,
+      "value": "Peruuta"
+    },
+    {
+      "key": 298,
+      "value": "Lähetä"
+    },
+    {
+      "key": 299,
+      "value": "Tallenna"
+    },
+    {
+      "key": 300,
+      "value": "Poista"
+    },
+    {
+      "key": 301,
+      "value": "Lähetys"
+    },
+    {
+      "key": 302,
+      "value": "U-96"
+    },
+    {
+      "key": 303,
+      "value": "U-552"
+    },
+    {
+      "key": 304,
+      "value": "U-564"
+    },
+    {
+      "key": 305,
+      "value": "U-307"
+    },
+    {
+      "key": 306,
+      "value": "U-98"
+    },
+    {
+      "key": 307,
+      "value": "U-371"
+    },
+    {
+      "key": 308,
+      "value": "U-706"
+    },
+    {
+      "key": 309,
+      "value": "U-431"
+    },
+    {
+      "key": 310,
+      "value": "Hyväksy"
+    },
+    {
+      "key": 311,
+      "value": "Hylkää"
+    },
+    {
+      "key": 312,
+      "value": "Hylkää ja jätä huomiotta"
+    },
+    {
+      "key": 313,
+      "value": "Hyväksy liittymispyyntö"
+    },
+    {
+      "key": 314,
+      "value": "Hylkää liittymispyyntö"
+    },
+    {
+      "key": 315,
+      "value": "Hylkää ja jätä huomiotta liittymispyyntö"
+    }
+  ],
+  "suffixPairs": [
+    {
+      "key": 0,
+      "value": "°"
+    },
+    {
+      "key": 1,
+      "value": " kts"
+    },
+    {
+      "key": 2,
+      "value": " %"
+    },
+    {
+      "key": 3,
+      "value": " metriä"
+    },
+    {
+      "key": 4,
+      "value": " tonnia"
+    },
+    {
+      "key": 5,
+      "value": "km"
+    },
+    {
+      "key": 6,
+      "value": "km/h"
+    }
+  ],
+  "morsePairs": [
+    {
+      "key": 0,
+      "value": "Soitan kenelle tahansa"
+    },
+    {
+      "key": 1,
+      "value": "Kanavalta"
+    },
+    {
+      "key": 9,
+      "value": "Over"
+    },
+    {
+      "key": 2,
+      "value": "Roger"
+    },
+    {
+      "key": 3,
+      "value": "Viesti tarkistettu"
+    },
+    {
+      "key": 4,
+      "value": "Sano uudelleen"
+    },
+    {
+      "key": 5,
+      "value": "Odota"
+    },
+    {
+      "key": 6,
+      "value": "Out"
+    },
+    {
+      "key": 7,
+      "value": "Kyllä"
+    },
+    {
+      "key": 8,
+      "value": "Ei"
+    },
+    {
+      "key": 10,
+      "value": "Uusi viesti"
+    },
+    {
+      "key": 11,
+      "value": "Viestin loppu"
+    }
+  ]
+}
