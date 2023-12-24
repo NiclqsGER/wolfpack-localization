@@ -17,7 +17,7 @@ We have initially generated translations using DeepL for version 0.26, but they 
 
 ### How to Contribute
 1. Fork the repository
-2. Create a new branch for your language (e.g., `0.26/french-translation`)
+2. Create a new branch for your language (e.g., `0.26/0.26 - Community French`)
 3. Make your changes
 4. Submit a pull request
 
