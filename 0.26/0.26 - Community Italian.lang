@@ -1,0 +1,1353 @@
+{
+  "header": "Community (AI) Italian",
+  "pairs": [
+    {
+      "key": -1,
+      "value": "INVALIDO"
+    },
+    {
+      "key": 0,
+      "value": "NON RAGGIUNTO"
+    },
+    {
+      "key": 20,
+      "value": "Gioco"
+    },
+    {
+      "key": 21,
+      "value": "Manuale"
+    },
+    {
+      "key": 22,
+      "value": "Opzioni"
+    },
+    {
+      "key": 23,
+      "value": "Editore"
+    },
+    {
+      "key": 24,
+      "value": "Officina"
+    },
+    {
+      "key": 25,
+      "value": "Crediti"
+    },
+    {
+      "key": 26,
+      "value": "Abbandonare"
+    },
+    {
+      "key": 4,
+      "value": "Notizie"
+    },
+    {
+      "key": 3,
+      "value": "Versione"
+    },
+    {
+      "key": 5,
+      "value": "Lingua"
+    },
+    {
+      "key": 6,
+      "value": "Su"
+    },
+    {
+      "key": 7,
+      "value": "Spento"
+    },
+    {
+      "key": 8,
+      "value": "Abilitato"
+    },
+    {
+      "key": 9,
+      "value": "Disabili"
+    },
+    {
+      "key": 10,
+      "value": "Mostra"
+    },
+    {
+      "key": 11,
+      "value": "Nascondere"
+    },
+    {
+      "key": 12,
+      "value": "Qualsiasi"
+    },
+    {
+      "key": 13,
+      "value": "Sì"
+    },
+    {
+      "key": 14,
+      "value": "No"
+    },
+    {
+      "key": 15,
+      "value": "Tempo"
+    },
+    {
+      "key": 16,
+      "value": "Inizio"
+    },
+    {
+      "key": 17,
+      "value": "Tempo di gioco"
+    },
+    {
+      "key": 18,
+      "value": "Casuale"
+    },
+    {
+      "key": 19,
+      "value": "Pubblicare"
+    },
+    {
+      "key": 1,
+      "value": "Indietro"
+    },
+    {
+      "key": 2,
+      "value": "Lasciare"
+    },
+    {
+      "key": 27,
+      "value": "Audio"
+    },
+    {
+      "key": 28,
+      "value": "Video"
+    },
+    {
+      "key": 29,
+      "value": "Tastiera"
+    },
+    {
+      "key": 30,
+      "value": "Mouse"
+    },
+    {
+      "key": 31,
+      "value": "Gioco"
+    },
+    {
+      "key": 32,
+      "value": "Acqua"
+    },
+    {
+      "key": 33,
+      "value": "Post-elaborazione"
+    },
+    {
+      "key": 34,
+      "value": "Volume master"
+    },
+    {
+      "key": 35,
+      "value": "Volume della musica"
+    },
+    {
+      "key": 36,
+      "value": "Volume degli effetti"
+    },
+    {
+      "key": 37,
+      "value": "Volume VOIP"
+    },
+    {
+      "key": 38,
+      "value": "Volume dell'interfaccia utente"
+    },
+    {
+      "key": 39,
+      "value": "Volume del microfono"
+    },
+    {
+      "key": 40,
+      "value": "Push-To-Talk"
+    },
+    {
+      "key": 41,
+      "value": "Suggerimento push-to-talk sul display"
+    },
+    {
+      "key": 42,
+      "value": "Riproduzione dell'ingresso morse"
+    },
+    {
+      "key": 43,
+      "value": "Risoluzione del gioco"
+    },
+    {
+      "key": 44,
+      "value": "Modalità di visualizzazione"
+    },
+    {
+      "key": 45,
+      "value": "Sincronizzazione verticale"
+    },
+    {
+      "key": 46,
+      "value": "Limite della frequenza dei fotogrammi"
+    },
+    {
+      "key": 47,
+      "value": "Risoluzione delle texture"
+    },
+    {
+      "key": 48,
+      "value": "Filtraggio anisotropico"
+    },
+    {
+      "key": 49,
+      "value": "Ombre"
+    },
+    {
+      "key": 50,
+      "value": "Esclusivo a schermo intero"
+    },
+    {
+      "key": 51,
+      "value": "Finestra senza bordi"
+    },
+    {
+      "key": 52,
+      "value": "Finestra massimizzata"
+    },
+    {
+      "key": 53,
+      "value": "Finestra"
+    },
+    {
+      "key": 54,
+      "value": "Ogni fotogramma"
+    },
+    {
+      "key": 55,
+      "value": "Ogni due fotogrammi"
+    },
+    {
+      "key": 56,
+      "value": "Più basso"
+    },
+    {
+      "key": 57,
+      "value": "Basso"
+    },
+    {
+      "key": 58,
+      "value": "Medio"
+    },
+    {
+      "key": 59,
+      "value": "Alto"
+    },
+    {
+      "key": 60,
+      "value": "Molto alto"
+    },
+    {
+      "key": 61,
+      "value": "Ultra"
+    },
+    {
+      "key": 62,
+      "value": "Sovrannaturale"
+    },
+    {
+      "key": 63,
+      "value": "Massimo"
+    },
+    {
+      "key": 64,
+      "value": "Sensibilità alla rotazione della telecamera"
+    },
+    {
+      "key": 65,
+      "value": "Sensibilità dell'interazione del cursore"
+    },
+    {
+      "key": 66,
+      "value": "Intensità della rotella di scorrimento"
+    },
+    {
+      "key": 67,
+      "value": "Scala del cursore"
+    },
+    {
+      "key": 68,
+      "value": "Invertire il mouse"
+    },
+    {
+      "key": 69,
+      "value": "Scala delle linee della mappa"
+    },
+    {
+      "key": 70,
+      "value": "Scala dei caratteri della mappa"
+    },
+    {
+      "key": 71,
+      "value": "Mostra targhette"
+    },
+    {
+      "key": 72,
+      "value": "Mostra i suggerimenti"
+    },
+    {
+      "key": 73,
+      "value": "Mostra il contatore della frequenza dei fotogrammi"
+    },
+    {
+      "key": 74,
+      "value": "Mostra l'esercitazione all'avvio del gioco"
+    },
+    {
+      "key": 75,
+      "value": "Abilita l'oscillazione della telecamera"
+    },
+    {
+      "key": 76,
+      "value": "Campo visivo"
+    },
+    {
+      "key": 77,
+      "value": "Opacità dello sfondo del menu"
+    },
+    {
+      "key": 78,
+      "value": "Risoluzione dell'acqua"
+    },
+    {
+      "key": 79,
+      "value": "Conteggio delle particelle di acqua nebulizzata"
+    },
+    {
+      "key": 80,
+      "value": "Qualità della schiuma dinamica"
+    },
+    {
+      "key": 81,
+      "value": "Anteprima dell'acqua"
+    },
+    {
+      "key": 82,
+      "value": "Occlusione ambientale dello spazio schermo"
+    },
+    {
+      "key": 83,
+      "value": "Riflessione dello spazio dello schermo"
+    },
+    {
+      "key": 84,
+      "value": "Anti-Aliasing"
+    },
+    {
+      "key": 85,
+      "value": "Fiore"
+    },
+    {
+      "key": 86,
+      "value": "Correzione della luminosità"
+    },
+    {
+      "key": 87,
+      "value": "Dither"
+    },
+    {
+      "key": 88,
+      "value": "Sfocatura del movimento"
+    },
+    {
+      "key": 89,
+      "value": "Profondità di campo"
+    },
+    {
+      "key": 90,
+      "value": "Aberrazione cromatica"
+    },
+    {
+      "key": 91,
+      "value": "Aprire la cartella Lingue"
+    },
+    {
+      "key": 92,
+      "value": "Ricaricare le lingue"
+    },
+    {
+      "key": 93,
+      "value": "Ripristino di tutte le impostazioni"
+    },
+    {
+      "key": 94,
+      "value": "Trova la lobby"
+    },
+    {
+      "key": 95,
+      "value": "Crea lobby"
+    },
+    {
+      "key": 96,
+      "value": "Filtri"
+    },
+    {
+      "key": 97,
+      "value": "Distanza dall'atrio"
+    },
+    {
+      "key": 98,
+      "value": "Password"
+    },
+    {
+      "key": 99,
+      "value": "Bot"
+    },
+    {
+      "key": 100,
+      "value": "Lobby complete"
+    },
+    {
+      "key": 101,
+      "value": "Stile di gioco"
+    },
+    {
+      "key": 102,
+      "value": "Casual"
+    },
+    {
+      "key": 103,
+      "value": "Hardcore"
+    },
+    {
+      "key": 104,
+      "value": "Gioco di ruolo"
+    },
+    {
+      "key": 105,
+      "value": "Chiudere"
+    },
+    {
+      "key": 106,
+      "value": "Predefinito"
+    },
+    {
+      "key": 107,
+      "value": "Lontano"
+    },
+    {
+      "key": 108,
+      "value": "In tutto il mondo"
+    },
+    {
+      "key": 111,
+      "value": "Titolo"
+    },
+    {
+      "key": 112,
+      "value": "Descrizione"
+    },
+    {
+      "key": 113,
+      "value": "Visibilità"
+    },
+    {
+      "key": 114,
+      "value": "Gli amici possono invitare alla lobby"
+    },
+    {
+      "key": 115,
+      "value": "Nascosto"
+    },
+    {
+      "key": 116,
+      "value": "Solo per gli amici"
+    },
+    {
+      "key": 117,
+      "value": "Pubblico"
+    },
+    {
+      "key": 109,
+      "value": "Aggiornare"
+    },
+    {
+      "key": 110,
+      "value": "Creare"
+    },
+    {
+      "key": 118,
+      "value": "Briefing della missione"
+    },
+    {
+      "key": 119,
+      "value": "Impostazioni di difficoltà"
+    },
+    {
+      "key": 120,
+      "value": "Scenario"
+    },
+    {
+      "key": 121,
+      "value": "Ordini"
+    },
+    {
+      "key": 122,
+      "value": "Generale"
+    },
+    {
+      "key": 123,
+      "value": "Ora e data"
+    },
+    {
+      "key": 124,
+      "value": "Il tempo"
+    },
+    {
+      "key": 125,
+      "value": "Missione"
+    },
+    {
+      "key": 126,
+      "value": "Difficoltà"
+    },
+    {
+      "key": 127,
+      "value": "Modalità di gioco"
+    },
+    {
+      "key": 128,
+      "value": "Giorno"
+    },
+    {
+      "key": 129,
+      "value": "Mese"
+    },
+    {
+      "key": 130,
+      "value": "Anno"
+    },
+    {
+      "key": 131,
+      "value": "Ora del giorno"
+    },
+    {
+      "key": 132,
+      "value": "Posizione"
+    },
+    {
+      "key": 133,
+      "value": "Velocità del vento"
+    },
+    {
+      "key": 134,
+      "value": "Direzione del vento"
+    },
+    {
+      "key": 135,
+      "value": "Data"
+    },
+    {
+      "key": 136,
+      "value": "Nebbia"
+    },
+    {
+      "key": 137,
+      "value": "Navigazione automatica"
+    },
+    {
+      "key": 138,
+      "value": "Fuoco amico"
+    },
+    {
+      "key": 139,
+      "value": "Membri dell'equipaggio non giocatori"
+    },
+    {
+      "key": 140,
+      "value": "Radio semplificata"
+    },
+    {
+      "key": 141,
+      "value": "Attenuazione realistica della voce"
+    },
+    {
+      "key": 142,
+      "value": "Incontro rapido"
+    },
+    {
+      "key": 143,
+      "value": "Motore automatico"
+    },
+    {
+      "key": 144,
+      "value": "Il convoglio cambia periodicamente direzione"
+    },
+    {
+      "key": 145,
+      "value": "Le scorte utilizzano sempre un sonar attivo"
+    },
+    {
+      "key": 146,
+      "value": "Tempo di inseguimento della scorta"
+    },
+    {
+      "key": 147,
+      "value": "Dimensione del convoglio"
+    },
+    {
+      "key": 148,
+      "value": "Velocità di ricarica del siluro realistica"
+    },
+    {
+      "key": 149,
+      "value": "Siluri difettosi"
+    },
+    {
+      "key": 150,
+      "value": "Precisione limitata del siluro"
+    },
+    {
+      "key": 151,
+      "value": "L'innesco del siluro dipende dall'angolazione"
+    },
+    {
+      "key": 152,
+      "value": "Invitare gli amici"
+    },
+    {
+      "key": 153,
+      "value": "Avvio del gioco"
+    },
+    {
+      "key": 154,
+      "value": "Scaramuccia"
+    },
+    {
+      "key": 155,
+      "value": "Tutorial"
+    },
+    {
+      "key": 156,
+      "value": "Golfo di Biscaglia"
+    },
+    {
+      "key": 157,
+      "value": "Mare del Nord"
+    },
+    {
+      "key": 158,
+      "value": "Mare di Norvegia"
+    },
+    {
+      "key": 159,
+      "value": "Mar Baltico"
+    },
+    {
+      "key": 160,
+      "value": "Piccolo"
+    },
+    {
+      "key": 161,
+      "value": "Normale"
+    },
+    {
+      "key": 162,
+      "value": "Grande"
+    },
+    {
+      "key": 163,
+      "value": "Breve"
+    },
+    {
+      "key": 164,
+      "value": "Lungo"
+    },
+    {
+      "key": 165,
+      "value": "Obiettivi"
+    },
+    {
+      "key": 166,
+      "value": "Clicca per sfogliare le missioni su Steam Workshop!"
+    },
+    {
+      "key": 167,
+      "value": "Esportazione della missione negli appunti."
+    },
+    {
+      "key": 168,
+      "value": "Importazione della missione dagli appunti."
+    },
+    {
+      "key": 169,
+      "value": "Panoramica"
+    },
+    {
+      "key": 170,
+      "value": "Dettagli"
+    },
+    {
+      "key": 171,
+      "value": "Rilevato durante la missione"
+    },
+    {
+      "key": 172,
+      "value": "Siluri lanciati"
+    },
+    {
+      "key": 173,
+      "value": "I siluri colpiti"
+    },
+    {
+      "key": 174,
+      "value": "Rapporto di colpi di siluro"
+    },
+    {
+      "key": 175,
+      "value": "Mercanti distrutti"
+    },
+    {
+      "key": 176,
+      "value": "Navi da guerra distrutte"
+    },
+    {
+      "key": 177,
+      "value": "Tonnellate affondate"
+    },
+    {
+      "key": 178,
+      "value": "Tempo di missione"
+    },
+    {
+      "key": 179,
+      "value": "Esportazione negli appunti"
+    },
+    {
+      "key": 180,
+      "value": "Ritorno alla lobby"
+    },
+    {
+      "key": 181,
+      "value": "Missione di ripetizione"
+    },
+    {
+      "key": 182,
+      "value": "Missione successiva"
+    },
+    {
+      "key": 183,
+      "value": "Disconnessione"
+    },
+    {
+      "key": 184,
+      "value": "Azzeramento dei vincoli"
+    },
+    {
+      "key": 185,
+      "value": "Andare avanti"
+    },
+    {
+      "key": 186,
+      "value": "Muoversi a sinistra"
+    },
+    {
+      "key": 187,
+      "value": "Spostamento all'indietro"
+    },
+    {
+      "key": 188,
+      "value": "Muoversi a destra"
+    },
+    {
+      "key": 189,
+      "value": "Correre"
+    },
+    {
+      "key": 190,
+      "value": "Mappa"
+    },
+    {
+      "key": 191,
+      "value": "Mostra i clienti connessi"
+    },
+    {
+      "key": 192,
+      "value": "Cronometro 1"
+    },
+    {
+      "key": 193,
+      "value": "Alterna il cronometro 2"
+    },
+    {
+      "key": 194,
+      "value": "Alterna il cronometro 3"
+    },
+    {
+      "key": 195,
+      "value": "Alterna il cronometro 4"
+    },
+    {
+      "key": 196,
+      "value": "Azzeramento del cronometro 1"
+    },
+    {
+      "key": 197,
+      "value": "Azzeramento del cronometro 2"
+    },
+    {
+      "key": 198,
+      "value": "Azzeramento del cronometro 3"
+    },
+    {
+      "key": 199,
+      "value": "Azzeramento del cronometro 4"
+    },
+    {
+      "key": 200,
+      "value": "Azzeramento di tutti i cronometri"
+    },
+    {
+      "key": 201,
+      "value": "Siluro di fuoco"
+    },
+    {
+      "key": 202,
+      "value": "Piani di immersione inferiori a prua"
+    },
+    {
+      "key": 203,
+      "value": "Sollevare i piani di immersione in avanti"
+    },
+    {
+      "key": 204,
+      "value": "Diveplanes inferiori di poppa"
+    },
+    {
+      "key": 205,
+      "value": "Sollevare gli aerei subacquei a poppa"
+    },
+    {
+      "key": 206,
+      "value": "Alterna la torcia"
+    },
+    {
+      "key": 207,
+      "value": "Manuale di riconoscimento Toggle"
+    },
+    {
+      "key": 208,
+      "value": "Alterna il colore della torcia"
+    },
+    {
+      "key": 209,
+      "value": "Mostra gli obiettivi della missione"
+    },
+    {
+      "key": 210,
+      "value": "Centro di prua in picchiata"
+    },
+    {
+      "key": 211,
+      "value": "Centro di poppa per immersione"
+    },
+    {
+      "key": 212,
+      "value": "Chiave Morse"
+    },
+    {
+      "key": 213,
+      "value": "Punto singolo Morse"
+    },
+    {
+      "key": 214,
+      "value": "Trattino singolo Morse"
+    },
+    {
+      "key": 215,
+      "value": "Punti continui Morse"
+    },
+    {
+      "key": 216,
+      "value": "Trattini continui in Morse"
+    },
+    {
+      "key": 217,
+      "value": "Pagina successiva del testo Morse"
+    },
+    {
+      "key": 218,
+      "value": "Pagina precedente del testo Morse"
+    },
+    {
+      "key": 219,
+      "value": "Voce muta"
+    },
+    {
+      "key": 220,
+      "value": "Menu Bot Toggle"
+    },
+    {
+      "key": 221,
+      "value": "Menu Bot1"
+    },
+    {
+      "key": 222,
+      "value": "Menu Bot2"
+    },
+    {
+      "key": 223,
+      "value": "Menu Bot3"
+    },
+    {
+      "key": 224,
+      "value": "Mappa Azzeramento contachilometri"
+    },
+    {
+      "key": 225,
+      "value": "Strumento Simbolo mappa"
+    },
+    {
+      "key": 226,
+      "value": "Strumento Linea della mappa"
+    },
+    {
+      "key": 227,
+      "value": "Strumento Cerchio della mappa"
+    },
+    {
+      "key": 228,
+      "value": "Strumento di scrittura della mappa"
+    },
+    {
+      "key": 229,
+      "value": "Strumento Copia linea mappa"
+    },
+    {
+      "key": 230,
+      "value": "Strumento Gomma mappa"
+    },
+    {
+      "key": 231,
+      "value": "Strumento goniometro per mappe"
+    },
+    {
+      "key": 232,
+      "value": "Mappa Simbolo dello strumento rapido"
+    },
+    {
+      "key": 233,
+      "value": "Mappa Linea Quicktool"
+    },
+    {
+      "key": 234,
+      "value": "Mappa Circolo Quicktool"
+    },
+    {
+      "key": 235,
+      "value": "Mappa Quicktool Linea di copia"
+    },
+    {
+      "key": 236,
+      "value": "Mappa Gomma Quicktool"
+    },
+    {
+      "key": 237,
+      "value": "Mappa Goniometro Quicktool"
+    },
+    {
+      "key": 238,
+      "value": "Mappa Schizzo di selezione"
+    },
+    {
+      "key": 239,
+      "value": "Mappa Goniometro Seguire"
+    },
+    {
+      "key": 240,
+      "value": "Alterazione della mappa Bussola inversa"
+    },
+    {
+      "key": 241,
+      "value": "Mappa Modalità tempo"
+    },
+    {
+      "key": 242,
+      "value": "Mappa Alterna Mostra Angolo"
+    },
+    {
+      "key": 243,
+      "value": "Mappa Alterna Snap"
+    },
+    {
+      "key": 244,
+      "value": "Mappa Mostra la distanza"
+    },
+    {
+      "key": 245,
+      "value": "Simbolo della mappa"
+    },
+    {
+      "key": 246,
+      "value": "Mappa Azzeramento Rotazione goniometro"
+    },
+    {
+      "key": 247,
+      "value": "Mappa Toggle Disegna dal punto centrale"
+    },
+    {
+      "key": 248,
+      "value": "Mappa Seleziona polilinea"
+    },
+    {
+      "key": 249,
+      "value": "Mappa Stile di linea alternativo"
+    },
+    {
+      "key": 250,
+      "value": "Mappa Alterna Mostra goniometro"
+    },
+    {
+      "key": 251,
+      "value": "Mappa Inserire l'angolo prima della distanza"
+    },
+    {
+      "key": 252,
+      "value": "Alterna la sovrapposizione di Periscope"
+    },
+    {
+      "key": 253,
+      "value": "Scambiare la sovrapposizione di Periscope"
+    },
+    {
+      "key": 254,
+      "value": "Aumentare la sovrapposizione del periscopio X 1"
+    },
+    {
+      "key": 255,
+      "value": "Diminuire la sovrapposizione del periscopio X 1"
+    },
+    {
+      "key": 256,
+      "value": "Aumentare la sovrapposizione di Periscope X 10"
+    },
+    {
+      "key": 257,
+      "value": "Diminuire la sovrapposizione del periscopio X 10"
+    },
+    {
+      "key": 258,
+      "value": "Aumentare la luminosità di Periscope"
+    },
+    {
+      "key": 259,
+      "value": "Diminuire la brigosità di Periscope"
+    },
+    {
+      "key": 260,
+      "value": "Toggle Notebook"
+    },
+    {
+      "key": 261,
+      "value": "Equipaggio"
+    },
+    {
+      "key": 262,
+      "value": "Carico"
+    },
+    {
+      "key": 263,
+      "value": "Lasciare l'equipaggio"
+    },
+    {
+      "key": 264,
+      "value": "Entrare a far parte dell'equipaggio"
+    },
+    {
+      "key": 265,
+      "value": "Unirsi"
+    },
+    {
+      "key": 266,
+      "value": "L'equipaggio è al completo"
+    },
+    {
+      "key": 267,
+      "value": "Soprannome"
+    },
+    {
+      "key": 268,
+      "value": "Comunità"
+    },
+    {
+      "key": 269,
+      "value": "Segnala un bug"
+    },
+    {
+      "key": 270,
+      "value": "Opzioni per l'equipaggio"
+    },
+    {
+      "key": 271,
+      "value": "Opzioni dell'elenco dei divieti"
+    },
+    {
+      "key": 272,
+      "value": "Registro delle attività"
+    },
+    {
+      "key": 273,
+      "value": "Il curriculum"
+    },
+    {
+      "key": 274,
+      "value": "Lasciare il gioco"
+    },
+    {
+      "key": 275,
+      "value": "Metadati"
+    },
+    {
+      "key": 276,
+      "value": "Condizioni di partenza"
+    },
+    {
+      "key": 277,
+      "value": "Condizioni di vittoria"
+    },
+    {
+      "key": 278,
+      "value": "Obiettivi"
+    },
+    {
+      "key": 279,
+      "value": "Mostra sempre"
+    },
+    {
+      "key": 280,
+      "value": "Mostra al completamento"
+    },
+    {
+      "key": 281,
+      "value": "Sempre nascosto"
+    },
+    {
+      "key": 282,
+      "value": "Alza o abbassa il volume complessivo del gioco mantenendo i rapporti tra i diversi volumi."
+    },
+    {
+      "key": 283,
+      "value": "Controlla il volume della musica."
+    },
+    {
+      "key": 284,
+      "value": "Controlla il volume di vari effetti, come esplosioni e simili."
+    },
+    {
+      "key": 285,
+      "value": "Controlla il volume della chat vocale in entrata."
+    },
+    {
+      "key": 286,
+      "value": "Visualizza il livello di ingresso del microfono."
+    },
+    {
+      "key": 287,
+      "value": "La funzione Push-To-Talk attiva e disattiva il microfono quando viene premuto il tasto appropriato."
+    },
+    {
+      "key": 288,
+      "value": "Abilita per visualizzare un suggerimento quando il microfono è abilitato o meno."
+    },
+    {
+      "key": 289,
+      "value": "Disattivare per interrompere la riproduzione dell'effetto sonoro morse quando si utilizza il tasto morse."
+    },
+    {
+      "key": 290,
+      "value": "Messaggio codificato"
+    },
+    {
+      "key": 291,
+      "value": "Salva il messaggio"
+    },
+    {
+      "key": 292,
+      "value": "Contrassegnare il messaggio come inviato"
+    },
+    {
+      "key": 293,
+      "value": "Messaggio decodificato"
+    },
+    {
+      "key": 294,
+      "value": "Canale"
+    },
+    {
+      "key": 295,
+      "value": "Da"
+    },
+    {
+      "key": 296,
+      "value": "A"
+    },
+    {
+      "key": 297,
+      "value": "Annullamento"
+    },
+    {
+      "key": 298,
+      "value": "Inviare"
+    },
+    {
+      "key": 299,
+      "value": "Risparmiare"
+    },
+    {
+      "key": 300,
+      "value": "Cancellare"
+    },
+    {
+      "key": 301,
+      "value": "Trasmissione"
+    },
+    {
+      "key": 302,
+      "value": "U-96"
+    },
+    {
+      "key": 303,
+      "value": "U-552"
+    },
+    {
+      "key": 304,
+      "value": "U-564"
+    },
+    {
+      "key": 305,
+      "value": "U-307"
+    },
+    {
+      "key": 306,
+      "value": "U-98"
+    },
+    {
+      "key": 307,
+      "value": "U-371"
+    },
+    {
+      "key": 308,
+      "value": "U-706"
+    },
+    {
+      "key": 309,
+      "value": "U-431"
+    },
+    {
+      "key": 310,
+      "value": "Accettare"
+    },
+    {
+      "key": 311,
+      "value": "Rifiuto"
+    },
+    {
+      "key": 312,
+      "value": "Rifiutare e ignorare"
+    },
+    {
+      "key": 313,
+      "value": "Accettare la richiesta di adesione"
+    },
+    {
+      "key": 314,
+      "value": "Rifiutare la richiesta di adesione"
+    },
+    {
+      "key": 315,
+      "value": "Rifiutare e ignorare la richiesta di adesione"
+    }
+  ],
+  "suffixPairs": [
+    {
+      "key": 0,
+      "value": "°"
+    },
+    {
+      "key": 1,
+      "value": " kts"
+    },
+    {
+      "key": 2,
+      "value": " %"
+    },
+    {
+      "key": 3,
+      "value": " contatori"
+    },
+    {
+      "key": 4,
+      "value": " tonnellate"
+    },
+    {
+      "key": 5,
+      "value": "km"
+    },
+    {
+      "key": 6,
+      "value": "km/h"
+    }
+  ],
+  "morsePairs": [
+    {
+      "key": 0,
+      "value": "Chiamare chiunque"
+    },
+    {
+      "key": 1,
+      "value": "Da Canale"
+    },
+    {
+      "key": 9,
+      "value": "Oltre"
+    },
+    {
+      "key": 2,
+      "value": "Roger"
+    },
+    {
+      "key": 3,
+      "value": "Messaggio verificato"
+    },
+    {
+      "key": 4,
+      "value": "Ripetere"
+    },
+    {
+      "key": 5,
+      "value": "Attendere"
+    },
+    {
+      "key": 6,
+      "value": "Fuori"
+    },
+    {
+      "key": 7,
+      "value": "Sì"
+    },
+    {
+      "key": 8,
+      "value": "No"
+    },
+    {
+      "key": 10,
+      "value": "Nuovo messaggio"
+    },
+    {
+      "key": 11,
+      "value": "Fine del messaggio"
+    }
+  ]
+}
