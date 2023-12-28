@@ -12,7 +12,7 @@ Wolfpack is an exciting submarine simulation game that allows players to work to
 ## Project Overview
 Since the release of update 0.26, Wolfpack supports community-created languages. This project aims to create and maintain community-driven translations for Wolfpack in various languages. Our goal is to ensure that players from different countries can enjoy the game in their native language.
 
-##Contributors
+## Contributors
 
 Special thanks to the following individuals who have contributed to this project:
 - [f2quantum](https://github.com/f2quantum)
