@@ -25,6 +25,11 @@ We have initially generated translations using DeepL for version 0.26, but they 
 
 No worries! If you're not familiar with GitHub, you can still contribute by simply creating an issue. Click on the "Issues" tab, then "New Issue," and describe the correction or provide the accurate translation for your language. I'll take care of implementing the changes, making it easy for everyone to participate in the localization efforts. Your input is valuable, so don't hesitate to share your language expertise!
 
+# Contributors
+
+Special thanks to the following individuals who have contributed to this project:
+
+- [f2quantum](https://github.com/f2quantum)
 
 Let's make Wolfpack accessible to players around the world!
 
