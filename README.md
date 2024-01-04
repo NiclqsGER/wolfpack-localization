@@ -12,11 +12,21 @@ Wolfpack is an exciting submarine simulation game that allows players to work to
 ## Project Overview
 Since the release of update 0.26, Wolfpack supports community-created languages. This project aims to create and maintain community-driven translations for Wolfpack in various languages. Our goal is to ensure that players from different countries can enjoy the game in their native language.
 
+## How-To install
+I will publish a video with step-by-step instructions as soon as possible
+
 ## Contributors
 
 Special thanks to the following individuals who have contributed to this project:
 - [f2quantum](https://github.com/f2quantum) (Chinese simplified)
 - [NextTomShark](https://github.com/NextTomShark) (German)
+- [GiorgosAthanasopoulos](https://github.com/GiorgosAthanasopoulos) (Greek)
+- [Mr-Space](https://github.com/Mr-Space) (Turkish)
+- [jyman](https://github.com/jyman7811) (Korean)
+- [MarschallKadse87](https://github.com/MarschallKadse87) (German)
+- [Boxerfada](https://github.com/Boxerfada) (French)
+- [Mrlool23](https://github.com/Mrlool23) (Italian)
+- [The entire Wolfpack team for the attention](https://discord.com/invite/RzuApPVrfv)
 
 ## Contributing
 We have initially generated translations using DeepL for version 0.26, but they may contain errors. If you spot any issues or would like to contribute a translation for your language, feel free to submit a pull request. I will review and merge the changes so that every player can enjoy Wolfpack in their preferred language.
