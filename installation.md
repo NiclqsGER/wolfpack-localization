@@ -4,7 +4,6 @@
 
 1. **Download Your Language File:**
    - Visit the [Wolfpack Localization GitHub Repository](https://github.com/NiclqsGER/wolfpack-localization).
-   - Navigate to the "Languages" folder.
    - Download the L10n_Package_0.26.zip file.
 
 2. **Open Wolfpack:**
@@ -18,7 +17,7 @@
    - Within the Language settings, locate and select "Open Languages Folder."
 
 5. **Drop Your Downloaded .lang File:**
-   - Copy or move the downloaded .lang file into the opened Languages Folder.
+   - Copy or move the downloaded .zip file to the open Languages folder. Unzip the .zip file there using WinRAR or 7zip.
 
 6. **Reload Languages:**
    - Go back to the game settings.
