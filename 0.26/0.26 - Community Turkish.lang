@@ -11,11 +11,11 @@
     },
     {
       "key": 20,
-      "value": "Oyun"
+      "value": "Oyna"
     },
     {
       "key": 21,
-      "value": "Manuel"
+      "value": "Rehber"
     },
     {
       "key": 22,
@@ -27,15 +27,15 @@
     },
     {
       "key": 24,
-      "value": "Atölye Çalışması"
+      "value": "Atölye"
     },
     {
       "key": 25,
-      "value": "Krediler"
+      "value": "Emeği Geçenler"
     },
     {
       "key": 26,
-      "value": "Bırak"
+      "value": "Çıkış"
     },
     {
       "key": 4,
@@ -63,7 +63,7 @@
     },
     {
       "key": 9,
-      "value": "Engelli"
+      "value": "Etkin Değil"
     },
     {
       "key": 10,
@@ -111,7 +111,7 @@
     },
     {
       "key": 2,
-      "value": "Ayrılın"
+      "value": "Çıkış"
     },
     {
       "key": 27,
@@ -131,15 +131,15 @@
     },
     {
       "key": 31,
-      "value": "Oyun"
+      "value": "Oyun Ayarları"
     },
     {
       "key": 32,
-      "value": "Su"
+      "value": "Su Ayarları"
     },
     {
       "key": 33,
-      "value": "İşlem Sonrası"
+      "value": "Post-Processing Ayarları"
     },
     {
       "key": 34,
@@ -147,11 +147,11 @@
     },
     {
       "key": 35,
-      "value": "Müzik Sesi"
+      "value": "Müzik Ses Seviyesi"
     },
     {
       "key": 36,
-      "value": "Efekt Hacmi"
+      "value": "Efekt Ses Seviyesi"
     },
     {
       "key": 37,
@@ -159,7 +159,7 @@
     },
     {
       "key": 38,
-      "value": "Kullanıcı Arayüzü Hacmi"
+      "value": "Kullanıcı Arayüzü Ses Seviyesi"
     },
     {
       "key": 39,
@@ -207,7 +207,7 @@
     },
     {
       "key": 50,
-      "value": "Özel Tam Ekran"
+      "value": "Tam Ekran"
     },
     {
       "key": 51,
@@ -223,7 +223,7 @@
     },
     {
       "key": 54,
-      "value": "Her Çerçeve"
+      "value": "Her Kare"
     },
     {
       "key": 55,
@@ -271,11 +271,11 @@
     },
     {
       "key": 66,
-      "value": "Kaydırma Tekerleği Yoğunluğu"
+      "value": "Fare Tekerleği Gücü"
     },
     {
       "key": 67,
-      "value": "İmleç Ölçeği"
+      "value": "İmleç Boyutu"
     },
     {
       "key": 68,
@@ -283,11 +283,11 @@
     },
     {
       "key": 69,
-      "value": "Harita Çizgi Ölçeği"
+      "value": "Harita Çizgi Boyutu"
     },
     {
       "key": 70,
-      "value": "Harita Yazı Tipi Ölçeği"
+      "value": "Harita Yazı Tipi Boyutu"
     },
     {
       "key": 71,
@@ -295,7 +295,7 @@
     },
     {
       "key": 72,
-      "value": "Araç İpuçlarını Göster"
+      "value": "Bilgi İpuçlarını Göster"
     },
     {
       "key": 73,
@@ -307,7 +307,7 @@
     },
     {
       "key": 75,
-      "value": "Kamera Salınımını Etkinleştir"
+      "value": "Kamera Sallanmasını Etkinleştir"
     },
     {
       "key": 76,
@@ -343,11 +343,11 @@
     },
     {
       "key": 84,
-      "value": "Örtüşme Önleme"
+      "value": "Örtüşme Önleme (AA)"
     },
     {
       "key": 85,
-      "value": "Bloom"
+      "value": "Parlama Efekti"
     },
     {
       "key": 86,
@@ -355,7 +355,7 @@
     },
     {
       "key": 87,
-      "value": "Dither"
+      "value": "Titreşim Efekti"
     },
     {
       "key": 88,
@@ -371,7 +371,7 @@
     },
     {
       "key": 91,
-      "value": "Diller Klasörünü Açın"
+      "value": "Diller Klasörünü Aç"
     },
     {
       "key": 92,
@@ -415,15 +415,15 @@
     },
     {
       "key": 102,
-      "value": "Gündelik"
+      "value": "Rahat"
     },
     {
       "key": 103,
-      "value": "Hardcore"
+      "value": "Sert"
     },
     {
       "key": 104,
-      "value": "Roleplay"
+      "value": "Rol Oyunu"
     },
     {
       "key": 105,
@@ -439,7 +439,7 @@
     },
     {
       "key": 108,
-      "value": "Dünya çapında"
+      "value": "Dünya Çapında"
     },
     {
       "key": 111,
@@ -467,7 +467,7 @@
     },
     {
       "key": 117,
-      "value": "Kamu"
+      "value": "Herkese Açık"
     },
     {
       "key": 109,
@@ -491,7 +491,7 @@
     },
     {
       "key": 121,
-      "value": "Siparişler"
+      "value": "Emirler"
     },
     {
       "key": 122,
@@ -607,7 +607,7 @@
     },
     {
       "key": 150,
-      "value": "Sınırlı Torpido İsabeti"
+      "value": "Sınırlı Torpido İsabet Oranı"
     },
     {
       "key": 151,
@@ -631,7 +631,7 @@
     },
     {
       "key": 156,
-      "value": "Biscay Körfezi"
+      "value": "Biskay Körfezi"
     },
     {
       "key": 157,
@@ -695,11 +695,11 @@
     },
     {
       "key": 172,
-      "value": "Torpidolar Ateşlendi"
+      "value": "Ateşlenen Torpidolar"
     },
     {
       "key": 173,
-      "value": "Torpidolar Vuruldu"
+      "value": "İsabetli Torpidolar"
     },
     {
       "key": 174,
@@ -707,11 +707,11 @@
     },
     {
       "key": 175,
-      "value": "Tüccarlar Yok Edildi"
+      "value": "Batırılan Ticari Gemiler"
     },
     {
       "key": 176,
-      "value": "İmha Edilen Savaş Gemileri"
+      "value": "Batırılan Savaş Gemileri"
     },
     {
       "key": 177,
@@ -747,111 +747,111 @@
     },
     {
       "key": 185,
-      "value": "İleriye Doğru"
+      "value": "İleri Gitme"
     },
     {
       "key": 186,
-      "value": "Sola Hareket Et"
+      "value": "Sola Gitme"
     },
     {
       "key": 187,
-      "value": "Geri Hareket Et"
+      "value": "Geri Gitme"
     },
     {
       "key": 188,
-      "value": "Sağa Dön"
+      "value": "Sağa Gitme"
     },
     {
       "key": 189,
-      "value": "Koşmak"
+      "value": "Koşma"
     },
     {
       "key": 190,
-      "value": "Harita Değiştir"
+      "value": "Haritayı Açma"
     },
     {
       "key": 191,
-      "value": "Bağlı Müşterileri Göster"
+      "value": "Bağlı Kişileri Gösterme"
     },
     {
       "key": 192,
-      "value": "Kronometre 1'i Değiştir"
+      "value": "1. Kronometreyi Açma/Kapat"
     },
     {
       "key": 193,
-      "value": "Kronometre 2'yi Aç / Kapat"
+      "value": "2. Kronometreyi Açma/Kapatma"
     },
     {
       "key": 194,
-      "value": "Kronometreyi Değiştir 3"
+      "value": "3. Kronometreyi Açma/Kapatma"
     },
     {
       "key": 195,
-      "value": "Kronometreyi Değiştir 4"
+      "value": "4. Kronometreyi Açma/Kapatma"
     },
     {
       "key": 196,
-      "value": "Kronometreyi Sıfırla 1"
+      "value": "1. Kronometreyi Sıfırlama"
     },
     {
       "key": 197,
-      "value": "Kronometreyi Sıfırla 2"
+      "value": "2. Kronometreyi Sıfırlama"
     },
     {
       "key": 198,
-      "value": "Kronometreyi Sıfırla 3"
+      "value": "3. Kronometreyi Sıfırlama"
     },
     {
       "key": 199,
-      "value": "Kronometreyi Sıfırla 4"
+      "value": "4. Kronometreyi Sıfırlama"
     },
     {
       "key": 200,
-      "value": "Tüm Kronometreleri Sıfırla"
+      "value": "Tüm Kronometreleri Sıfırlama"
     },
     {
       "key": 201,
-      "value": "Ateş Torpidosu"
+      "value": "Torpidoyu Ateşleme"
     },
     {
       "key": 202,
-      "value": "Alt İleri Dalış Düzlemleri"
+      "value": "Baş Ufki Dümenleri İndirme"
     },
     {
       "key": 203,
-      "value": "İleri Dalış Uçaklarını Kaldırın"
+      "value": "Baş Ufki Dümenleri Kaldırma"
     },
     {
       "key": 204,
-      "value": "Alt Kıç Dalış Uçakları"
+      "value": "Kıç Ufki Dümenleri İndirme"
     },
     {
       "key": 205,
-      "value": "Kıçtan Kaldırma Dalış Uçakları"
+      "value": "Kıç Ufki Dümenleri Kaldırma"
     },
     {
       "key": 206,
-      "value": "El Fenerini Değiştir"
+      "value": "El Fenerini Açma/Kapama"
     },
     {
       "key": 207,
-      "value": "Geçiş Tanıma Kılavuzu"
+      "value": "Tanıma Kılavuzunu Açma"
     },
     {
       "key": 208,
-      "value": "El Feneri Rengini Değiştir"
+      "value": "El Feneri Rengini Değiştirme"
     },
     {
       "key": 209,
-      "value": "Görev Hedeflerini Göster"
+      "value": "Görev Hedeflerini Gösterme"
     },
     {
       "key": 210,
-      "value": "Merkez İleri Dalış Uçağı"
+      "value": "Baş Ufki Dümenleri Sıfırlama"
     },
     {
       "key": 211,
-      "value": "Orta Kıç Dalış Uçağı"
+      "value": "Kıç Ufki Dümenleri Sıfırlama"
     },
     {
       "key": 212,
@@ -871,7 +871,7 @@
     },
     {
       "key": 216,
-      "value": "Mors Sürekli Tire"
+      "value": "Mors Sürekli Çizgiler"
     },
     {
       "key": 217,
@@ -883,27 +883,27 @@
     },
     {
       "key": 219,
-      "value": "Sessiz Ses"
+      "value": "Sesi Kapatma"
     },
     {
       "key": 220,
-      "value": "Bot Menüsü Geçiş"
+      "value": "Bot Menüsü Açma/Kapama"
     },
     {
       "key": 221,
-      "value": "Bot Menüsü1"
+      "value": "Bot Menüsü 1"
     },
     {
       "key": 222,
-      "value": "Bot Menüsü2"
+      "value": "Bot Menüsü 2"
     },
     {
       "key": 223,
-      "value": "Bot Menüsü3"
+      "value": "Bot Menüsü 3"
     },
     {
       "key": 224,
-      "value": "Harita Kilometre Sayacını Sıfırla"
+      "value": "Harita Kilometre Sayacını Sıfırlama"
     },
     {
       "key": 225,
@@ -911,11 +911,11 @@
     },
     {
       "key": 226,
-      "value": "Harita Çizgisi Aracı"
+      "value": "Harita Çizgi Aracı"
     },
     {
       "key": 227,
-      "value": "Harita Çemberi Aracı"
+      "value": "Harita Çember Aracı"
     },
     {
       "key": 228,
@@ -923,7 +923,7 @@
     },
     {
       "key": 229,
-      "value": "Harita Kopyalama Çizgisi Aracı"
+      "value": "Harita Çizgi Kopyalama Aracı"
     },
     {
       "key": 230,
@@ -935,87 +935,87 @@
     },
     {
       "key": 232,
-      "value": "Harita Quicktool Sembolü"
+      "value": "Harita Hızlı Sembol Aracı"
     },
     {
       "key": 233,
-      "value": "Harita Quicktool Hattı"
+      "value": "Harita Hızlı Çizgi Aracı"
     },
     {
       "key": 234,
-      "value": "Harita Quicktool Circle"
+      "value": "Harita Hızlı Çember Aracı"
     },
     {
       "key": 235,
-      "value": "Harita Quicktool Kopyalama Hattı"
+      "value": "Harita Hızlı Çizgi Kopyalama Aracı"
     },
     {
       "key": 236,
-      "value": "Harita Quicktool Silgi"
+      "value": "Harita Hızlı Silgi Aracı"
     },
     {
       "key": 237,
-      "value": "Harita Quicktool Açıölçer"
+      "value": "Harita Hızlı Açıölçer Aracı"
     },
     {
       "key": 238,
-      "value": "Harita Geçiş Krokisi"
+      "value": "Harita Üzeri Çizim Açma/Kapama"
     },
     {
       "key": 239,
-      "value": "Harita Açıölçer Takip"
+      "value": "Harita Açıölçer Takibi"
     },
     {
       "key": 240,
-      "value": "Harita Değiştirme Ters Pusula"
+      "value": "Harita Ters Pusula Açma/Kapama"
     },
     {
       "key": 241,
-      "value": "Harita Zaman Modunu Değiştir"
+      "value": "Harita Zaman Modu"
     },
     {
       "key": 242,
-      "value": "Harita Toggle Açıyı Göster"
+      "value": "Harita Açıyı Gösterme"
     },
     {
       "key": 243,
-      "value": "Harita Değiştirme Çıtçıt"
+      "value": "Harita Yapışma Modu"
     },
     {
       "key": 244,
-      "value": "Harita Değiştir Mesafeyi Göster"
+      "value": "Haritada Mesafeyi Gösterme"
     },
     {
       "key": 245,
-      "value": "Harita Geçiş Sembolü"
+      "value": "Haritada Sembolleri Açma/Kapatma"
     },
     {
       "key": 246,
-      "value": "Harita Sıfırlama Açıölçer Döndürme"
+      "value": "Harita Açıölçer Açısı Sıfırlama"
     },
     {
       "key": 247,
-      "value": "Harita Geçiş Orta Noktadan Çiz"
+      "value": "Harita Orta Noktadan Çizme Modu"
     },
     {
       "key": 248,
-      "value": "Harita Geçiş Çoklu Çizgisi"
+      "value": "Harita Çoklu Çizgi Modu"
     },
     {
       "key": 249,
-      "value": "Harita Geçiş Çizgisi Stili"
+      "value": "Harita Çizgi Stili Açma/Kapatma"
     },
     {
       "key": 250,
-      "value": "Harita Toggle Açıölçeri Göster"
+      "value": "Haritada Açıölçeri Gösterme"
     },
     {
       "key": 251,
-      "value": "Harita Mesafeden Önce Açı Girin"
+      "value": "Haritada Mesafeden Önce Açı Girme"
     },
     {
       "key": 252,
-      "value": "Periskop Yerleşimini Değiştir"
+      "value": "Periskop Yerleşimini Açma/Kapatma"
     },
     {
       "key": 253,
@@ -1023,31 +1023,31 @@
     },
     {
       "key": 254,
-      "value": "Periskop Yerleşimini Artır X 1"
+      "value": "Periskop Yerleşimini 1 X Arttır"
     },
     {
       "key": 255,
-      "value": "Periskop Yerleşimini Azalt X 1"
+      "value": "Periskop Yerleşimini 1 X Azalt"
     },
     {
       "key": 256,
-      "value": "Periskop Yerleşimini X 10 Artırın"
+      "value": "Periskop Yerleşimini 10 X Arttır"
     },
     {
       "key": 257,
-      "value": "Periskop Yerleşimini Azalt X 10"
+      "value": "Periskop Yerleşimini 10 X Azalt"
     },
     {
       "key": 258,
-      "value": "Periskop Parlaklığını Artırma"
+      "value": "Periskop Parlaklığını Arttırma"
     },
     {
       "key": 259,
-      "value": "Periskop Parlaklığını Azaltın"
+      "value": "Periskop Parlaklığını Azaltma"
     },
     {
       "key": 260,
-      "value": "Not Defterini Değiştir"
+      "value": "Not Defterini Açma/Kapatma"
     },
     {
       "key": 261,
@@ -1055,11 +1055,11 @@
     },
     {
       "key": 262,
-      "value": "Yükleme"
+      "value": "Ekipman"
     },
     {
       "key": 263,
-      "value": "Ekipten Ayrılın"
+      "value": "Mürettebattan Ayrıl"
     },
     {
       "key": 264,
@@ -1067,7 +1067,7 @@
     },
     {
       "key": 265,
-      "value": "Katılın"
+      "value": "Katıl"
     },
     {
       "key": 266,
@@ -1091,7 +1091,7 @@
     },
     {
       "key": 271,
-      "value": "Yasak Listesi Seçenekleri"
+      "value": "Yasaklı Listesi Seçenekleri"
     },
     {
       "key": 272,
@@ -1099,7 +1099,7 @@
     },
     {
       "key": 273,
-      "value": "Özgeçmiş"
+      "value": "Devam Et"
     },
     {
       "key": 274,
@@ -1107,7 +1107,7 @@
     },
     {
       "key": 275,
-      "value": "Metadata"
+      "value": "Üst Veri"
     },
     {
       "key": 276,
@@ -1159,7 +1159,7 @@
     },
     {
       "key": 288,
-      "value": "Mikrofonunuzun etkin olup olmadığına dair bir ipucu görüntülemek için Etkinleştir."
+      "value": "Mikrofonunuzun etkin olup olmadığına dair bir ipucu görüntülemek için etkinleştirin."
     },
     {
       "key": 289,
@@ -1191,7 +1191,7 @@
     },
     {
       "key": 296,
-      "value": "için"
+      "value": "Kime"
     },
     {
       "key": 297,
@@ -1211,7 +1211,7 @@
     },
     {
       "key": 301,
-      "value": "Yayın"
+      "value": "Yayınla"
     },
     {
       "key": 302,
@@ -1267,7 +1267,7 @@
     },
     {
       "key": 315,
-      "value": "Katılma Talebini Reddetme ve Yok Sayma"
+      "value": "Katılma İsteğini Reddet ve Görmezden Gel"
     }
   ],
   "suffixPairs": [
@@ -1297,7 +1297,7 @@
     },
     {
       "key": 6,
-      "value": "km/h"
+      "value": "km/s"
     }
   ],
   "morsePairs": [
@@ -1315,7 +1315,7 @@
     },
     {
       "key": 2,
-      "value": "Roger"
+      "value": "Anlaşıldı"
     },
     {
       "key": 3,
@@ -1323,7 +1323,7 @@
     },
     {
       "key": 4,
-      "value": "Tekrar söyle."
+      "value": "Tekrar et"
     },
     {
       "key": 5,
@@ -1331,7 +1331,7 @@
     },
     {
       "key": 6,
-      "value": "Dışarı"
+      "value": "Tamam"
     },
     {
       "key": 7,
