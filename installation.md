@@ -5,7 +5,7 @@
 1. **Download Your Language File:**
    - Visit the [Wolfpack Localization GitHub Repository](https://github.com/NiclqsGER/wolfpack-localization).
    - Navigate to the "Languages" folder.
-   - Download the .lang file for your language.
+   - Download the L10n_Package_0.26.zip file.
 
 2. **Open Wolfpack:**
    - Launch the Wolfpack game on your system.
