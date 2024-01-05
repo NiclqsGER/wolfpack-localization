@@ -26,6 +26,7 @@ Special thanks to the following individuals who have contributed to this project
 - [MarschallKadse87](https://github.com/MarschallKadse87) (German)
 - [Boxerfada](https://github.com/Boxerfada) (French)
 - [Mrlool23](https://github.com/Mrlool23) (Italian)
+- [RenardS2](https://github.com/RenardS2) (Korean)
 - [The entire Wolfpack team for the attention](https://discord.com/invite/RzuApPVrfv)
 
 ## Contributing
