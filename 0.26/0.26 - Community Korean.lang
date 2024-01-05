@@ -1,1353 +1,1353 @@
 {
-   "header":"[Community] Italiano",
-   "pairs":[
-      {
-         "key":-1,
-         "value":"INVALIDO"
-      },
-      {
-         "key":0,
-         "value":"UNCACHED"
-      },
-      {
-         "key":20,
-         "value":"Gioca"
-      },
-      {
-         "key":21,
-         "value":"Manuale"
-      },
-      {
-         "key":22,
-         "value":"Opzioni"
-      },
-      {
-         "key":23,
-         "value":"Editor"
-      },
-      {
-         "key":24,
-         "value":"Workshop"
-      },
-      {
-         "key":25,
-         "value":"Crediti"
-      },
-      {
-         "key":26,
-         "value":"Esci"
-      },
-      {
-         "key":4,
-         "value":"Notizie"
-      },
-      {
-         "key":3,
-         "value":"Versione"
-      },
-      {
-         "key":5,
-         "value":"Lingua"
-      },
-      {
-         "key":6,
-         "value":"On"
-      },
-      {
-         "key":7,
-         "value":"Off"
-      },
-      {
-         "key":8,
-         "value":"Abilitato"
-      },
-      {
-         "key":9,
-         "value":"Disabilitato"
-      },
-      {
-         "key":10,
-         "value":"Mostra"
-      },
-      {
-         "key":11,
-         "value":"Nascondi"
-      },
-      {
-         "key":12,
-         "value":"Tutto"
-      },
-      {
-         "key":13,
-         "value":"Si"
-      },
-      {
-         "key":14,
-         "value":"No"
-      },
-      {
-         "key":15,
-         "value":"Tempo"
-      },
-      {
-         "key":16,
-         "value":"Inizia"
-      },
-      {
-         "key":17,
-         "value":"Tempo di gioco"
-      },
-      {
-         "key":18,
-         "value":"Casuale"
-      },
-      {
-         "key":19,
-         "value":"Pubblica"
-      },
-      {
-         "key":1,
-         "value":"Indietro"
-      },
-      {
-         "key":2,
-         "value":"Esci"
-      },
-      {
-         "key":27,
-         "value":"Audio"
-      },
-      {
-         "key":28,
-         "value":"Video"
-      },
-      {
-         "key":29,
-         "value":"Tastiera"
-      },
-      {
-         "key":30,
-         "value":"Mouse"
-      },
-      {
-         "key":31,
-         "value":"Gioco"
-      },
-      {
-         "key":32,
-         "value":"Acqua"
-      },
-      {
-         "key":33,
-         "value":"Post-Processing"
-      },
-      {
-         "key":34,
-         "value":"Volume Generale"
-      },
-      {
-         "key":35,
-         "value":"Volume Musica"
-      },
-      {
-         "key":36,
-         "value":"Volume Effetti"
-      },
-      {
-         "key":37,
-         "value":"Volume VOIP"
-      },
-      {
-         "key":38,
-         "value":"Volume UI"
-      },
-      {
-         "key":39,
-         "value":"Volume Microfono"
-      },
-      {
-         "key":40,
-         "value":"Push-To-Talk"
-      },
-      {
-         "key":41,
-         "value":"Mostra Icona Push-To-Talk"
-      },
-      {
-         "key":42,
-         "value":"Riproduci morse"
-      },
-      {
-         "key":43,
-         "value":"Risoluzione"
-      },
-      {
-         "key":44,
-         "value":"Modalità Display"
-      },
-      {
-         "key":45,
-         "value":"Sincronizzazione Verticale"
-      },
-      {
-         "key":46,
-         "value":"Limite Frame"
-      },
-      {
-         "key":47,
-         "value":"Risoluzione Texture"
-      },
-      {
-         "key":48,
-         "value":"Filtro Anisotropico"
-      },
-      {
-         "key":49,
-         "value":"Ombre"
-      },
-      {
-         "key":50,
-         "value":"Schermo Intero Esclusivo"
-      },
-      {
-         "key":51,
-         "value":"Finestra Senza bordi"
-      },
-      {
-         "key":52,
-         "value":"Finestra Massimizzata"
-      },
-      {
-         "key":53,
-         "value":"Finestra"
-      },
-      {
-         "key":54,
-         "value":"Ogni Frame"
-      },
-      {
-         "key":55,
-         "value":"Ogni Altro Frame"
-      },
-      {
-         "key":56,
-         "value":"Più Basso"
-      },
-      {
-         "key":57,
-         "value":"Basso"
-      },
-      {
-         "key":58,
-         "value":"Medio"
-      },
-      {
-         "key":59,
-         "value":"Alto"
-      },
-      {
-         "key":60,
-         "value":"Molto Alto"
-      },
-      {
-         "key":61,
-         "value":"Ultra"
-      },
-      {
-         "key":62,
-         "value":"Overkill"
-      },
-      {
-         "key":63,
-         "value":"Massimo"
-      },
-      {
-         "key":64,
-         "value":"Sensibilità Rotazione Camera"
-      },
-      {
-         "key":65,
-         "value":"Sensibilità Cursore Interazione"
-      },
-      {
-         "key":66,
-         "value":"Intensità Rotella"
-      },
-      {
-         "key":67,
-         "value":"Scala Cursore"
-      },
-      {
-         "key":68,
-         "value":"Inverti Mouse"
-      },
-      {
-         "key":69,
-         "value":"Scala Linea Mappa"
-      },
-      {
-         "key":70,
-         "value":"Scala Caratteri Mappa"
-      },
-      {
-         "key":71,
-         "value":"Mostra Nomi"
-      },
-      {
-         "key":72,
-         "value":"Mostra Suggerimenti"
-      },
-      {
-         "key":73,
-         "value":"Mostra Contatore FPS"
-      },
-      {
-         "key":74,
-         "value":"Mostra Tutorial all'Avvio"
-      },
-      {
-         "key":75,
-         "value":"Abilita Scuotimento Camera"
-      },
-      {
-         "key":76,
-         "value":"Campo Visivo"
-      },
-      {
-         "key":77,
-         "value":"Opacità Background Menu"
-      },
-      {
-         "key":78,
-         "value":"Risoluzione Acqua"
-      },
-      {
-         "key":79,
-         "value":"Conteggio Particelle Acqua"
-      },
-      {
-         "key":80,
-         "value":"Qualità Schiuma Dinamica"
-      },
-      {
-         "key":81,
-         "value":"Anteprima Acqua"
-      },
-      {
-         "key":82,
-         "value":"Occlusione Ambiente"
-      },
-      {
-         "key":83,
-         "value":"Riflessi Ambiente"
-      },
-      {
-         "key":84,
-         "value":"Anti-Aliasing"
-      },
-      {
-         "key":85,
-         "value":"Bloom"
-      },
-      {
-         "key":86,
-         "value":"Correzione Luminosità"
-      },
-      {
-         "key":87,
-         "value":"Dither"
-      },
-      {
-         "key":88,
-         "value":"Motion Blur"
-      },
-      {
-         "key":89,
-         "value":"Profondità Di Campo"
-      },
-      {
-         "key":90,
-         "value":"Aberrazione Cromatica"
-      },
-      {
-         "key":91,
-         "value":"Apri Cartella Lingue"
-      },
-      {
-         "key":92,
-         "value":"Ricarica Lingue"
-      },
-      {
-         "key":93,
-         "value":"Resetta Tutte le Impostazioni"
-      },
-      {
-         "key":94,
-         "value":"Trova Lobby"
-      },
-      {
-         "key":95,
-         "value":"Crea Lobby"
-      },
-      {
-         "key":96,
-         "value":"Filtri"
-      },
-      {
-         "key":97,
-         "value":"Distanza Lobby"
-      },
-      {
-         "key":98,
-         "value":"Password"
-      },
-      {
-         "key":99,
-         "value":"Bots"
-      },
-      {
-         "key":100,
-         "value":"Lobby Piene"
-      },
-      {
-         "key":101,
-         "value":"Stile di Gioco"
-      },
-      {
-         "key":102,
-         "value":"Casuale"
-      },
-      {
-         "key":103,
-         "value":"Hardcore"
-      },
-      {
-         "key":104,
-         "value":"Roleplay"
-      },
-      {
-         "key":105,
-         "value":"Chiuso"
-      },
-      {
-         "key":106,
-         "value":"Default"
-      },
-      {
-         "key":107,
-         "value":"Lontano"
-      },
-      {
-         "key":108,
-         "value":"Mondiale"
-      },
-      {
-         "key":111,
-         "value":"Titolo"
-      },
-      {
-         "key":112,
-         "value":"Descrizione"
-      },
-      {
-         "key":113,
-         "value":"Visibilità"
-      },
-      {
-         "key":114,
-         "value":"Amici Possono Invitare"
-      },
-      {
-         "key":115,
-         "value":"Nascosto"
-      },
-      {
-         "key":116,
-         "value":"Solo Amici"
-      },
-      {
-         "key":117,
-         "value":"Pubblico"
-      },
-      {
-         "key":109,
-         "value":"Refresh"
-      },
-      {
-         "key":110,
-         "value":"Crea"
-      },
-      {
-         "key":118,
-         "value":"Briefing Missione"
-      },
-      {
-         "key":119,
-         "value":"Impostazioni Difficoltà"
-      },
-      {
-         "key":120,
-         "value":"Scenario"
-      },
-      {
-         "key":121,
-         "value":"Ordini"
-      },
-      {
-         "key":122,
-         "value":"Generale"
-      },
-      {
-         "key":123,
-         "value":"Tempo e Data"
-      },
-      {
-         "key":124,
-         "value":"Meteo"
-      },
-      {
-         "key":125,
-         "value":"Missione"
-      },
-      {
-         "key":126,
-         "value":"Difficoltà"
-      },
-      {
-         "key":127,
-         "value":"Modalità Gioco"
-      },
-      {
-         "key":128,
-         "value":"Giorno"
-      },
-      {
-         "key":129,
-         "value":"Mese"
-      },
-      {
-         "key":130,
-         "value":"Anno"
-      },
-      {
-         "key":131,
-         "value":"Tempo del Giorno"
-      },
-      {
-         "key":132,
-         "value":"Locazione"
-      },
-      {
-         "key":133,
-         "value":"Velocità Vento"
-      },
-      {
-         "key":134,
-         "value":"Direzione Vento"
-      },
-      {
-         "key":135,
-         "value":"Data"
-      },
-      {
-         "key":136,
-         "value":"Nebbia"
-      },
-      {
-         "key":137,
-         "value":"Navigazione Automatica"
-      },
-      {
-         "key":138,
-         "value":"Fuoco Amico"
-      },
-      {
-         "key":139,
-         "value":"Bot"
-      },
-      {
-         "key":140,
-         "value":"Radio Semplice"
-      },
-      {
-         "key":141,
-         "value":"Attenuazione Voce Realistica"
-      },
-      {
-         "key":142,
-         "value":"Incontro Veloce"
-      },
-      {
-         "key":143,
-         "value":"Motore Automatico"
-      },
-      {
-         "key":144,
-         "value":"Il convoglio cambia direzione occasionalmente"
-      },
-      {
-         "key":145,
-         "value":"La scorta usa sempre il sonar attivo"
-      },
-      {
-         "key":146,
-         "value":"Tempo di inseguimento scorta"
-      },
-      {
-         "key":147,
-         "value":"Dimensione Convoglio"
-      },
-      {
-         "key":148,
-         "value":"Tempo Ricarica Siluri Realistica"
-      },
-      {
-         "key":149,
-         "value":"Siluri Difettosi"
-      },
-      {
-         "key":150,
-         "value":"Precisione Limitata Siluri"
-      },
-      {
-         "key":151,
-         "value":"Detonatore Siluro dipende dall'angolo"
-      },
-      {
-         "key":152,
-         "value":"Invita Amici"
-      },
-      {
-         "key":153,
-         "value":"Avvia Partita"
-      },
-      {
-         "key":154,
-         "value":"Schermaglia"
-      },
-      {
-         "key":155,
-         "value":"Tutorial"
-      },
-      {
-         "key":156,
-         "value":"Baia of Biscaglia"
-      },
-      {
-         "key":157,
-         "value":"Mare del Nord"
-      },
-      {
-         "key":158,
-         "value":"Mare Norvegiese"
-      },
-      {
-         "key":159,
-         "value":"Mare Baltico"
-      },
-      {
-         "key":160,
-         "value":"Piccolo"
-      },
-      {
-         "key":161,
-         "value":"Normale"
-      },
-      {
-         "key":162,
-         "value":"Largo"
-      },
-      {
-         "key":163,
-         "value":"Corto"
-      },
-      {
-         "key":164,
-         "value":"Lungo"
-      },
-      {
-         "key":165,
-         "value":"Obiettivi"
-      },
-      {
-         "key":166,
-         "value":"Clicca per esplorare le missioni del worshop!"
-      },
-      {
-         "key":167,
-         "value":"Esporta missione negli appunti."
-      },
-      {
-         "key":168,
-         "value":"Importa missione dagli appunti."
-      },
-      {
-         "key":169,
-         "value":"Panoramica"
-      },
-      {
-         "key":170,
-         "value":"Dettagli"
-      },
-      {
-         "key":171,
-         "value":"Individuato durante la missione"
-      },
-      {
-         "key":172,
-         "value":"Siluro Sparato"
-      },
-      {
-         "key":173,
-         "value":"Colpo Siluro"
-      },
-      {
-         "key":174,
-         "value":"Rateo colpi Siluro"
-      },
-      {
-         "key":175,
-         "value":"Mercantili Distrutti"
-      },
-      {
-         "key":176,
-         "value":"Navi da guerra Distrutte"
-      },
-      {
-         "key":177,
-         "value":"Tonnellate Affondate"
-      },
-      {
-         "key":178,
-         "value":"Tempo di missione"
-      },
-      {
-         "key":179,
-         "value":"Esporta negli appunti"
-      },
-      {
-         "key":180,
-         "value":"Ritorna alla Lobby"
-      },
-      {
-         "key":181,
-         "value":"Riprova Missione"
-      },
-      {
-         "key":182,
-         "value":"Prossima Missione"
-      },
-      {
-         "key":183,
-         "value":"Disconnetti"
-      },
-      {
-         "key":184,
-         "value":"Reset Assegnazioni"
-      },
-      {
-         "key":185,
-         "value":"Muovi Avanti"
-      },
-      {
-         "key":186,
-         "value":"Muovi Sinistra"
-      },
-      {
-         "key":187,
-         "value":"Muovi Indietro"
-      },
-      {
-         "key":188,
-         "value":"Muovi Destra"
-      },
-      {
-         "key":189,
-         "value":"Corri"
-      },
-      {
-         "key":190,
-         "value":"Mappa"
-      },
-      {
-         "key":191,
-         "value":"Mostra Client Connessi"
-      },
-      {
-         "key":192,
-         "value":"Cronomentro 1"
-      },
-      {
-         "key":193,
-         "value":"Cronometro 2"
-      },
-      {
-         "key":194,
-         "value":"Cronometro 3"
-      },
-      {
-         "key":195,
-         "value":"Cronometro 4"
-      },
-      {
-         "key":196,
-         "value":"Reset Cronometro 1"
-      },
-      {
-         "key":197,
-         "value":"Reset Cronometro 2"
-      },
-      {
-         "key":198,
-         "value":"Reset Cronometro 3"
-      },
-      {
-         "key":199,
-         "value":"Reset Cronometro 4"
-      },
-      {
-         "key":200,
-         "value":"Reset Cronometri"
-      },
-      {
-         "key":201,
-         "value":"Spara Siluro"
-      },
-      {
-         "key":202,
-         "value":"Abbassa Aletta Immersione Frontale"
-      },
-      {
-         "key":203,
-         "value":"Alza Aletta Immersione Frontale"
-      },
-      {
-         "key":204,
-         "value":"Abbassa Aletta Immersione Posteriore"
-      },
-      {
-         "key":205,
-         "value":"Alza Aletta Immersione Posteriore"
-      },
-      {
-         "key":206,
-         "value":"Torcia"
-      },
-      {
-         "key":207,
-         "value":"Manuale Riconoscimento"
-      },
-      {
-         "key":208,
-         "value":"Cambia Colore Torcia"
-      },
-      {
-         "key":209,
-         "value":"Mostra Obiettivi"
-      },
-      {
-         "key":210,
-         "value":"Centra Aletta Immersione Frontale"
-      },
-      {
-         "key":211,
-         "value":"Centra Aletta Immersione Posteriore"
-      },
-      {
-         "key":212,
-         "value":"Morse Key"
-      },
-      {
-         "key":213,
-         "value":"Morse Punto Singolo"
-      },
-      {
-         "key":214,
-         "value":"Morse Singola Linea"
-      },
-      {
-         "key":215,
-         "value":"Morse Punti Continui"
-      },
-      {
-         "key":216,
-         "value":"Morse Linee Continue"
-      },
-      {
-         "key":217,
-         "value":"Prossima Pagina Testo Morse"
-      },
-      {
-         "key":218,
-         "value":"Precedente Pagina Testo Morse"
-      },
-      {
-         "key":219,
-         "value":"Muta Voce"
-      },
-      {
-         "key":220,
-         "value":"Menu Bot"
-      },
-      {
-         "key":221,
-         "value":"Bot Menu1"
-      },
-      {
-         "key":222,
-         "value":"Bot Menu2"
-      },
-      {
-         "key":223,
-         "value":"Bot Menu3"
-      },
-      {
-         "key":224,
-         "value":"Reset Contachilometri Mappa"
-      },
-      {
-         "key":225,
-         "value":"Strumento Simbolo Mappa"
-      },
-      {
-         "key":226,
-         "value":"Linea"
-      },
-      {
-         "key":227,
-         "value":"Cerchio"
-      },
-      {
-         "key":228,
-         "value":"Scrivi"
-      },
-      {
-         "key":229,
-         "value":"Copia Linea"
-      },
-      {
-         "key":230,
-         "value":"Gomma"
-      },
-      {
-         "key":231,
-         "value":"Goniometro"
-      },
-      {
-         "key":232,
-         "value":"Tasto Rapido Simbolo Mappa"
-      },
-      {
-         "key":233,
-         "value":"Tasto Rapido Linea"
-      },
-      {
-         "key":234,
-         "value":"Tasto Rapido Cerchio"
-      },
-      {
-         "key":235,
-         "value":"Tasto Rapido Copia Linea"
-      },
-      {
-         "key":236,
-         "value":"Tasto Rapido Gomma"
-      },
-      {
-         "key":237,
-         "value":"Tasto Rapido Goniometro"
-      },
-      {
-         "key":238,
-         "value":"Tasto Rapido Sketch"
-      },
-      {
-         "key":239,
-         "value":"Segui Goniometro"
-      },
-      {
-         "key":240,
-         "value":"Bussola Invertita"
-      },
-      {
-         "key":241,
-         "value":"Modalità Tempo Mappa"
-      },
-      {
-         "key":242,
-         "value":"Mostra Angolo"
-      },
-      {
-         "key":243,
-         "value":"Snap Mappa"
-      },
-      {
-         "key":244,
-         "value":"Mostra Distanza"
-      },
-      {
-         "key":245,
-         "value":"Mostra Simboli"
-      },
-      {
-         "key":246,
-         "value":"Reset Rotazione Goniometro"
-      },
-      {
-         "key":247,
-         "value":"Disegna dal punto centrale"
-      },
-      {
-         "key":248,
-         "value":"Polilinea"
-      },
-      {
-         "key":249,
-         "value":"Cambia Stile Linea"
-      },
-      {
-         "key":250,
-         "value":"Mostra Goniometro"
-      },
-      {
-         "key":251,
-         "value":"Inserisci Angolo prima della Distanza"
-      },
-      {
-         "key":252,
-         "value":"Hud Periscopio"
-      },
-      {
-         "key":253,
-         "value":"Scambia Hud Periscopio"
-      },
-      {
-         "key":254,
-         "value":"Aumenta Hud Periscopio X 1"
-      },
-      {
-         "key":255,
-         "value":"Diminuisci Hud Periscopio X 1"
-      },
-      {
-         "key":256,
-         "value":"Aumenta Hud Periscopio X 10"
-      },
-      {
-         "key":257,
-         "value":"Diminuisci Hud Periscopio X 10"
-      },
-      {
-         "key":258,
-         "value":"Aumenta Luminosità Periscopio"
-      },
-      {
-         "key":259,
-         "value":"Diminuisci Luminosità Periscopio"
-      },
-      {
-         "key":260,
-         "value":"Libro Appunti"
-      },
-      {
-         "key":261,
-         "value":"Equipaggio"
-      },
-      {
-         "key":262,
-         "value":"Loadout"
-      },
-      {
-         "key":263,
-         "value":"Lascia Equipaggio"
-      },
-      {
-         "key":264,
-         "value":"Unisciti all'equipaggio"
-      },
-      {
-         "key":265,
-         "value":"Unisciti"
-      },
-      {
-         "key":266,
-         "value":"Equipaggio Completo"
-      },
-      {
-         "key":267,
-         "value":"Nickname"
-      },
-      {
-         "key":268,
-         "value":"Comunità"
-      },
-      {
-         "key":269,
-         "value":"Riporta Un Bug"
-      },
-      {
-         "key":270,
-         "value":"Opzioni Equipaggio"
-      },
-      {
-         "key":271,
-         "value":"Opzioni Lista Ban"
-      },
-      {
-         "key":272,
-         "value":"Log Attività"
-      },
-      {
-         "key":273,
-         "value":"Riprendi"
-      },
-      {
-         "key":274,
-         "value":"Lascia Gioco"
-      },
-      {
-         "key":275,
-         "value":"Metadata"
-      },
-      {
-         "key":276,
-         "value":"Condizioni Inizio"
-      },
-      {
-         "key":277,
-         "value":"Condizioni Vittoria"
-      },
-      {
-         "key":278,
-         "value":"Bersagli"
-      },
-      {
-         "key":279,
-         "value":"Mostra Sempre"
-      },
-      {
-         "key":280,
-         "value":"Mostra al Completamento"
-      },
-      {
-         "key":281,
-         "value":"Sempre Nascosto"
-      },
-      {
-         "key":282,
-         "value":"Alza o abbassa il volume complessivo del gioco mantenendo i rapporti tra i diversi volumi."
-      },
-      {
-         "key":283,
-         "value":"Controlla il volume della musica."
-      },
-      {
-         "key":284,
-         "value":"Controlla il volume dei vari effetti, come esplosioni e simili."
-      },
-      {
-         "key":285,
-         "value":"Controlla il volume della chat vocale."
-      },
-      {
-         "key":286,
-         "value":"Mostra Livello Input Microfono."
-      },
-      {
-         "key":287,
-         "value":"Push-To-Talk accende e spegne il microfono quando il tasto è premuto."
-      },
-      {
-         "key":288,
-         "value":"Attiva Icona Microfono On/Off."
-      },
-      {
-         "key":289,
-         "value":"Disabilita il suono del morse quando premuto."
-      },
-      {
-         "key":290,
-         "value":"Messaggio Codificato"
-      },
-      {
-         "key":291,
-         "value":"Salva Messaggio"
-      },
-      {
-         "key":292,
-         "value":"Marca come inviato"
-      },
-      {
-         "key":293,
-         "value":"Messaggio Decodificato"
-      },
-      {
-         "key":294,
-         "value":"Canale"
-      },
-      {
-         "key":295,
-         "value":"Da"
-      },
-      {
-         "key":296,
-         "value":"A"
-      },
-      {
-         "key":297,
-         "value":"Cancella"
-      },
-      {
-         "key":298,
-         "value":"Invia"
-      },
-      {
-         "key":299,
-         "value":"Salva"
-      },
-      {
-         "key":300,
-         "value":"Elimina"
-      },
-      {
-         "key":301,
-         "value":"Broadcast"
-      },
-      {
-         "key":302,
-         "value":"U-96"
-      },
-      {
-         "key":303,
-         "value":"U-552"
-      },
-      {
-         "key":304,
-         "value":"U-564"
-      },
-      {
-         "key":305,
-         "value":"U-307"
-      },
-      {
-         "key":306,
-         "value":"U-98"
-      },
-      {
-         "key":307,
-         "value":"U-371"
-      },
-      {
-         "key":308,
-         "value":"U-706"
-      },
-      {
-         "key":309,
-         "value":"U-431"
-      },
-      {
-         "key":310,
-         "value":"Accetta"
-      },
-      {
-         "key":311,
-         "value":"Rifiuta"
-      },
-      {
-         "key":312,
-         "value":"Rifiuta e Ignora"
-      },
-      {
-         "key":313,
-         "value":"Accetta richiesta unione"
-      },
-      {
-         "key":314,
-         "value":"Rifiuta richiesta unione"
-      },
-      {
-         "key":315,
-         "value":"Rifiuta e ignora richiesta unione"
-      }
-   ],
-   "suffixPairs":[
-      {
-         "key":0,
-         "value":"°"
-      },
-      {
-         "key":1,
-         "value":" kts"
-      },
-      {
-         "key":2,
-         "value":" %"
-      },
-      {
-         "key":3,
-         "value":" metri"
-      },
-      {
-         "key":4,
-         "value":" tons"
-      },
-      {
-         "key":5,
-         "value":"km"
-      },
-      {
-         "key":6,
-         "value":"km/h"
-      }
-   ],
-   "morsePairs":[
-      {
-         "key":0,
-         "value":"Chiamo Tutti"
-      },
-      {
-         "key":1,
-         "value":"Dal Canale"
-      },
-      {
-         "key":9,
-         "value":"Passo"
-      },
-      {
-         "key":2,
-         "value":"Roger"
-      },
-      {
-         "key":3,
-         "value":"Messaggio Verificato"
-      },
-      {
-         "key":4,
-         "value":"Ripeti"
-      },
-      {
-         "key":5,
-         "value":"Aspetta"
-      },
-      {
-         "key":6,
-         "value":"Out"
-      },
-      {
-         "key":7,
-         "value":"Si"
-      },
-      {
-         "key":8,
-         "value":"No"
-      },
-      {
-         "key":10,
-         "value":"Nuovo Messagggio"
-      },
-      {
-         "key":11,
-         "value":"Fine del Messaggio"
-      }
-   ]
+  "header": "[Community] Korean",
+  "pairs": [
+    {
+      "key": -1,
+      "value": "유효하지 않음"
+    },
+    {
+      "key": 0,
+      "value": "언캐시드"
+    },
+    {
+      "key": 20,
+      "value": "플레이"
+    },
+    {
+      "key": 21,
+      "value": "매뉴얼"
+    },
+    {
+      "key": 22,
+      "value": "옵션"
+    },
+    {
+      "key": 23,
+      "value": "편집기"
+    },
+    {
+      "key": 24,
+      "value": "창작마당"
+    },
+    {
+      "key": 25,
+      "value": "크레딧"
+    },
+    {
+      "key": 26,
+      "value": "종료"
+    },
+    {
+      "key": 4,
+      "value": "뉴스"
+    },
+    {
+      "key": 3,
+      "value": "버전"
+    },
+    {
+      "key": 5,
+      "value": "언어"
+    },
+    {
+      "key": 6,
+      "value": "켜짐"
+    },
+    {
+      "key": 7,
+      "value": "꺼짐"
+    },
+    {
+      "key": 8,
+      "value": "활성화"
+    },
+    {
+      "key": 9,
+      "value": "비활성화"
+    },
+    {
+      "key": 10,
+      "value": "표시"
+    },
+    {
+      "key": 11,
+      "value": "숨기기"
+    },
+    {
+      "key": 12,
+      "value": "전체"
+    },
+    {
+      "key": 13,
+      "value": "예"
+    },
+    {
+      "key": 14,
+      "value": "아니요"
+    },
+    {
+      "key": 15,
+      "value": "시간"
+    },
+    {
+      "key": 16,
+      "value": "시작"
+    },
+    {
+      "key": 17,
+      "value": "플레이 시간"
+    },
+    {
+      "key": 18,
+      "value": "무작위"
+    },
+    {
+      "key": 19,
+      "value": "게시하기"
+    },
+    {
+      "key": 1,
+      "value": "뒤로"
+    },
+    {
+      "key": 2,
+      "value": "나가기"
+    },
+    {
+      "key": 27,
+      "value": "오디오"
+    },
+    {
+      "key": 28,
+      "value": "비디오"
+    },
+    {
+      "key": 29,
+      "value": "키보드"
+    },
+    {
+      "key": 30,
+      "value": "마우스"
+    },
+    {
+      "key": 31,
+      "value": "게임"
+    },
+    {
+      "key": 32,
+      "value": "물"
+    },
+    {
+      "key": 33,
+      "value": "후처리"
+    },
+    {
+      "key": 34,
+      "value": "마스터 볼륨"
+    },
+    {
+      "key": 35,
+      "value": "음악 볼륨"
+    },
+    {
+      "key": 36,
+      "value": "효과음 볼륨"
+    },
+    {
+      "key": 37,
+      "value": "VOIP 볼륨"
+    },
+    {
+      "key": 38,
+      "value": "사용자 인터페이스 볼륨"
+    },
+    {
+      "key": 39,
+      "value": "마이크 볼륨"
+    },
+    {
+      "key": 40,
+      "value": "Push To Talk(PTT)"
+    },
+    {
+      "key": 41,
+      "value": "PTT 상태 표시"
+    },
+    {
+      "key": 42,
+      "value": "모스 입력 표시"
+    },
+    {
+      "key": 43,
+      "value": "게임 해상도"
+    },
+    {
+      "key": 44,
+      "value": "디스플레이 모드"
+    },
+    {
+      "key": 45,
+      "value": "수직 동기화"
+    },
+    {
+      "key": 46,
+      "value": "프레임 제한"
+    },
+    {
+      "key": 47,
+      "value": "텍스처 해상도"
+    },
+    {
+      "key": 48,
+      "value": "비등방성 필터링"
+    },
+    {
+      "key": 49,
+      "value": "그림자"
+    },
+    {
+      "key": 50,
+      "value": "전체 화면"
+    },
+    {
+      "key": 51,
+      "value": "테두리 없는 창"
+    },
+    {
+      "key": 52,
+      "value": "최대화된 창"
+    },
+    {
+      "key": 53,
+      "value": "창"
+    },
+    {
+      "key": 54,
+      "value": "모든 프레임"
+    },
+    {
+      "key": 55,
+      "value": "다른 모든 프레임"
+    },
+    {
+      "key": 56,
+      "value": "낮추기"
+    },
+    {
+      "key": 57,
+      "value": "낮음"
+    },
+    {
+      "key": 58,
+      "value": "보통"
+    },
+    {
+      "key": 59,
+      "value": "높음"
+    },
+    {
+      "key": 60,
+      "value": "매우 높음"
+    },
+    {
+      "key": 61,
+      "value": "울트라"
+    },
+    {
+      "key": 62,
+      "value": "오버킬"
+    },
+    {
+      "key": 63,
+      "value": "최대"
+    },
+    {
+      "key": 64,
+      "value": "카메라 회전 감도"
+    },
+    {
+      "key": 65,
+      "value": "커서 상호작용 감도"
+    },
+    {
+      "key": 66,
+      "value": "스크롤 감도"
+    },
+    {
+      "key": 67,
+      "value": "커서 크기"
+    },
+    {
+      "key": 68,
+      "value": "축 반전"
+    },
+    {
+      "key": 69,
+      "value": "지도 선 크기"
+    },
+    {
+      "key": 70,
+      "value": "지도 글꼴 크기"
+    },
+    {
+      "key": 71,
+      "value": "플레이어 태그 표시"
+    },
+    {
+      "key": 72,
+      "value": "도구 도움말 표시"
+    },
+    {
+      "key": 73,
+      "value": "프레임 표시"
+    },
+    {
+      "key": 74,
+      "value": "게임 시작 시 튜토리얼 표시"
+    },
+    {
+      "key": 75,
+      "value": "카메라 흔들림"
+    },
+    {
+      "key": 76,
+      "value": "시야각"
+    },
+    {
+      "key": 77,
+      "value": "메뉴 배경 불투명도"
+    },
+    {
+      "key": 78,
+      "value": "물 해상도"
+    },
+    {
+      "key": 79,
+      "value": "물 분사 입자 수"
+    },
+    {
+      "key": 80,
+      "value": "다이나믹 폼 품질"
+    },
+    {
+      "key": 81,
+      "value": "물 미리보기"
+    },
+    {
+      "key": 82,
+      "value": "SSAO"
+    },
+    {
+      "key": 83,
+      "value": "화면 공간 반사"
+    },
+    {
+      "key": 84,
+      "value": "안티 앨리어싱"
+    },
+    {
+      "key": 85,
+      "value": "블룸"
+    },
+    {
+      "key": 86,
+      "value": "밝기 보정"
+    },
+    {
+      "key": 87,
+      "value": "음영"
+    },
+    {
+      "key": 88,
+      "value": "모션 블러"
+    },
+    {
+      "key": 89,
+      "value": "피사계 심도"
+    },
+    {
+      "key": 90,
+      "value": "빛 굴절"
+    },
+    {
+      "key": 91,
+      "value": "언어 폴더 열기"
+    },
+    {
+      "key": 92,
+      "value": "언어 리로드"
+    },
+    {
+      "key": 93,
+      "value": "모든 설정 초기화"
+    },
+    {
+      "key": 94,
+      "value": "로비 찾기"
+    },
+    {
+      "key": 95,
+      "value": "로비 만들기"
+    },
+    {
+      "key": 96,
+      "value": "필터"
+    },
+    {
+      "key": 97,
+      "value": "로비 거리"
+    },
+    {
+      "key": 98,
+      "value": "비밀번호"
+    },
+    {
+      "key": 99,
+      "value": "봇"
+    },
+    {
+      "key": 100,
+      "value": "전체 로비"
+    },
+    {
+      "key": 101,
+      "value": "스타일"
+    },
+    {
+      "key": 102,
+      "value": "캐주얼"
+    },
+    {
+      "key": 103,
+      "value": "하드코어"
+    },
+    {
+      "key": 104,
+      "value": "롤플레잉"
+    },
+    {
+      "key": 105,
+      "value": "닫기"
+    },
+    {
+      "key": 106,
+      "value": "기본값"
+    },
+    {
+      "key": 107,
+      "value": "멀리"
+    },
+    {
+      "key": 108,
+      "value": "전 세계"
+    },
+    {
+      "key": 111,
+      "value": "제목"
+    },
+    {
+      "key": 112,
+      "value": "설명"
+    },
+    {
+      "key": 113,
+      "value": "공개 여부"
+    },
+    {
+      "key": 114,
+      "value": "로비에 친구 초대 가능"
+    },
+    {
+      "key": 115,
+      "value": "비공개"
+    },
+    {
+      "key": 116,
+      "value": "친구에게만 공개"
+    },
+    {
+      "key": 117,
+      "value": "공개"
+    },
+    {
+      "key": 109,
+      "value": "새로 고침"
+    },
+    {
+      "key": 110,
+      "value": "만들기"
+    },
+    {
+      "key": 118,
+      "value": "미션 브리핑"
+    },
+    {
+      "key": 119,
+      "value": "난이도 설정"
+    },
+    {
+      "key": 120,
+      "value": "시나리오"
+    },
+    {
+      "key": 121,
+      "value": "명령"
+    },
+    {
+      "key": 122,
+      "value": "일반"
+    },
+    {
+      "key": 123,
+      "value": "시간 및 날짜"
+    },
+    {
+      "key": 124,
+      "value": "날씨"
+    },
+    {
+      "key": 125,
+      "value": "미션"
+    },
+    {
+      "key": 126,
+      "value": "난이도"
+    },
+    {
+      "key": 127,
+      "value": "게임 모드"
+    },
+    {
+      "key": 128,
+      "value": "일"
+    },
+    {
+      "key": 129,
+      "value": "월"
+    },
+    {
+      "key": 130,
+      "value": "연도"
+    },
+    {
+      "key": 131,
+      "value": "시간"
+    },
+    {
+      "key": 132,
+      "value": "위치"
+    },
+    {
+      "key": 133,
+      "value": "풍속"
+    },
+    {
+      "key": 134,
+      "value": "바람 방향"
+    },
+    {
+      "key": 135,
+      "value": "날짜"
+    },
+    {
+      "key": 136,
+      "value": "안개"
+    },
+    {
+      "key": 137,
+      "value": "항법 자동화"
+    },
+    {
+      "key": 138,
+      "value": "아군 사격"
+    },
+    {
+      "key": 139,
+      "value": "봇 활성화"
+    },
+    {
+      "key": 140,
+      "value": "단순화된 통신"
+    },
+    {
+      "key": 141,
+      "value": "사실적인 음성 감소"
+    },
+    {
+      "key": 142,
+      "value": "빠른 교전"
+    },
+    {
+      "key": 143,
+      "value": "엔진 자동화"
+    },
+    {
+      "key": 144,
+      "value": "선단이 주기적으로 변침함"
+    },
+    {
+      "key": 145,
+      "value": "호위함이 항상 능동 소나를 사용함"
+    },
+    {
+      "key": 146,
+      "value": "호위함 추격 시간"
+    },
+    {
+      "key": 147,
+      "value": "선단 크기"
+    },
+    {
+      "key": 148,
+      "value": "현실적인 어뢰 장전 속도"
+    },
+    {
+      "key": 149,
+      "value": "어뢰 결함"
+    },
+    {
+      "key": 150,
+      "value": "제한된 어뢰 정확도"
+    },
+    {
+      "key": 151,
+      "value": "어뢰 격발이 각도에 영향 받음"
+    },
+    {
+      "key": 152,
+      "value": "친구 초대하기"
+    },
+    {
+      "key": 153,
+      "value": "게임 시작"
+    },
+    {
+      "key": 154,
+      "value": "일반"
+    },
+    {
+      "key": 155,
+      "value": "튜토리얼"
+    },
+    {
+      "key": 156,
+      "value": "비스케이만"
+    },
+    {
+      "key": 157,
+      "value": "북해"
+    },
+    {
+      "key": 158,
+      "value": "노르웨이해"
+    },
+    {
+      "key": 159,
+      "value": "발트해"
+    },
+    {
+      "key": 160,
+      "value": "작음"
+    },
+    {
+      "key": 161,
+      "value": "보통"
+    },
+    {
+      "key": 162,
+      "value": "큼"
+    },
+    {
+      "key": 163,
+      "value": "짧음"
+    },
+    {
+      "key": 164,
+      "value": "김"
+    },
+    {
+      "key": 165,
+      "value": "목표"
+    },
+    {
+      "key": 166,
+      "value": "Steam 창작마당에서 미션을 찾아보려면 클릭하세요!"
+    },
+    {
+      "key": 167,
+      "value": "미션을 클립보드로 내보내기"
+    },
+    {
+      "key": 168,
+      "value": "클립보드에서 미션 가져오기"
+    },
+    {
+      "key": 169,
+      "value": "개요"
+    },
+    {
+      "key": 170,
+      "value": "세부 정보"
+    },
+    {
+      "key": 171,
+      "value": "임무 수행 중 발각"
+    },
+    {
+      "key": 172,
+      "value": "어뢰 발사"
+    },
+    {
+      "key": 173,
+      "value": "어뢰 명중"
+    },
+    {
+      "key": 174,
+      "value": "어뢰 명중률"
+    },
+    {
+      "key": 175,
+      "value": "파괴된 상선"
+    },
+    {
+      "key": 176,
+      "value": "파괴된 군함"
+    },
+    {
+      "key": 177,
+      "value": "격침 톤수"
+    },
+    {
+      "key": 178,
+      "value": "미션 시간"
+    },
+    {
+      "key": 179,
+      "value": "클립보드로 내보내기"
+    },
+    {
+      "key": 180,
+      "value": "로비로 돌아가기"
+    },
+    {
+      "key": 181,
+      "value": "미션 재시도"
+    },
+    {
+      "key": 182,
+      "value": "다음 미션"
+    },
+    {
+      "key": 183,
+      "value": "연결 끊기"
+    },
+    {
+      "key": 184,
+      "value": "바인드 재설정"
+    },
+    {
+      "key": 185,
+      "value": "앞으로 이동"
+    },
+    {
+      "key": 186,
+      "value": "왼쪽으로 이동"
+    },
+    {
+      "key": 187,
+      "value": "뒤로 이동"
+    },
+    {
+      "key": 188,
+      "value": "오른쪽으로 이동"
+    },
+    {
+      "key": 189,
+      "value": "실행"
+    },
+    {
+      "key": 190,
+      "value": "지도 켜기/끄기"
+    },
+    {
+      "key": 191,
+      "value": "연결된 클라이언트 표시"
+    },
+    {
+      "key": 192,
+      "value": "스톱워치 1 켜기/끄기"
+    },
+    {
+      "key": 193,
+      "value": "스톱워치 2 켜기/끄기"
+    },
+    {
+      "key": 194,
+      "value": "스톱워치 3 켜기/끄기"
+    },
+    {
+      "key": 195,
+      "value": "스톱워치 4 켜기/끄기"
+    },
+    {
+      "key": 196,
+      "value": "스톱워치 1 초기화"
+    },
+    {
+      "key": 197,
+      "value": "스톱워치 2 초기화"
+    },
+    {
+      "key": 198,
+      "value": "스톱워치 3 초기화"
+    },
+    {
+      "key": 199,
+      "value": "스톱워치 4 초기화"
+    },
+    {
+      "key": 200,
+      "value": "모든 스톱워치 초기화"
+    },
+    {
+      "key": 201,
+      "value": "어뢰 발사"
+    },
+    {
+      "key": 202,
+      "value": "선수 수평타 내리기"
+    },
+    {
+      "key": 203,
+      "value": "선수 수평타 올리기"
+    },
+    {
+      "key": 204,
+      "value": "선미 수평타 내리기"
+    },
+    {
+      "key": 205,
+      "value": "선미 수평타 올리기"
+    },
+    {
+      "key": 206,
+      "value": "손전등 켜기/끄기"
+    },
+    {
+      "key": 207,
+      "value": "식별 매뉴얼 켜기/끄기"
+    },
+    {
+      "key": 208,
+      "value": "손전등 색상 켜기/끄기"
+    },
+    {
+      "key": 209,
+      "value": "미션 목표 표시"
+    },
+    {
+      "key": 210,
+      "value": "선수 수평타 원위치"
+    },
+    {
+      "key": 211,
+      "value": "선미 수평타 원위치"
+    },
+    {
+      "key": 212,
+      "value": "모스 키"
+    },
+    {
+      "key": 213,
+      "value": "모스 싱글 도트"
+    },
+    {
+      "key": 214,
+      "value": "모스 싱글 대시"
+    },
+    {
+      "key": 215,
+      "value": "모스 연속 점"
+    },
+    {
+      "key": 216,
+      "value": "모스 연속 대시"
+    },
+    {
+      "key": 217,
+      "value": "다음 모스 텍스트 페이지"
+    },
+    {
+      "key": 218,
+      "value": "이전 모스 텍스트 페이지"
+    },
+    {
+      "key": 219,
+      "value": "음성 음소거"
+    },
+    {
+      "key": 220,
+      "value": "봇 메뉴 켜기/끄기"
+    },
+    {
+      "key": 221,
+      "value": "봇 메뉴1"
+    },
+    {
+      "key": 222,
+      "value": "봇 메뉴2"
+    },
+    {
+      "key": 223,
+      "value": "봇 메뉴3"
+    },
+    {
+      "key": 224,
+      "value": "지도 주행 거리계 초기화"
+    },
+    {
+      "key": 225,
+      "value": "지도 기호 도구"
+    },
+    {
+      "key": 226,
+      "value": "지도 선 도구"
+    },
+    {
+      "key": 227,
+      "value": "지도 원형 도구"
+    },
+    {
+      "key": 228,
+      "value": "지도 작성 도구"
+    },
+    {
+      "key": 229,
+      "value": "지도 라인 복사 도구"
+    },
+    {
+      "key": 230,
+      "value": "지도 지우개 도구"
+    },
+    {
+      "key": 231,
+      "value": "지도 각도기 도구"
+    },
+    {
+      "key": 232,
+      "value": "지도 퀵툴 기호"
+    },
+    {
+      "key": 233,
+      "value": "퀵툴 라인 매핑"
+    },
+    {
+      "key": 234,
+      "value": "퀵툴 서클 매핑"
+    },
+    {
+      "key": 235,
+      "value": "퀵툴 복사 라인 매핑"
+    },
+    {
+      "key": 236,
+      "value": "지도 퀵툴 지우개"
+    },
+    {
+      "key": 237,
+      "value": "지도 퀵툴 각도기"
+    },
+    {
+      "key": 238,
+      "value": "지도 켜기/끄기 스케치"
+    },
+    {
+      "key": 239,
+      "value": "지도 각도기 팔로우"
+    },
+    {
+      "key": 240,
+      "value": "지도 켜기/끄기 역방향 나침반"
+    },
+    {
+      "key": 241,
+      "value": "지도 켜기/끄기 시간 모드"
+    },
+    {
+      "key": 242,
+      "value": "지도 켜기/끄기 표시 각도"
+    },
+    {
+      "key": 243,
+      "value": "지도 켜기/끄기 스냅"
+    },
+    {
+      "key": 244,
+      "value": "지도 켜기/끄기 거리 표시"
+    },
+    {
+      "key": 245,
+      "value": "지도 켜기/끄기 기호"
+    },
+    {
+      "key": 246,
+      "value": "지도 초기화 각도기 회전"
+    },
+    {
+      "key": 247,
+      "value": "지도 켜기/끄기 중간 지점에서 그리기"
+    },
+    {
+      "key": 248,
+      "value": "지도 켜기/끄기 폴리라인"
+    },
+    {
+      "key": 249,
+      "value": "지도 켜기/끄기 선 스타일"
+    },
+    {
+      "key": 250,
+      "value": "지도 켜기/끄기 각도기 표시"
+    },
+    {
+      "key": 251,
+      "value": "지도 거리 전 각도 입력"
+    },
+    {
+      "key": 252,
+      "value": "잠망경 오버레이 켜기/끄기"
+    },
+    {
+      "key": 253,
+      "value": "잠망경 오버레이 교체"
+    },
+    {
+      "key": 254,
+      "value": "잠명경 오버레이 X 1 증가"
+    },
+    {
+      "key": 255,
+      "value": "잠명경 오버레이 X 1 감소"
+    },
+    {
+      "key": 256,
+      "value": "잠명경 오버레이 X 10 증가"
+    },
+    {
+      "key": 257,
+      "value": "잠망경 오버레이 X 10 감소"
+    },
+    {
+      "key": 258,
+      "value": "잠망경 밝기 높이기"
+    },
+    {
+      "key": 259,
+      "value": "잠망경 밝기 감소하기"
+    },
+    {
+      "key": 260,
+      "value": "노트북 켜기/끄기"
+    },
+    {
+      "key": 261,
+      "value": "선원"
+    },
+    {
+      "key": 262,
+      "value": "어뢰"
+    },
+    {
+      "key": 263,
+      "value": "로비로 돌아가기"
+    },
+    {
+      "key": 264,
+      "value": "참가"
+    },
+    {
+      "key": 265,
+      "value": "가입"
+    },
+    {
+      "key": 266,
+      "value": "선원이 가득 찼습니다."
+    },
+    {
+      "key": 267,
+      "value": "닉네임"
+    },
+    {
+      "key": 268,
+      "value": "커뮤니티"
+    },
+    {
+      "key": 269,
+      "value": "버그 신고하기"
+    },
+    {
+      "key": 270,
+      "value": "선원 옵션"
+    },
+    {
+      "key": 271,
+      "value": "금지 목록 옵션"
+    },
+    {
+      "key": 272,
+      "value": "활동 기록"
+    },
+    {
+      "key": 273,
+      "value": "메인 메뉴로 나가기"
+    },
+    {
+      "key": 274,
+      "value": "나가기"
+    },
+    {
+      "key": 275,
+      "value": "메타데이터"
+    },
+    {
+      "key": 276,
+      "value": "시작 조건"
+    },
+    {
+      "key": 277,
+      "value": "승리 조건"
+    },
+    {
+      "key": 278,
+      "value": "타겟"
+    },
+    {
+      "key": 279,
+      "value": "항상 표시"
+    },
+    {
+      "key": 280,
+      "value": "완료 시 표시"
+    },
+    {
+      "key": 281,
+      "value": "항상 숨김"
+    },
+    {
+      "key": 282,
+      "value": "다른 볼륨 간의 비율을 유지하면서 게임의 전체 볼륨을 높이거나 낮춥니다."
+    },
+    {
+      "key": 283,
+      "value": "음악의 볼륨을 조절합니다."
+    },
+    {
+      "key": 284,
+      "value": "폭발 등 다양한 효과의 볼륨을 조절합니다."
+    },
+    {
+      "key": 285,
+      "value": "수신되는 음성 채팅의 볼륨을 조절합니다."
+    },
+    {
+      "key": 286,
+      "value": "마이크 입력 레벨을 표시합니다."
+    },
+    {
+      "key": 287,
+      "value": "Push-To-Talk는 해당 키를 누르면 마이크를 켜고 끌 수 있습니다."
+    },
+    {
+      "key": 288,
+      "value": "마이크 사용 여부에 대한 힌트를 표시하려면 사용 설정합니다."
+    },
+    {
+      "key": 289,
+      "value": "모스 키를 사용할 때 모스 부호 효과음가 재생되는 효과를 활성화합니다."
+    },
+    {
+      "key": 290,
+      "value": "인코딩된 메시지"
+    },
+    {
+      "key": 291,
+      "value": "메시지 저장"
+    },
+    {
+      "key": 292,
+      "value": "메시지를 보냄으로 표시"
+    },
+    {
+      "key": 293,
+      "value": "복호화된 메시지"
+    },
+    {
+      "key": 294,
+      "value": "채널"
+    },
+    {
+      "key": 295,
+      "value": "에서"
+    },
+    {
+      "key": 296,
+      "value": "To"
+    },
+    {
+      "key": 297,
+      "value": "취소"
+    },
+    {
+      "key": 298,
+      "value": "보내기"
+    },
+    {
+      "key": 299,
+      "value": "저장"
+    },
+    {
+      "key": 300,
+      "value": "삭제"
+    },
+    {
+      "key": 301,
+      "value": "방송"
+    },
+    {
+      "key": 302,
+      "value": "U-96"
+    },
+    {
+      "key": 303,
+      "value": "U-552"
+    },
+    {
+      "key": 304,
+      "value": "U-564"
+    },
+    {
+      "key": 305,
+      "value": "U-307"
+    },
+    {
+      "key": 306,
+      "value": "U-98"
+    },
+    {
+      "key": 307,
+      "value": "U-371"
+    },
+    {
+      "key": 308,
+      "value": "U-706"
+    },
+    {
+      "key": 309,
+      "value": "U-431"
+    },
+    {
+      "key": 310,
+      "value": "동의"
+    },
+    {
+      "key": 311,
+      "value": "거부"
+    },
+    {
+      "key": 312,
+      "value": "거부 및 무시"
+    },
+    {
+      "key": 313,
+      "value": "가입 요청 수락"
+    },
+    {
+      "key": 314,
+      "value": "가입 요청 거부"
+    },
+    {
+      "key": 315,
+      "value": "가입 요청 거부 및 무시"
+    }
+  ],
+  "suffixPairs": [
+    {
+      "key": 0,
+      "value": "°"
+    },
+    {
+      "key": 1,
+      "value": " kts"
+    },
+    {
+      "key": 2,
+      "value": " %"
+    },
+    {
+      "key": 3,
+      "value": " m"
+    },
+    {
+      "key": 4,
+      "value": " t"
+    },
+    {
+      "key": 5,
+      "value": "km"
+    },
+    {
+      "key": 6,
+      "value": "km/h"
+    }
+  ],
+  "morsePairs": [
+    {
+      "key": 0,
+      "value": "Calling anyone"
+    },
+    {
+      "key": 1,
+      "value": "From Channel"
+    },
+    {
+      "key": 9,
+      "value": "Okay"
+    },
+    {
+      "key": 2,
+      "value": "Roger"
+    },
+    {
+      "key": 3,
+      "value": "Message verified"
+    },
+    {
+      "key": 4,
+      "value": "Say again"
+    },
+    {
+      "key": 5,
+      "value": "Wait"
+    },
+    {
+      "key": 6,
+      "value": "Out"
+    },
+    {
+      "key": 7,
+      "value": "Yes"
+    },
+    {
+      "key": 8,
+      "value": "No"
+    },
+    {
+      "key": 10,
+      "value": "새 메시지"
+    },
+    {
+      "key": 11,
+      "value": "Over"
+    }
+  ]
 }
