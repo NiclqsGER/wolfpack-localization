@@ -27,6 +27,9 @@ Special thanks to the following individuals who have contributed to this project
 - [Boxerfada](https://github.com/Boxerfada) (French)
 - [Mrlool23](https://github.com/Mrlool23) (Italian)
 - [RenardS2](https://github.com/RenardS2) (Korean)
+- [VielamChalis](https://github.com/VielamChalis) (Chinese simplified)
+- [KindStone](https://github.com/KindStone) (Russia)
+- [Erzen02](https://github.com/Erzen02) (Japanese)
 - [The entire Wolfpack team for the attention](https://discord.com/invite/RzuApPVrfv)
  
 ## Contributing
