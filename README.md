@@ -30,6 +30,7 @@ Special thanks to the following individuals who have contributed to this project
 - [VielamChalis](https://github.com/VielamChalis) (Chinese simplified)
 - [KindStone](https://github.com/KindStone) (Russia)
 - [Erzen02](https://github.com/Erzen02) (Japanese)
+- [wmundstock](https://github.com/wmundstock) (Portuguese Brazil)
 - [The entire Wolfpack team for the attention](https://discord.com/invite/RzuApPVrfv)
  
 ## Contributing
