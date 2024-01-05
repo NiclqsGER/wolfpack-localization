@@ -28,7 +28,7 @@ Special thanks to the following individuals who have contributed to this project
 - [Mrlool23](https://github.com/Mrlool23) (Italian)
 - [RenardS2](https://github.com/RenardS2) (Korean)
 - [The entire Wolfpack team for the attention](https://discord.com/invite/RzuApPVrfv)
-
+ 
 ## Contributing
 We have initially generated translations using DeepL for version 0.26, but they may contain errors. If you spot any issues or would like to contribute a translation for your language, feel free to submit a pull request. I will review and merge the changes so that every player can enjoy Wolfpack in their preferred language.
 
