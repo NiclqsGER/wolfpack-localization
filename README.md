@@ -12,6 +12,11 @@ Wolfpack is an exciting submarine simulation game that allows players to work to
 ## Project Overview
 Since the release of update 0.26, Wolfpack supports community-created languages. This project aims to create and maintain community-driven translations for Wolfpack in various languages. Our goal is to ensure that players from different countries can enjoy the game in their native language.
 
+## Important information
+At present, only the menu is being translated; hence, in-game tooltips or similar elements are not undergoing translation. These are translated through .xml files. I am not currently certain if this system functions precisely like the .lang files. Consequently, I will refrain from incorporating .xml files at the moment, in addition to the observation that some translations are still absent in the .xml.
+
+Additionally, I would like to note that this system is still somewhat experimental, and translations are loaded late within the menu or similar interfaces.
+
 ## How-To install
 I will publish a video with step-by-step instructions as soon as possible
 
