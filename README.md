@@ -36,6 +36,7 @@ Special thanks to the following individuals who have contributed to this project
 - [KindStone](https://github.com/KindStone) (Russia)
 - [Erzen02](https://github.com/Erzen02) (Japanese)
 - [wmundstock](https://github.com/wmundstock) (Portuguese Brazil)
+- [laxentis](https://github.com/laxentis) (Polish)
 - [The entire Wolfpack team for the attention](https://discord.com/invite/RzuApPVrfv)
  
 ## Contributing
