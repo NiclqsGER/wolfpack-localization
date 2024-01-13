@@ -1,0 +1,1353 @@
+{
+    "header": "Español",
+    "pairs": [
+        {
+            "key": -1,
+            "value": "INVALIDO"
+        },
+        {
+            "key": 0,
+            "value": "SIN ASIGNAR"
+        },
+        {
+            "key": 20,
+            "value": "Jugar"
+        },
+        {
+            "key": 21,
+            "value": "Manual"
+        },
+        {
+            "key": 22,
+            "value": "Opciones"
+        },
+        {
+            "key": 23,
+            "value": "Editor"
+        },
+        {
+            "key": 24,
+            "value": "Workshop"
+        },
+        {
+            "key": 25,
+            "value": "Creditos"
+        },
+        {
+            "key": 26,
+            "value": "Salir"
+        },
+        {
+            "key": 4,
+            "value": "Noticias"
+        },
+        {
+            "key": 3,
+            "value": "Version"
+        },
+        {
+            "key": 5,
+            "value": "Idioma"
+        },
+        {
+            "key": 6,
+            "value": "Encendido"
+        },
+        {
+            "key": 7,
+            "value": "Apagado"
+        },
+        {
+            "key": 8,
+            "value": "Activado"
+        },
+        {
+            "key": 9,
+            "value": "Desactivado"
+        },
+        {
+            "key": 10,
+            "value": "Mostrar"
+        },
+        {
+            "key": 11,
+            "value": "Ocultar"
+        },
+        {
+            "key": 12,
+            "value": "Cualquiera"
+        },
+        {
+            "key": 13,
+            "value": "Si"
+        },
+        {
+            "key": 14,
+            "value": "No"
+        },
+        {
+            "key": 15,
+            "value": "Tiempo"
+        },
+        {
+            "key": 16,
+            "value": "Inicio"
+        },
+        {
+            "key": 17,
+            "value": "Tiempo de juego"
+        },
+        {
+            "key": 18,
+            "value": "Aleatorio"
+        },
+        {
+            "key": 19,
+            "value": "Publicar"
+        },
+        {
+            "key": 1,
+            "value": "Volver"
+        },
+        {
+            "key": 2,
+            "value": "Abandonar"
+        },
+        {
+            "key": 27,
+            "value": "Sonido"
+        },
+        {
+            "key": 28,
+            "value": "Video"
+        },
+        {
+            "key": 29,
+            "value": "Teclado"
+        },
+        {
+            "key": 30,
+            "value": "Raton"
+        },
+        {
+            "key": 31,
+            "value": "Juego"
+        },
+        {
+            "key": 32,
+            "value": "Agua"
+        },
+        {
+            "key": 33,
+            "value": "Post-Procesado"
+        },
+        {
+            "key": 34,
+            "value": "Volumen Maestro"
+        },
+        {
+            "key": 35,
+            "value": "Voluman de la Musica"
+        },
+        {
+            "key": 36,
+            "value": "Volumen de Efectos"
+        },
+        {
+            "key": 37,
+            "value": "Volumen del VOIP"
+        },
+        {
+            "key": 38,
+            "value": "Volumen de la Interface"
+        },
+        {
+            "key": 39,
+            "value": "Volumen del Micrófono"
+        },
+        {
+            "key": 40,
+            "value": "Presionar-para-hablar"
+        },
+        {
+            "key": 41,
+            "value": "Mostrar el Indicador de Presionar-para-hablar"
+        },
+        {
+            "key": 42,
+            "value": "Jugar con radio en morse"
+        },
+        {
+            "key": 43,
+            "value": "Resolución del Juego"
+        },
+        {
+            "key": 44,
+            "value": "Modo de Pantalla"
+        },
+        {
+            "key": 45,
+            "value": "Sincronización Vertical"
+        },
+        {
+            "key": 46,
+            "value": "Límite de tasa de fotogramas"
+        },
+        {
+            "key": 47,
+            "value": "Resolución de Texturas"
+        },
+        {
+            "key": 48,
+            "value": "Filtrado Anisotrópico"
+        },
+        {
+            "key": 49,
+            "value": "Sombras"
+        },
+        {
+            "key": 50,
+            "value": "Pantalla Completa Exclusiva"
+        },
+        {
+            "key": 51,
+            "value": "Ventana Sin Bordes"
+        },
+        {
+            "key": 52,
+            "value": "Ventana Maximizada"
+        },
+        {
+            "key": 53,
+            "value": "Ventana"
+        },
+        {
+            "key": 54,
+            "value": "Cada cuadro"
+        },
+        {
+            "key": 55,
+            "value": "Cuadro por Medio"
+        },
+        {
+            "key": 56,
+            "value": "Más Bajo"
+        },
+        {
+            "key": 57,
+            "value": "Bajo"
+        },
+        {
+            "key": 58,
+            "value": "Medio"
+        },
+        {
+            "key": 59,
+            "value": "Alto"
+        },
+        {
+            "key": 60,
+            "value": "Muy Alto"
+        },
+        {
+            "key": 61,
+            "value": "Ultra"
+        },
+        {
+            "key": 62,
+            "value": "Exagerado"
+        },
+        {
+            "key": 63,
+            "value": "Max"
+        },
+        {
+            "key": 64,
+            "value": "Sensibilidad de Rotación de la Cámara"
+        },
+        {
+            "key": 65,
+            "value": "Sensibilidad de Interacción del Cursor"
+        },
+        {
+            "key": 66,
+            "value": "Intensidad de la Rueda de Desplazamiento"
+        },
+        {
+            "key": 67,
+            "value": "Escala del Puntero"
+        },
+        {
+            "key": 68,
+            "value": "Invertir el Ratón"
+        },
+        {
+            "key": 69,
+            "value": "Escala de Línea del Mapa"
+        },
+        {
+            "key": 70,
+            "value": "Escala de Fuente del Mapa"
+        },
+        {
+            "key": 71,
+            "value": "Mostrar Placas de Identificación"
+        },
+        {
+            "key": 72,
+            "value": "Mostrar Información Sobre Herramientas"
+        },
+        {
+            "key": 73,
+            "value": "Mostrar Contador de Fotogramas"
+        },
+        {
+            "key": 74,
+            "value": "Mostrar Tutorial al Inicio del Juego"
+        },
+        {
+            "key": 75,
+            "value": "Actibar el Balanceo de Cámara"
+        },
+        {
+            "key": 76,
+            "value": "Campo de Vision"
+        },
+        {
+            "key": 77,
+            "value": "Opacidad del Fondo del Menú"
+        },
+        {
+            "key": 78,
+            "value": "Resolución del Agua"
+        },
+        {
+            "key": 79,
+            "value": "Cantidad de Partículas de agua Pulverizada"
+        },
+        {
+            "key": 80,
+            "value": "Calidad de Espuma Dinámica"
+        },
+        {
+            "key": 81,
+            "value": "Vista Previa del Agua"
+        },
+        {
+            "key": 82,
+            "value": "Oclusión Ambiental del Espacio de la Pantalla"
+        },
+        {
+            "key": 83,
+            "value": "Reflexión del Espacio de la Pantalla"
+        },
+        {
+            "key": 84,
+            "value": "Antialiasing"
+        },
+        {
+            "key": 85,
+            "value": "Bloom"
+        },
+        {
+            "key": 86,
+            "value": "Corrección de Brillo"
+        },
+        {
+            "key": 87,
+            "value": "Difusión"
+        },
+        {
+            "key": 88,
+            "value": "Desenfoque de Movimiento"
+        },
+        {
+            "key": 89,
+            "value": "Profundidad de Campo"
+        },
+        {
+            "key": 90,
+            "value": "Aberración Cromática"
+        },
+        {
+            "key": 91,
+            "value": "Abrir Carpeta de Idiomas"
+        },
+        {
+            "key": 92,
+            "value": "Recargar Idiomas"
+        },
+        {
+            "key": 93,
+            "value": "Restablecer Todos los Ajustes"
+        },
+        {
+            "key": 94,
+            "value": "Buscar Lobby"
+        },
+        {
+            "key": 95,
+            "value": "Crear Lobby"
+        },
+        {
+            "key": 96,
+            "value": "Filtros"
+        },
+        {
+            "key": 97,
+            "value": "Distancia al Lobby"
+        },
+        {
+            "key": 98,
+            "value": "Contraseña"
+        },
+        {
+            "key": 99,
+            "value": "Bots"
+        },
+        {
+            "key": 100,
+            "value": "Lobbies Llenos"
+        },
+        {
+            "key": 101,
+            "value": "Estilo de Juego"
+        },
+        {
+            "key": 102,
+            "value": "Casual"
+        },
+        {
+            "key": 103,
+            "value": "Intenso"
+        },
+        {
+            "key": 104,
+            "value": "Juego de Roles"
+        },
+        {
+            "key": 105,
+            "value": "Cerrar"
+        },
+        {
+            "key": 106,
+            "value": "Por Defecto"
+        },
+        {
+            "key": 107,
+            "value": "Lejos"
+        },
+        {
+            "key": 108,
+            "value": "El Mundo Entero"
+        },
+        {
+            "key": 111,
+            "value": "Título"
+        },
+        {
+            "key": 112,
+            "value": "Descripción"
+        },
+        {
+            "key": 113,
+            "value": "Visibilidad"
+        },
+        {
+            "key": 114,
+            "value": "Los amigos pueden invitar al Lobby"
+        },
+        {
+            "key": 115,
+            "value": "Oculto"
+        },
+        {
+            "key": 116,
+            "value": "Solo para Amigos"
+        },
+        {
+            "key": 117,
+            "value": "Público"
+        },
+        {
+            "key": 109,
+            "value": "Actualizar"
+        },
+        {
+            "key": 110,
+            "value": "Crear"
+        },
+        {
+            "key": 118,
+            "value": "Informe de la Misión"
+        },
+        {
+            "key": 119,
+            "value": "Configuración de Dificultad"
+        },
+        {
+            "key": 120,
+            "value": "Escenario"
+        },
+        {
+            "key": 121,
+            "value": "Ordenes"
+        },
+        {
+            "key": 122,
+            "value": "General"
+        },
+        {
+            "key": 123,
+            "value": "Fecha y Hora"
+        },
+        {
+            "key": 124,
+            "value": "Tiempo"
+        },
+        {
+            "key": 125,
+            "value": "Mision"
+        },
+        {
+            "key": 126,
+            "value": "Dificultad"
+        },
+        {
+            "key": 127,
+            "value": "Modo de Juego"
+        },
+        {
+            "key": 128,
+            "value": "Día"
+        },
+        {
+            "key": 129,
+            "value": "Mes"
+        },
+        {
+            "key": 130,
+            "value": "Año"
+        },
+        {
+            "key": 131,
+            "value": "Hora del Día"
+        },
+        {
+            "key": 132,
+            "value": "Ubicación"
+        },
+        {
+            "key": 133,
+            "value": "Velocidad del Viento"
+        },
+        {
+            "key": 134,
+            "value": "Direción del Viento"
+        },
+        {
+            "key": 135,
+            "value": "Fecha"
+        },
+        {
+            "key": 136,
+            "value": "Niebla"
+        },
+        {
+            "key": 137,
+            "value": "Navigación Automática"
+        },
+        {
+            "key": 138,
+            "value": "Fuego Amigo"
+        },
+        {
+            "key": 139,
+            "value": "Bots"
+        },
+        {
+            "key": 140,
+            "value": "Radio Simplificada "
+        },
+        {
+            "key": 141,
+            "value": "Atenuación de Voz Realista"
+        },
+        {
+            "key": 142,
+            "value": "Encuentro Rápido"
+        },
+        {
+            "key": 143,
+            "value": "Motor Automático"
+        },
+        {
+            "key": 144,
+            "value": "El Convoy Cambia Periódicamente de Rumbo"
+        },
+        {
+            "key": 145,
+            "value": "Los Escoltas Siempre Utilizan el Sonar Activo"
+        },
+        {
+            "key": 146,
+            "value": "Tiempo de Persecución de Escolta"
+        },
+        {
+            "key": 147,
+            "value": "Tamaño del Convoy"
+        },
+        {
+            "key": 148,
+            "value": "Velocidad de Recarga de Torpedos Realista"
+        },
+        {
+            "key": 149,
+            "value": "Torpedos Defectuosos"
+        },
+        {
+            "key": 150,
+            "value": "Precisión Limitada Torpedos"
+        },
+        {
+            "key": 151,
+            "value": "La Detonación del Torpedo Depende del Ángulo"
+        },
+        {
+            "key": 152,
+            "value": "Invitar Amigos"
+        },
+        {
+            "key": 153,
+            "value": "Iniciar el Juego"
+        },
+        {
+            "key": 154,
+            "value": "Escaramuza"
+        },
+        {
+            "key": 155,
+            "value": "Tutorial"
+        },
+        {
+            "key": 156,
+            "value": "Bahía de Vizcaya"
+        },
+        {
+            "key": 157,
+            "value": "Mar del Norte"
+        },
+        {
+            "key": 158,
+            "value": "Mar de Noruega"
+        },
+        {
+            "key": 159,
+            "value": "Mar Báltico"
+        },
+        {
+            "key": 160,
+            "value": "Pequeño"
+        },
+        {
+            "key": 161,
+            "value": "Normal"
+        },
+        {
+            "key": 162,
+            "value": "Grande"
+        },
+        {
+            "key": 163,
+            "value": "Corto"
+        },
+        {
+            "key": 164,
+            "value": "Largo"
+        },
+        {
+            "key": 165,
+            "value": "Objetivos"
+        },
+        {
+            "key": 166,
+            "value": "Haga clic para buscar misiones en Steam Workshop!"
+        },
+        {
+            "key": 167,
+            "value": "Exportar misión al portapapeles"
+        },
+        {
+            "key": 168,
+            "value": "Importar misión desde el portapapeles"
+        },
+        {
+            "key": 169,
+            "value": "Descripción General"
+        },
+        {
+            "key": 170,
+            "value": "Detalles"
+        },
+        {
+            "key": 171,
+            "value": "Detectado Durante la Misión"
+        },
+        {
+            "key": 172,
+            "value": "Torpedos Disparados"
+        },
+        {
+            "key": 173,
+            "value": "Impactos de Torpedos"
+        },
+        {
+            "key": 174,
+            "value": "Tasa de Impactos de Torpedos"
+        },
+        {
+            "key": 175,
+            "value": "Merchantes Destruidos"
+        },
+        {
+            "key": 176,
+            "value": "Buques de Guerra Destruidos"
+        },
+        {
+            "key": 177,
+            "value": "Tonelaje Hundido"
+        },
+        {
+            "key": 178,
+            "value": "Tiempo de Mision"
+        },
+        {
+            "key": 179,
+            "value": "Exportar al Portapapeles"
+        },
+        {
+            "key": 180,
+            "value": "Retornar al Lobby"
+        },
+        {
+            "key": 181,
+            "value": "Reintentar Misión"
+        },
+        {
+            "key": 182,
+            "value": "Próxima Misión"
+        },
+        {
+            "key": 183,
+            "value": "Desconectar"
+        },
+        {
+            "key": 184,
+            "value": "Restablecer Configuración"
+        },
+        {
+            "key": 185,
+            "value": "Mover Adelante"
+        },
+        {
+            "key": 186,
+            "value": "Mover a la Izquierda"
+        },
+        {
+            "key": 187,
+            "value": "Mover Atras"
+        },
+        {
+            "key": 188,
+            "value": "Mover a la Derecha"
+        },
+        {
+            "key": 189,
+            "value": "Correr"
+        },
+        {
+            "key": 190,
+            "value": "Alternar Mapa"
+        },
+        {
+            "key": 191,
+            "value": "Mostrar Clientes Conectados"
+        },
+        {
+            "key": 192,
+            "value": "Alternar Cronómetro 1"
+        },
+        {
+            "key": 193,
+            "value": "Alternar Cronómetro 2"
+        },
+        {
+            "key": 194,
+            "value": "Alternar Cronómetro 3"
+        },
+        {
+            "key": 195,
+            "value": "Alternar Cronómetro 4"
+        },
+        {
+            "key": 196,
+            "value": "Restablecer Cronómetro 1"
+        },
+        {
+            "key": 197,
+            "value": "Restablecer Cronómetro 2"
+        },
+        {
+            "key": 198,
+            "value": "Restablecer Cronómetro 3"
+        },
+        {
+            "key": 199,
+            "value": "Restablecer Cronómetro 4"
+        },
+        {
+            "key": 200,
+            "value": "Restablecer Todos los Cronómetros"
+        },
+        {
+            "key": 201,
+            "value": "Disparar Torpedo"
+        },
+        {
+            "key": 202,
+            "value": "Bajar Planos de Inmersión de Proa"
+        },
+        {
+            "key": 203,
+            "value": "Subir Proa Planos de Inmersión"
+        },
+        {
+            "key": 204,
+            "value": "Bajar Popa Planos de Inmersión"
+        },
+        {
+            "key": 205,
+            "value": "Subir Popa Planos de Inmersión"
+        },
+        {
+            "key": 206,
+            "value": "Alternar Linterna"
+        },
+        {
+            "key": 207,
+            "value": "Alternar Manual de Reconocimiento"
+        },
+        {
+            "key": 208,
+            "value": "Alternar Color de la Linterna"
+        },
+        {
+            "key": 209,
+            "value": "Mostrar Objetivos de la Misión "
+        },
+        {
+            "key": 210,
+            "value": "Centrar Planos de Inmersión de Proa"
+        },
+        {
+            "key": 211,
+            "value": "Center Planos de Inmersión de Popa"
+        },
+        {
+            "key": 212,
+            "value": "Tecla de Morse"
+        },
+        {
+            "key": 213,
+            "value": "Un Punto en Morse"
+        },
+        {
+            "key": 214,
+            "value": "Una Línea en Morse"
+        },
+        {
+            "key": 215,
+            "value": "Puntos Continuos en Morse"
+        },
+        {
+            "key": 216,
+            "value": "Líneas Continuas en Morse"
+        },
+        {
+            "key": 217,
+            "value": "Siguiente Página de Texto Morse"
+        },
+        {
+            "key": 218,
+            "value": "Página Anterior de Texto Morse"
+        },
+        {
+            "key": 219,
+            "value": "Silenciar Voz"
+        },
+        {
+            "key": 220,
+            "value": "Alternar Menu de Bots"
+        },
+        {
+            "key": 221,
+            "value": "Menu de Bots 1"
+        },
+        {
+            "key": 222,
+            "value": "Menu de Bots 2"
+        },
+        {
+            "key": 223,
+            "value": "Menu de Bots 3"
+        },
+        {
+            "key": 224,
+            "value": "Mapa: Restablecer Odómetro"
+        },
+        {
+            "key": 225,
+            "value": "Mapa: Herramienta de Símbolos"
+        },
+        {
+            "key": 226,
+            "value": "Mapa: Herramienta de Líneas"
+        },
+        {
+            "key": 227,
+            "value": "Mapa: Herramienta Círculosa"
+        },
+        {
+            "key": 228,
+            "value": "Mapa: Herramienta de Texto"
+        },
+        {
+            "key": 229,
+            "value": "Mapa: Herramienta de Copia de Lineas"
+        },
+        {
+            "key": 230,
+            "value": "Mapa: Herramienta de Borrado"
+        },
+        {
+            "key": 231,
+            "value": "Mapa: Transportador"
+        },
+        {
+            "key": 232,
+            "value": "Mapa: Herramienta Rápida de Símbolo"
+        },
+        {
+            "key": 233,
+            "value": "Mapa: Herramienta Rápida Lineas"
+        },
+        {
+            "key": 234,
+            "value": "Mapa: Herramienta Rápida de Circulos"
+        },
+        {
+            "key": 235,
+            "value": "Mapa: Herramienta Rápida de Copia de Lineas"
+        },
+        {
+            "key": 236,
+            "value": "Mapa: Herramienta Rápida de Borrado"
+        },
+        {
+            "key": 237,
+            "value": "Mapa: Herramienta Rápida de Transportador"
+        },
+        {
+            "key": 238,
+            "value": "Mapa: Alternar Borrador"
+        },
+        {
+            "key": 239,
+            "value": "Mapa: Rotar el Transportador"
+        },
+        {
+            "key": 240,
+            "value": "Mapa: Alternar Reversion de la Brújula"
+        },
+        {
+            "key": 241,
+            "value": "Mapa: Alternar Modo del Tiempo"
+        },
+        {
+            "key": 242,
+            "value": "Mapa: Alternar Mostrar Ángulos"
+        },
+        {
+            "key": 243,
+            "value": "Mapa: Alternar Snap"
+        },
+        {
+            "key": 244,
+            "value": "Mapa: Alternar Mostrar Distancia"
+        },
+        {
+            "key": 245,
+            "value": "Mapa: Alternar Simbolos"
+        },
+        {
+            "key": 246,
+            "value": "Mapa: Restablecer la Rotación del Transportador"
+        },
+        {
+            "key": 247,
+            "value": "Mapa: Alternar Dibujar Desde el Punto Medio"
+        },
+        {
+            "key": 248,
+            "value": "Mapa: Alternar Polilinea"
+        },
+        {
+            "key": 249,
+            "value": "Mapa: Alternar Estilo de Linea"
+        },
+        {
+            "key": 250,
+            "value": "Mapa: Alternar Mostrar Transportador"
+        },
+        {
+            "key": 251,
+            "value": "Mapa: Alternar Mostrar Transportador"
+        },
+        {
+            "key": 252,
+            "value": "Alternar Superposición de Periscopio"
+        },
+        {
+            "key": 253,
+            "value": "Intercambiar Superposición de Periscopio"
+        },
+        {
+            "key": 254,
+            "value": "Aumentar la Superposición de Periscopio X 1"
+        },
+        {
+            "key": 255,
+            "value": "Reducir la Superposición de Periscopio X 1"
+        },
+        {
+            "key": 256,
+            "value": "Aumentar la Superposición de Periscopio X 10"
+        },
+        {
+            "key": 257,
+            "value": "Reducir la Superposición de Periscopio X 10"
+        },
+        {
+            "key": 258,
+            "value": "Aumentar el Brillo del la Mira en el Periscopio"
+        },
+        {
+            "key": 259,
+            "value": "Reducir el Brillo del la Mira en el Periscopio"
+        },
+        {
+            "key": 260,
+            "value": "Alternar Cuaderno"
+        },
+        {
+            "key": 261,
+            "value": "Tripulación"
+        },
+        {
+            "key": 262,
+            "value": "Equipamiento"
+        },
+        {
+            "key": 263,
+            "value": "Abandonar Tripulación"
+        },
+        {
+            "key": 264,
+            "value": "Unirse a Tripulación"
+        },
+        {
+            "key": 265,
+            "value": "Unirse"
+        },
+        {
+            "key": 266,
+            "value": "Tripulación Completa"
+        },
+        {
+            "key": 267,
+            "value": "Apodo"
+        },
+        {
+            "key": 268,
+            "value": "Comunidad"
+        },
+        {
+            "key": 269,
+            "value": "Reportar un Bug"
+        },
+        {
+            "key": 270,
+            "value": "Opciones de Tripulación´"
+        },
+        {
+            "key": 271,
+            "value": "Opciones de Lista de Prohibición"
+        },
+        {
+            "key": 272,
+            "value": "Registro de Actividades"
+        },
+        {
+            "key": 273,
+            "value": "Reanudar"
+        },
+        {
+            "key": 274,
+            "value": "Abandonar el Juego"
+        },
+        {
+            "key": 275,
+            "value": "Metadatos"
+        },
+        {
+            "key": 276,
+            "value": "Condiciones de Inicio"
+        },
+        {
+            "key": 277,
+            "value": "Condiciones de Victoria"
+        },
+        {
+            "key": 278,
+            "value": "Objetivos"
+        },
+        {
+            "key": 279,
+            "value": "Mostrar Siempre"
+        },
+        {
+            "key": 280,
+            "value": "Mostrar al Finalizar"
+        },
+        {
+            "key": 281,
+            "value": "Ocultar Siempre"
+        },
+        {
+            "key": 282,
+            "value": "Aumenta o reduce el volumen general del juego manteniendo las proporciones entre los diferentes volúmenes."
+        },
+        {
+            "key": 283,
+            "value": "Controla el volumen de la música."
+        },
+        {
+            "key": 284,
+            "value": "Controla el volumen de diversos efectos, como explosiones y similares."
+        },
+        {
+            "key": 285,
+            "value": "Controla el volumen del chat de voz entrante."
+        },
+        {
+            "key": 286,
+            "value": "Muestra el nivel de entrada de su micrófono."
+        },
+        {
+            "key": 287,
+            "value": "Presionar-para-hablar activa y desactiva el micrófono cuando se presiona la tecla adecuada."
+        },
+        {
+            "key": 288,
+            "value": "Habilite para mostrar una indicador cuándo su micrófono está habilitado o no."
+        },
+        {
+            "key": 289,
+            "value": "Desactívelo para detener la reproducción del efecto de sonido morse cuando utilice la tecla morse."
+        },
+        {
+            "key": 290,
+            "value": "Mensaje Codificado"
+        },
+        {
+            "key": 291,
+            "value": "Guardar Mensaje"
+        },
+        {
+            "key": 292,
+            "value": "Marcar Mensaje Como Enviado"
+        },
+        {
+            "key": 293,
+            "value": "Mensaje Decodificado"
+        },
+        {
+            "key": 294,
+            "value": "Canal"
+        },
+        {
+            "key": 295,
+            "value": "Desde"
+        },
+        {
+            "key": 296,
+            "value": "Para"
+        },
+        {
+            "key": 297,
+            "value": "Cancelar"
+        },
+        {
+            "key": 298,
+            "value": "Enviar"
+        },
+        {
+            "key": 299,
+            "value": "Guardar"
+        },
+        {
+            "key": 300,
+            "value": "Borrar"
+        },
+        {
+            "key": 301,
+            "value": "Transmitir"
+        },
+        {
+            "key": 302,
+            "value": "U-96"
+        },
+        {
+            "key": 303,
+            "value": "U-552"
+        },
+        {
+            "key": 304,
+            "value": "U-564"
+        },
+        {
+            "key": 305,
+            "value": "U-307"
+        },
+        {
+            "key": 306,
+            "value": "U-98"
+        },
+        {
+            "key": 307,
+            "value": "U-371"
+        },
+        {
+            "key": 308,
+            "value": "U-706"
+        },
+        {
+            "key": 309,
+            "value": "U-431"
+        },
+        {
+            "key": 310,
+            "value": "Aceptar"
+        },
+        {
+            "key": 311,
+            "value": "Rechazar"
+        },
+        {
+            "key": 312,
+            "value": "Rechazar e Ignorar"
+        },
+        {
+            "key": 313,
+            "value": "Aceptar Solicitud de Unión"
+        },
+        {
+            "key": 314,
+            "value": "Rechazar Solicitud de Unión"
+        },
+        {
+            "key": 315,
+            "value": "Rechazar e Ignorar Solicitud de Unión"
+        }
+    ],
+    "suffixPairs": [
+        {
+            "key": 0,
+            "value": "°"
+        },
+        {
+            "key": 1,
+            "value": " nudos"
+        },
+        {
+            "key": 2,
+            "value": " %"
+        },
+        {
+            "key": 3,
+            "value": " metros"
+        },
+        {
+            "key": 4,
+            "value": " toneladas"
+        },
+        {
+            "key": 5,
+            "value": " km"
+        },
+        {
+            "key": 6,
+            "value": " km/h"
+        }
+    ],
+    "morsePairs": [
+        {
+            "key": 0,
+            "value": "Llamando a Cualquiera"
+        },
+        {
+            "key": 1,
+            "value": "Desde el Canal"
+        },
+        {
+            "key": 9,
+            "value": "Encima"
+        },
+        {
+            "key": 2,
+            "value": "Entendido"
+        },
+        {
+            "key": 3,
+            "value": "Mensaje Verificado"
+        },
+        {
+            "key": 4,
+            "value": "Repita"
+        },
+        {
+            "key": 5,
+            "value": "Espere"
+        },
+        {
+            "key": 6,
+            "value": "Afuera"
+        },
+        {
+            "key": 7,
+            "value": "Si"
+        },
+        {
+            "key": 8,
+            "value": "No"
+        },
+        {
+            "key": 10,
+            "value": "Nuevo Mensaje"
+        },
+        {
+            "key": 11,
+            "value": "Fin del Mensaje"
+        }
+    ]
+}
