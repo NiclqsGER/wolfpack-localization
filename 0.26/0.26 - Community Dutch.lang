@@ -1,0 +1,1353 @@
+{
+    "header": "Nederlands",
+    "pairs": [
+        {
+            "key": -1,
+            "value": "ONGELDIG"
+        },
+        {
+            "key": 0,
+            "value": "UNCACHED"
+        },
+        {
+            "key": 20,
+            "value": "Spelen"
+        },
+        {
+            "key": 21,
+            "value": "Handleiding"
+        },
+        {
+            "key": 22,
+            "value": "Instellingen"
+        },
+        {
+            "key": 23,
+            "value": "Missiemaker"
+        },
+        {
+            "key": 24,
+            "value": "Workshop"
+        },
+        {
+            "key": 25,
+            "value": "Credits"
+        },
+        {
+            "key": 26,
+            "value": "Spel afsluiten"
+        },
+        {
+            "key": 4,
+            "value": "Nieuws"
+        },
+        {
+            "key": 3,
+            "value": "Versie"
+        },
+        {
+            "key": 5,
+            "value": "Taal"
+        },
+        {
+            "key": 6,
+            "value": "Aan"
+        },
+        {
+            "key": 7,
+            "value": "Uit"
+        },
+        {
+            "key": 8,
+            "value": "Ingeschakeld"
+        },
+        {
+            "key": 9,
+            "value": "Uitgeschakeld"
+        },
+        {
+            "key": 10,
+            "value": "Toon"
+        },
+        {
+            "key": 11,
+            "value": "Verberg"
+        },
+        {
+            "key": 12,
+            "value": "Elke"
+        },
+        {
+            "key": 13,
+            "value": "Ja"
+        },
+        {
+            "key": 14,
+            "value": "Nee"
+        },
+        {
+            "key": 15,
+            "value": "Tijd"
+        },
+        {
+            "key": 16,
+            "value": "Start"
+        },
+        {
+            "key": 17,
+            "value": "Speeltijd"
+        },
+        {
+            "key": 18,
+            "value": "Willekeurig"
+        },
+        {
+            "key": 19,
+            "value": "Publiceren"
+        },
+        {
+            "key": 1,
+            "value": "Terug"
+        },
+        {
+            "key": 2,
+            "value": "Verlaten"
+        },
+        {
+            "key": 27,
+            "value": "Audio"
+        },
+        {
+            "key": 28,
+            "value": "Video"
+        },
+        {
+            "key": 29,
+            "value": "Toetsenbord"
+        },
+        {
+            "key": 30,
+            "value": "Muis"
+        },
+        {
+            "key": 31,
+            "value": "Spel"
+        },
+        {
+            "key": 32,
+            "value": "Water"
+        },
+        {
+            "key": 33,
+            "value": "Post-Processing"
+        },
+        {
+            "key": 34,
+            "value": "Hoofdvolume"
+        },
+        {
+            "key": 35,
+            "value": "Muziek volume"
+        },
+        {
+            "key": 36,
+            "value": "Effecten volume"
+        },
+        {
+            "key": 37,
+            "value": "VOIP-volume"
+        },
+        {
+            "key": 38,
+            "value": "Gebruikersinterface volume"
+        },
+        {
+            "key": 39,
+            "value": "Microfoonvolume"
+        },
+        {
+            "key": 40,
+            "value": "Push-To-Talk"
+        },
+        {
+            "key": 41,
+            "value": "Toon Push-To-Talk hint"
+        },
+        {
+            "key": 42,
+            "value": "Morse invoer afspelen"
+        },
+        {
+            "key": 43,
+            "value": "Schermresolutie"
+        },
+        {
+            "key": 44,
+            "value": "Weergavemodus"
+        },
+        {
+            "key": 45,
+            "value": "Verticale synchronisatie"
+        },
+        {
+            "key": 46,
+            "value": "Beeldverversingssnelheid limiet"
+        },
+        {
+            "key": 47,
+            "value": "Textuurkwaliteit"
+        },
+        {
+            "key": 48,
+            "value": "Anisotrope filtering"
+        },
+        {
+            "key": 49,
+            "value": "Schaduwkwaliteit"
+        },
+        {
+            "key": 50,
+            "value": "Volledig scherm"
+        },
+        {
+            "key": 51,
+            "value": "In kader (grensloos)"
+        },
+        {
+            "key": 52,
+            "value": "In kader"
+        },
+        {
+            "key": 53,
+            "value": "Kader"
+        },
+        {
+            "key": 54,
+            "value": "Elk Frame"
+        },
+        {
+            "key": 55,
+            "value": "Elk ander Frame"
+        },
+        {
+            "key": 56,
+            "value": "Lager"
+        },
+        {
+            "key": 57,
+            "value": "Laag"
+        },
+        {
+            "key": 58,
+            "value": "Medium"
+        },
+        {
+            "key": 59,
+            "value": "Hoog"
+        },
+        {
+            "key": 60,
+            "value": "Zeer hoog"
+        },
+        {
+            "key": 61,
+            "value": "Ultra"
+        },
+        {
+            "key": 62,
+            "value": "Overkill"
+        },
+        {
+            "key": 63,
+            "value": "Maximaal"
+        },
+        {
+            "key": 64,
+            "value": "Camerarotatie snelheid"
+        },
+        {
+            "key": 65,
+            "value": "Cursorinteractie snelheid"
+        },
+        {
+            "key": 66,
+            "value": "Scrollwiel intensiteit"
+        },
+        {
+            "key": 67,
+            "value": "Cursorschaal"
+        },
+        {
+            "key": 68,
+            "value": "muis-as omkeren"
+        },
+        {
+            "key": 69,
+            "value": "Kaartlijn schaal"
+        },
+        {
+            "key": 70,
+            "value": "Kaartlettertype schaal"
+        },
+        {
+            "key": 71,
+            "value": "Toon spelernaam"
+        },
+        {
+            "key": 72,
+            "value": "Toon tooltips"
+        },
+        {
+            "key": 73,
+            "value": "Toon framerate-teller"
+        },
+        {
+            "key": 74,
+            "value": "Tutorial tonen bij start"
+        },
+        {
+            "key": 75,
+            "value": "Camera slingeren inschakelen"
+        },
+        {
+            "key": 76,
+            "value": "Gezichtsveld (FOV)"
+        },
+        {
+            "key": 77,
+            "value": "Menu achtergrond doorzichtigheid"
+        },
+        {
+            "key": 78,
+            "value": "Waterkwaliteit"
+        },
+        {
+            "key": 79,
+            "value": "Buiswater detail"
+        },
+        {
+            "key": 80,
+            "value": "Dynamisch schuimkwaliteit"
+        },
+        {
+            "key": 81,
+            "value": "Water Preview"
+        },
+        {
+            "key": 82,
+            "value": "Bewegingsvervagings-effect"
+        },
+        {
+            "key": 83,
+            "value": "Reflectie"
+        },
+        {
+            "key": 84,
+            "value": "Anti-Aliasing"
+        },
+        {
+            "key": 85,
+            "value": "Bloom"
+        },
+        {
+            "key": 86,
+            "value": "Helderheidscorrectie"
+        },
+        {
+            "key": 87,
+            "value": "Rasteren"
+        },
+        {
+            "key": 88,
+            "value": "Motion Blur"
+        },
+        {
+            "key": 89,
+            "value": "Scherptediepte"
+        },
+        {
+            "key": 90,
+            "value": "Chromatische Aberratie"
+        },
+        {
+            "key": 91,
+            "value": "Open talenfolder"
+        },
+        {
+            "key": 92,
+            "value": "Herlaad talen"
+        },
+        {
+            "key": 93,
+            "value": "Alle instellingen resetten"
+        },
+        {
+            "key": 94,
+            "value": "Lobby zoeken"
+        },
+        {
+            "key": 95,
+            "value": "Lobby maken"
+        },
+        {
+            "key": 96,
+            "value": "Filters"
+        },
+        {
+            "key": 97,
+            "value": "Lobby afstand"
+        },
+        {
+            "key": 98,
+            "value": "Wachtwoord"
+        },
+        {
+            "key": 99,
+            "value": "Bots"
+        },
+        {
+            "key": 100,
+            "value": "Volle lobby's"
+        },
+        {
+            "key": 101,
+            "value": "Speelstijl"
+        },
+        {
+            "key": 102,
+            "value": "Casual"
+        },
+        {
+            "key": 103,
+            "value": "Hardcore"
+        },
+        {
+            "key": 104,
+            "value": "Rollenspel"
+        },
+        {
+            "key": 105,
+            "value": "Dichtbij"
+        },
+        {
+            "key": 106,
+            "value": "Standaard"
+        },
+        {
+            "key": 107,
+            "value": "Ver"
+        },
+        {
+            "key": 108,
+            "value": "Wereldwijd"
+        },
+        {
+            "key": 111,
+            "value": "Titel"
+        },
+        {
+            "key": 112,
+            "value": "Beschrijving"
+        },
+        {
+            "key": 113,
+            "value": "Zichtbaarheid"
+        },
+        {
+            "key": 114,
+            "value": "Vrienden kunnen uitnodigingen versturen"
+        },
+        {
+            "key": 115,
+            "value": "Prive"
+        },
+        {
+            "key": 116,
+            "value": "Alleen voor vrienden"
+        },
+        {
+            "key": 117,
+            "value": "Openbaar"
+        },
+        {
+            "key": 109,
+            "value": "Verversen"
+        },
+        {
+            "key": 110,
+            "value": "Aanmaken"
+        },
+        {
+            "key": 118,
+            "value": "Missie briefing"
+        },
+        {
+            "key": 119,
+            "value": "Moeilijkheidsgraad"
+        },
+        {
+            "key": 120,
+            "value": "Scenario"
+        },
+        {
+            "key": 121,
+            "value": "Orders"
+        },
+        {
+            "key": 122,
+            "value": "Algemeen"
+        },
+        {
+            "key": 123,
+            "value": "Tijd en datum"
+        },
+        {
+            "key": 124,
+            "value": "Weer"
+        },
+        {
+            "key": 125,
+            "value": "Missie"
+        },
+        {
+            "key": 126,
+            "value": "Moeilijkheidsgraad"
+        },
+        {
+            "key": 127,
+            "value": "Spelmodus"
+        },
+        {
+            "key": 128,
+            "value": "Dag"
+        },
+        {
+            "key": 129,
+            "value": "Maand"
+        },
+        {
+            "key": 130,
+            "value": "Jaar"
+        },
+        {
+            "key": 131,
+            "value": "Tijd van de dag"
+        },
+        {
+            "key": 132,
+            "value": "Locatie"
+        },
+        {
+            "key": 133,
+            "value": "Windsnelheid"
+        },
+        {
+            "key": 134,
+            "value": "Windrichting"
+        },
+        {
+            "key": 135,
+            "value": "Datum"
+        },
+        {
+            "key": 136,
+            "value": "Mist"
+        },
+        {
+            "key": 137,
+            "value": "Automatische navigatie"
+        },
+        {
+            "key": 138,
+            "value": "Vriendschappelijk vuur"
+        },
+        {
+            "key": 139,
+            "value": "Niet-Speler bemanningsleden"
+        },
+        {
+            "key": 140,
+            "value": "Eenvoudige radio"
+        },
+        {
+            "key": 141,
+            "value": "Realistische spraakdemping"
+        },
+        {
+            "key": 142,
+            "value": "Snelle onderschepping"
+        },
+        {
+            "key": 143,
+            "value": "Automatische motor"
+        },
+        {
+            "key": 144,
+            "value": "Konvooi verandert regelmatig van richting"
+        },
+        {
+            "key": 145,
+            "value": "Escorts gebruiken altijd actieve sonar"
+        },
+        {
+            "key": 146,
+            "value": "Escort achtervolgingstijd"
+        },
+        {
+            "key": 147,
+            "value": "Konvooigrootte"
+        },
+        {
+            "key": 148,
+            "value": "Realistische torpedo herlaadsnelheid"
+        },
+        {
+            "key": 149,
+            "value": "Defecte torpedo's"
+        },
+        {
+            "key": 150,
+            "value": "Beperkte torpedo nauwkeurigheid"
+        },
+        {
+            "key": 151,
+            "value": "Torpedo trigger afhankelijk van aanvalshoek"
+        },
+        {
+            "key": 152,
+            "value": "Vrienden uitnodigen"
+        },
+        {
+            "key": 153,
+            "value": "Start spel"
+        },
+        {
+            "key": 154,
+            "value": "Skirmish"
+        },
+        {
+            "key": 155,
+            "value": "Tutorial"
+        },
+        {
+            "key": 156,
+            "value": "Golf van Biskaje"
+        },
+        {
+            "key": 157,
+            "value": "Noordzee"
+        },
+        {
+            "key": 158,
+            "value": "Noorse Zee"
+        },
+        {
+            "key": 159,
+            "value": "Oostzee"
+        },
+        {
+            "key": 160,
+            "value": "Klein"
+        },
+        {
+            "key": 161,
+            "value": "Normaal"
+        },
+        {
+            "key": 162,
+            "value": "Groot"
+        },
+        {
+            "key": 163,
+            "value": "Kort"
+        },
+        {
+            "key": 164,
+            "value": "Lang"
+        },
+        {
+            "key": 165,
+            "value": "Doelstellingen"
+        },
+        {
+            "key": 166,
+            "value": "Klik om missies te zoeken op de Steam Workshop!"
+        },
+        {
+            "key": 167,
+            "value": "Exporteer missie naar klembord."
+        },
+        {
+            "key": 168,
+            "value": "Importeer missie van klembord."
+        },
+        {
+            "key": 169,
+            "value": "Overzicht"
+        },
+        {
+            "key": 170,
+            "value": "Details"
+        },
+        {
+            "key": 171,
+            "value": "Gedetecteerd tijdens missie"
+        },
+        {
+            "key": 172,
+            "value": "Torpedo's afgevuurd"
+        },
+        {
+            "key": 173,
+            "value": "Torpedotreffers"
+        },
+        {
+            "key": 174,
+            "value": "Torpedo trefverhouding"
+        },
+        {
+            "key": 175,
+            "value": "Koopvaardijschepen vernietigd"
+        },
+        {
+            "key": 176,
+            "value": "Oorlogsschepen vernietigd"
+        },
+        {
+            "key": 177,
+            "value": "Gezonken tonnage"
+        },
+        {
+            "key": 178,
+            "value": "Missie tijd"
+        },
+        {
+            "key": 179,
+            "value": "Exporteer naar klembord"
+        },
+        {
+            "key": 180,
+            "value": "Terug naar lobby"
+        },
+        {
+            "key": 181,
+            "value": "Missie opnieuw proberen"
+        },
+        {
+            "key": 182,
+            "value": "Volgende missie"
+        },
+        {
+            "key": 183,
+            "value": "Server verlaten"
+        },
+        {
+            "key": 184,
+            "value": "Toetsbindingen resetten"
+        },
+        {
+            "key": 185,
+            "value": "Vooruit"
+        },
+        {
+            "key": 186,
+            "value": "Links"
+        },
+        {
+            "key": 187,
+            "value": "Achteruit"
+        },
+        {
+            "key": 188,
+            "value": "Rechts"
+        },
+        {
+            "key": 189,
+            "value": "Rennen"
+        },
+        {
+            "key": 190,
+            "value": "Kaart tonen/verbergen"
+        },
+        {
+            "key": 191,
+            "value": "Toon verbonden clients"
+        },
+        {
+            "key": 192,
+            "value": "Stopwatch 1 aan/uitzetten"
+        },
+        {
+            "key": 193,
+            "value": "Stopwatch 2 aan/uitzetten"
+        },
+        {
+            "key": 194,
+            "value": "Stopwatch 3 aan/uitzetten"
+        },
+        {
+            "key": 195,
+            "value": "Stopwatch 4 aan/uitzetten"
+        },
+        {
+            "key": 196,
+            "value": "Reset Stopwatch 1"
+        },
+        {
+            "key": 197,
+            "value": "Reset Stopwatch 2"
+        },
+        {
+            "key": 198,
+            "value": "Reset Stopwatch 3"
+        },
+        {
+            "key": 199,
+            "value": "Reset Stopwatch 4"
+        },
+        {
+            "key": 200,
+            "value": "Reset alle stopwatches"
+        },
+        {
+            "key": 201,
+            "value": "Torpedo afvuren"
+        },
+        {
+            "key": 202,
+            "value": "Voorduikroer omlaag"
+        },
+        {
+            "key": 203,
+            "value": "Voorduikroer omhoog"
+        },
+        {
+            "key": 204,
+            "value": "Achterduikroer omlaag"
+        },
+        {
+            "key": 205,
+            "value": "Achterduikroer omhoog"
+        },
+        {
+            "key": 206,
+            "value": "Zaklamp aan/uitzetten"
+        },
+        {
+            "key": 207,
+            "value": "Herkenningshandboek tonen/verbergen"
+        },
+        {
+            "key": 208,
+            "value": "Zaklamp kleur wijzigen"
+        },
+        {
+            "key": 209,
+            "value": "Toon missie doelen"
+        },
+        {
+            "key": 210,
+            "value": "Centreer voorduikroer"
+        },
+        {
+            "key": 211,
+            "value": "Centreer achterduikroer"
+        },
+        {
+            "key": 212,
+            "value": "Morse toets"
+        },
+        {
+            "key": 213,
+            "value": "Morse korte toon"
+        },
+        {
+            "key": 214,
+            "value": "Morse lange toon"
+        },
+        {
+            "key": 215,
+            "value": "Morse doorlopende korte tonen"
+        },
+        {
+            "key": 216,
+            "value": "Morse doorlopende lange tonen"
+        },
+        {
+            "key": 217,
+            "value": "Volgende morse tekstpagina"
+        },
+        {
+            "key": 218,
+            "value": "Vorige morse tekstpagina"
+        },
+        {
+            "key": 219,
+            "value": "Spraak dempen"
+        },
+        {
+            "key": 220,
+            "value": "Bot menu tonen/verbergen"
+        },
+        {
+            "key": 221,
+            "value": "Bot Menu1"
+        },
+        {
+            "key": 222,
+            "value": "Bot Menu2"
+        },
+        {
+            "key": 223,
+            "value": "Bot Menu3"
+        },
+        {
+            "key": 224,
+            "value": "Kaart reset odometer"
+        },
+        {
+            "key": 225,
+            "value": "Kaart symbool tool"
+        },
+        {
+            "key": 226,
+            "value": "Kaart lijn tool"
+        },
+        {
+            "key": 227,
+            "value": "Kaart cirkel tool"
+        },
+        {
+            "key": 228,
+            "value": "Kaart tekst tool"
+        },
+        {
+            "key": 229,
+            "value": "Kaart kopieer lijn tool"
+        },
+        {
+            "key": 230,
+            "value": "Kaart gum tool"
+        },
+        {
+            "key": 231,
+            "value": "Kaart gradenboog"
+        },
+        {
+            "key": 232,
+            "value": "Kaart quicktool symbool"
+        },
+        {
+            "key": 233,
+            "value": "Kaart quicktool lijn"
+        },
+        {
+            "key": 234,
+            "value": "Kaart quicktool cirkel"
+        },
+        {
+            "key": 235,
+            "value": "Kaart quicktool kopieer lijn"
+        },
+        {
+            "key": 236,
+            "value": "Kaart quicktool gum"
+        },
+        {
+            "key": 237,
+            "value": "Kaart quicktool gradenboog"
+        },
+        {
+            "key": 238,
+            "value": "Kaart schetsen aan/uitzetten"
+        },
+        {
+            "key": 239,
+            "value": "Kaart gradenboog volgen"
+        },
+        {
+            "key": 240,
+            "value": "Kaart omgekeerd kompas aan/uitzetten"
+        },
+        {
+            "key": 241,
+            "value": "Kaart tijdmodus aan/uitzetten"
+        },
+        {
+            "key": 242,
+            "value": "Kaart hoek tonen/verbergen"
+        },
+        {
+            "key": 243,
+            "value": "Kaart snap aan/uitzetten"
+        },
+        {
+            "key": 244,
+            "value": "Kaart afstand tonen/verbergen"
+        },
+        {
+            "key": 245,
+            "value": "Kaart symbool tonen/verbergen"
+        },
+        {
+            "key": 246,
+            "value": "Kaart reset gradenboogrotatie"
+        },
+        {
+            "key": 247,
+            "value": "Kaart tekenen vanaf het middelpunt aan/uitzetten"
+        },
+        {
+            "key": 248,
+            "value": "Kaart polylijn aan/uitzetten"
+        },
+        {
+            "key": 249,
+            "value": "Kaart lijnstijl wisselen"
+        },
+        {
+            "key": 250,
+            "value": "Kaart gradenboog tonen/verbergen"
+        },
+        {
+            "key": 251,
+            "value": "Kaart hoek voor afstand invoeren"
+        },
+        {
+            "key": 252,
+            "value": "Periscoop-overlay tonen/verbergen"
+        },
+        {
+            "key": 253,
+            "value": "Periscoop-overlay wisselen"
+        },
+        {
+            "key": 254,
+            "value": "Periscoop-overlay vergroten X 1"
+        },
+        {
+            "key": 255,
+            "value": "Periscoop-overlay verkleinen X 1"
+        },
+        {
+            "key": 256,
+            "value": "Periscoop-overlay vergroten X 10"
+        },
+        {
+            "key": 257,
+            "value": "Periscoop-overlay verkleinen X 10"
+        },
+        {
+            "key": 258,
+            "value": "Periscoophelderheid verhogen"
+        },
+        {
+            "key": 259,
+            "value": "Periscoophelderheid verlagen"
+        },
+        {
+            "key": 260,
+            "value": "Notebook tonen/verbergen"
+        },
+        {
+            "key": 261,
+            "value": "Bemanning"
+        },
+        {
+            "key": 262,
+            "value": "Bewapening"
+        },
+        {
+            "key": 263,
+            "value": "Bemanning verlaten"
+        },
+        {
+            "key": 264,
+            "value": "Aanmonsteren"
+        },
+        {
+            "key": 265,
+            "value": "Toetreden"
+        },
+        {
+            "key": 266,
+            "value": "Bemanning is vol"
+        },
+        {
+            "key": 267,
+            "value": "Bijnaam"
+        },
+        {
+            "key": 268,
+            "value": "Community"
+        },
+        {
+            "key": 269,
+            "value": "Meld een bug"
+        },
+        {
+            "key": 270,
+            "value": "Bemanningsopties"
+        },
+        {
+            "key": 271,
+            "value": "Ban lijst opties"
+        },
+        {
+            "key": 272,
+            "value": "Activiteitenlogboek"
+        },
+        {
+            "key": 273,
+            "value": "Hervatten"
+        },
+        {
+            "key": 274,
+            "value": "Verlaat spel"
+        },
+        {
+            "key": 275,
+            "value": "Metadata"
+        },
+        {
+            "key": 276,
+            "value": "Startcondities"
+        },
+        {
+            "key": 277,
+            "value": "Overwinningsvoorwaarden"
+        },
+        {
+            "key": 278,
+            "value": "Doelen"
+        },
+        {
+            "key": 279,
+            "value": "Altijd tonen"
+        },
+        {
+            "key": 280,
+            "value": "Tonen bij voltooiing"
+        },
+        {
+            "key": 281,
+            "value": "Altijd verborgen"
+        },
+        {
+            "key": 282,
+            "value": "Verhoogt of verlaagt het algemene volume van het spel met behoud van de verhoudingen tussen de verschillende volumes."
+        },
+        {
+            "key": 283,
+            "value": "Regelt het volume van de muziek."
+        },
+        {
+            "key": 284,
+            "value": "Regelt het volume van verschillende effecten, zoals explosies en dergelijke."
+        },
+        {
+            "key": 285,
+            "value": "Regelt het volume van inkomende spraakchat."
+        },
+        {
+            "key": 286,
+            "value": "Geeft het geluidsniveau van de microfoon weer."
+        },
+        {
+            "key": 287,
+            "value": "Push-To-Talk schakelt de microfoon aan en uit wanneer de juiste toets wordt ingedrukt."
+        },
+        {
+            "key": 288,
+            "value": "Inschakelen om een hint te krijgen wanneer de microfoon is uitgeschakeld."
+        },
+        {
+            "key": 289,
+            "value": "Uitschakelen om het morsegeluidseffect niet af te spelen bij het gebruik van de morse-toets."
+        },
+        {
+            "key": 290,
+            "value": "Gecodeerd bericht"
+        },
+        {
+            "key": 291,
+            "value": "Bericht opslaan"
+        },
+        {
+            "key": 292,
+            "value": "Markeer bericht als verzonden"
+        },
+        {
+            "key": 293,
+            "value": "Gedecodeerd bericht"
+        },
+        {
+            "key": 294,
+            "value": "Kanaal"
+        },
+        {
+            "key": 295,
+            "value": "Van"
+        },
+        {
+            "key": 296,
+            "value": "Aan"
+        },
+        {
+            "key": 297,
+            "value": "Annuleren"
+        },
+        {
+            "key": 298,
+            "value": "Verstuur"
+        },
+        {
+            "key": 299,
+            "value": "Opslaan"
+        },
+        {
+            "key": 300,
+            "value": "Verwijder"
+        },
+        {
+            "key": 301,
+            "value": "Uitzending"
+        },
+        {
+            "key": 302,
+            "value": "U-96"
+        },
+        {
+            "key": 303,
+            "value": "U-552"
+        },
+        {
+            "key": 304,
+            "value": "U-564"
+        },
+        {
+            "key": 305,
+            "value": "U-307"
+        },
+        {
+            "key": 306,
+            "value": "U-98"
+        },
+        {
+            "key": 307,
+            "value": "U-371"
+        },
+        {
+            "key": 308,
+            "value": "U-706"
+        },
+        {
+            "key": 309,
+            "value": "U-431"
+        },
+        {
+            "key": 310,
+            "value": "Accepteren"
+        },
+        {
+            "key": 311,
+            "value": "Afwijzen"
+        },
+        {
+            "key": 312,
+            "value": "Afwijzen en negeren"
+        },
+        {
+            "key": 313,
+            "value": "Accepteer toetredingsverzoek"
+        },
+        {
+            "key": 314,
+            "value": "Verzoek om toetreding afwijzen"
+        },
+        {
+            "key": 315,
+            "value": "Verzoek om toetreding afwijzen en negeren"
+        }
+    ],
+    "suffixPairs": [
+        {
+            "key": 0,
+            "value": "°"
+        },
+        {
+            "key": 1,
+            "value": " kts"
+        },
+        {
+            "key": 2,
+            "value": " %"
+        },
+        {
+            "key": 3,
+            "value": " meter"
+        },
+        {
+            "key": 4,
+            "value": " ton"
+        },
+        {
+            "key": 5,
+            "value": "km"
+        },
+        {
+            "key": 6,
+            "value": "km/h"
+        }
+    ],
+    "morsePairs": [
+        {
+            "key": 0,
+            "value": "Oproep aan allen"
+        },
+        {
+            "key": 1,
+            "value": "Van kanaal"
+        },
+        {
+            "key": 9,
+            "value": "Over"
+        },
+        {
+            "key": 2,
+            "value": "Roger"
+        },
+        {
+            "key": 3,
+            "value": "Bericht geverifieerd"
+        },
+        {
+            "key": 4,
+            "value": "Herhaal bericht"
+        },
+        {
+            "key": 5,
+            "value": "Wacht"
+        },
+        {
+            "key": 6,
+            "value": "Uit"
+        },
+        {
+            "key": 7,
+            "value": "Ja"
+        },
+        {
+            "key": 8,
+            "value": "Nee"
+        },
+        {
+            "key": 10,
+            "value": "Nieuw bericht"
+        },
+        {
+            "key": 11,
+            "value": "Einde bericht"
+        }
+    ]
+}
